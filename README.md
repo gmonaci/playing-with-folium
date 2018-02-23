@@ -1,2 +1,2 @@
-# playing-with-folium
-Plotting on leaflet maps from python using folium
+# Playing with folium
+Som examples using using folium to plot from python on leaflet maps
