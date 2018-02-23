@@ -1,0 +1,121 @@
+station_id;station_name;station_number;address;address_precision;zip_code;city;geo_coordinates
+230359;Beaubourg;7;24 rue Beaubourg;Angle impasse Berthaud;75003;PARIS;48.8614627523, 2.35359884799
+230381;Porte de Vanves;62;214 rue Raymond Losserand;;75014;PARIS;48.8280622906, 2.30603121221
+230382;Place Charles Michels;63;48 rue Linois;Angle place Charles Michels;75015;PARIS;48.8468265356, 2.28538691998
+230383;Félix Faure - Boucicault;66;44 avenue Félix Faure;;75015;PARIS;48.8412224935, 2.28809997439
+230390;Etoile - Wagram;82;1 avenue de Wagram;Angle place Charles de Gaulle;75017;PARIS;48.8748452784, 2.2956597805
+230391;Maréchal Juin;83;3 place du Maréchal Juin;Angle rue de Courcelles;75017;PARIS;48.8844463805, 2.29757755995
+230396;Mairie du 18ème;92;30 rue Hermel;Angle place Jules Joffrin;75018;PARIS;48.892551994, 2.3451230675
+230397;Château Rouge;93;1 rue Custine;Angle place du Château Rouge;75018;PARIS;48.8874596847, 2.34916046262
+230398;Porte d'Aubervilliers;97;3 avenue de la porte d'Aubervilliers;;75018;PARIS;48.8993396107, 2.37021781504
+230400;Flandre - Stalingrad;104;13 avenue de Flandre;;75019;PARIS;48.884937587, 2.36947014928
+230405;Père Lachaise - Ménilmontant;113;30 boulevard de Menilmontant;Angle place Auguste Méthivier;75020;PARIS;48.8596399111, 2.38903485239
+230407;Palais Royal;2;1 place André Malraux;Face 161 rue Saint Honoré;75001;PARIS;48.8633843396, 2.33527332544
+230416;Sèvres Babylone;19;1 place Alphonse Deville;Angle boulevard Raspail;75015;PARIS;48.8506734076, 2.32716970146
+230420;Rd Pt des Champs Elysées;29;3 avenue Matignon;Angle rond point des Champs Elysées;75008;PARIS;48.8694044826, 2.31091216207
+230421;Place des Ternes;30;272 rue du faubourg Saint Honoré;;75008;PARIS;48.8777317119, 2.29841373861
+230422;Place de Clichy;33;95 rue de Clichy;Angle place de Clichy;75009;PARIS;48.8833140296, 2.32752844691
+230443;Passy - Costa Rica;80;10 boulevard Delessert;Angle rue Benjamin Franklin;75016;PARIS;48.8586830253, 2.28499598801
+230445;Porte Maillot;84;78 avenue de la Grande Armée;;75017;PARIS;48.8773012933, 2.28439584374
+230451;Place du Tertre;96;119 rue du Mont Cenis;;75018;PARIS;48.8955202845, 2.34596863389
+230452;Porte de Clignancourt;98;1 avenue de la Porte de Clignancourt;;75018;PARIS;48.8982732792, 2.34403945506
+230454;Flandres - Argone;102;154 avenue de Flandre;Angle rue de l'Argone;75019;PARIS;48.8941730472, 2.38145492971
+230463;Porte Dorée;50;1 place Edouard Renard;;75012;PARIS;48.8354478959, 2.40722626448
+230465;Château de Vincennes;47;7 avenue de Nogent;Face à la gare routière de bus;75012;PARIS;48.844501413, 2.44113475084
+230467;Maison de la Radio;75;1 avenue de Versailles;Au pied de Radio France;75016;PARIS;48.8515801462, 2.27861434221
+230356;Place Vendôme;4;23 place Vendôme;Côté rue de la Paix;75001;PARIS;48.8678774604, 2.32981905341
+230364;Tour Eiffel;20;69 quai Branly;Au pied de la Tour Eiffel;75007;PARIS;48.8584814108, 2.29271605611
+230371;Nation;38;3 avenue du Trône;Angle place de la Nation;75011;PARIS;48.8483881771, 2.39770576358
+230372;Hôpital Saint Antoine;40;35 rue Faidherbe;;75011;PARIS;48.8502498161, 2.38444022834
+230373;Bastille;44;8 place de la Bastille;Au pied de l'Opéra Bastille;75012;PARIS;48.8530379533, 2.36982822418
+230374;Daumesnil - Félix Eboué;45;3 place Felix Eboué;;75012;PARIS;48.8399320496, 2.39551775157
+230375;Bercy - Palais Omnisport;46;1 quai de Bercy;Angle boulevard de Bercy, au pied du palais omnisport;75012;PARIS;48.8400547403, 2.37894505262
+230401;Mairie du 19 ème;105;1 avenue de Laumière;;75019;PARIS;48.8827055127, 2.38151863217
+230404;Pelleport - Gambetta;112;2 place Paul Signac;Angle avenue Gambetta;75020;PARIS;48.8680106687, 2.40146756172
+230406;Pyrénées - Avron;116;67 rue des Pyrénées;Angle rue d'Avron;75020;PARIS;48.8529108822, 2.40598976612
+230410;Saint Paul;8;10 rue de Rivoli;Angle rue Saint Antoine;75004;PARIS;48.8553944457, 2.36033253372
+230412;Maubert Mutualité;11;60 boulevard Saint Germain;Angle rue Lagrange;75005;PARIS;48.849991247, 2.34894454479
+230424;Place Franz Liszt;37;5 place Franz Liszt;;75010;PARIS;48.877872391, 2.35125929117
+230427;Saint Ambroise;43;55 boulevard Voltaire;Angle rue Saint Sébastien;75011;PARIS;48.8620053567, 2.37317360938
+230433;Porte de Choisy;57;36 avenue de la Porte de Choisy;Angle boulevard Massena;75013;PARIS;48.8197078113, 2.36511826515
+230434;Place Coluche Amiral Mouchez;60;1 rue de l'Amiral Mouchez;Angle place Coluche;75014;PARIS;48.8262978297, 2.34168916941
+230435;Plaisance;61;126 rue Raymond Losserand;Angle rue d'Alésia;75014;PARIS;48.8316479675, 2.31375798583
+230436;Porte de Versailles;64;378 rue de Vaugirard;;75015;PARIS;48.833232152, 2.28903740644
+230447;Porte de Clichy;89;1 avenue de la porte de Clichy;Angle boulevard Berthier;75017;PARIS;48.89427753, 2.31346160173
+230449;Guy Môquet;94;86 avenue de Saint Ouen;;75018;PARIS;48.8926511897, 2.32738427818
+230455;Place du Colonel Fabien;106;120 boulevard de la Villette;Angle place du Colonel Fabien;75019;PARIS;48.8775416402, 2.37089574337
+230462;Place Vauban;26;2 avenue de Tourville;Angle place Vauban;75007;PARIS;48.8537950784, 2.31277227402
+230464;Hôpital Saint Louis;36;1 avenue Claude Vellefaux;Hôpital St Louis;75010;PARIS;48.8730745266, 2.37004548311
+230466;Sèvres Lecourbe;71;1 place Henri Queuille;Angle boulevard Pasteur;75015;PARIS;48.8451805594, 2.31174834073
+230470;Place de l' Alma;28;1 avenue George V;Angle place de l' Alma;75008;PARIS;48.8647081451, 2.3014010489
+230355;Châtelet;1;1 place du Châtelet;Face 12 avenue Victoria;75001;PARIS;48.8578187684, 2.34725475311
+230362;Port Royal - Observatoire;17;20 avenue de l'Observatoire;Angle boulevard du Montparnasse;75006;PARIS;48.8401372695, 2.33655408025
+230367;Madeleine;27;4 boulevard Malesherbes;Angle place de la Madeleine;75008;PARIS;48.8706654979, 2.32283525169
+230369;Saint Augustin;32;44 boulevard Malesherbes;Angle place Saint Augustin;75008;PARIS;48.8746402007, 2.32002697885
+230376;Porte de Vincennes;51;86 boulevard Soult;;75012;PARIS;48.8464783698, 2.41114497185
+230377;Glacière;54;125 boulevard Auguste Blanqui;;75013;PARIS;48.8309072812, 2.34390467405
+230385;La Motte Piquet Grenelle;68;66 avenue de la Motte Picquet;Angle rue de Pondichery;75015;PARIS;48.8493770298, 2.29823671281
+230387;Mozart - Jasmin;76;80 avenue Mozart;Angle rue de l'Yvette;75016;PARIS;48.852383622, 2.26805582643
+230388;Place de Barcelone;77;3 rue Mirabeau;Angle place de Barcelone;75016;PARIS;48.8470586447, 2.27265045047
+230395;Villiers - Courcelles;91;1 avenue de Villiers;;75017;PARIS;48.8815484283, 2.31510445476
+230409;Strasbourg Saint Denis;6;19 boulevard Saint Denis;Angle porte Saint Denis;75002;PARIS;48.8696364871, 2.35276937485
+230411;Place Saint Michel;9;29 quai Saint Michel;;75005;PARIS;48.8537513985, 2.34434790909
+230413;Tournelle;14;15 quai de la Tournelle;;75005;PARIS;48.8499705085, 2.35491849482
+230415;Mabillon;16;2 rue du Four;;75006;PARIS;48.8530878109, 2.33576014638
+230425;Mairie 11ème- Léon Blum;41;12 place Léon Blum;Avenue Parmentier;75011;PARIS;48.8579850916, 2.38020636141
+230428;Cour Saint Emilion;48;12 rue des Pirogues de Bercy;Angle rue de Libourne;75012;PARIS;48.8320492048, 2.3861092329
+230429;Mairie du 12ème;49;130 avenue Daumesnil;;75012;PARIS;48.8413063447, 2.38795995712
+230432;Porte d'Italie;56;166 boulevard Masséna;;75013;PARIS;48.819204485, 2.3599845171
+230442;Porte d'Auteuil;79;144 boulevard Exelmans;Angle avenue d'Auteuil;75016;PARIS;48.8477271661, 2.25975036621
+230446;Courcelles - Chazelles;85;94 boulevard de Courcelles;Angle rue de Chazelles;75017;PARIS;48.8792945944, 2.30338320136
+230448;Porte de Saint Ouen;90;1 avenue de la porte de Saint Ouen;;75017;PARIS;48.8975935307, 2.32879042625
+230453;Porte des Lilas;101;1 avenue de la Porte des lilas;Angle boulevard Serrurier;75019;PARIS;48.8774058113, 2.40710556507
+230457;Belleville - Pyrénées;110;360 rue des Pyrénées;;75020;PARIS;48.8739473408, 2.38579943776
+230459;Porte de Bagnolet;114;6 place de la Porte de Bagnolet;Face au Sqaure Séverine;75020;PARIS;48.8647703423, 2.40916550159
+230472;Etienne Marcel;117;28 Rue Étienne Marcel;;75002;PARIS;48.8644386227, 2.34684973955
+230460;Porte de Montreuil;115;1 avenue de la Porte de Montreuil;Angle boulevard Davout;75020;PARIS;48.8536741863, 2.41106182337
+230468;Porte de la Chapelle;99;188 rue de la Chapelle;Angle boulevard Ney;75018;PARIS;48.8981436781, 2.35916107893
+230357;Opéra;5;2 place de l'Opéra;Angle boulevard des Capucines;75002;PARIS;48.870701224, 2.33255758882
+230361;Place Monge;13;75 bis rue Monge;;75005;PARIS;48.8432326776, 2.35222488642
+230365;Bac - Saint Germain;22;50 rue du Bac;Angle boulevard Saint Germain;75007;PARIS;48.8561215342, 2.32587955892
+230366;La Tour Maubourg - Invalides;25;1 place Salvador Allende;;75007;PARIS;48.858057003, 2.31000356376
+230368;Place Rio de Janeiro;31;34 avenue de Messine;Angle place Rio de Janeiro;75008;PARIS;48.8771447364, 2.31135740876
+230370;Notre Dame de Lorette;35;1 rue Flechier;;75009;PARIS;48.8766433101, 2.33933351934
+230379;Denfert  Rochereau;58;2 place Denfert Rochereau;Face 297 boulevard Raspail, square Lamark;75014;PARIS;48.8348335002, 2.33218207955
+230386;La Muette;72;11 chaussée de la Muette;Angle avenue Mozart;75016;PARIS;48.8581262673, 2.27406263351
+230393;Porte d' Asnières;87;100 boulevard Berthier;Sur passage souterrain;75017;PARIS;48.8898767225, 2.30358101428
+230408;Concorde - Rivoli;3;252 rue de Rivoli;;75001;PARIS;48.8662815797, 2.32429102063
+230414;Saint Germain des Prés;15;151 boulevard Saint Germain;Brasserie Lipp;75006;PARIS;48.8537968433, 2.33272321522
+230417;Alma - Branly;21;2 avenue Bosquet;Angle place de la Résistance;75007;PARIS;48.8618624273, 2.30195224285
+230418;Ecole Militaire;23;28 avenue de Tourville;Angle place de l'Ecole Militaire;75007;PARIS;48.8541489291, 2.30635844171
+230419;Gare des Invalides;24;4 rue Robert Esnault Pelterie;A coté de l'Aérorare de bus des Invalides;75007;PARIS;48.8621196117, 2.31509774923
+230426;Philippe Auguste;42;97 avenue Philippe Auguste;Angle rue de Charonne;75011;PARIS;48.855821082, 2.3912845552
+230430;Place d'Italie;52;213 boulevard Vincent Auriol;Angle place d'Italie;75013;PARIS;48.8312670319, 2.35672697425
+230438;Mairie du 15ème;69;252 rue de Vaugirard;Angle rue du Général Beuret;75015;PARIS;48.8398698215, 2.30200655758
+230469;Flandre - Riquet;103;69 avenue de Flandre;;75019;PARIS;48.8886999633, 2.3740580678
+230471;Gobelins;10;92 boulevard Saint Marcel;Angle avenue des Gobelins;75005;PARIS;48.8368655674, 2.35187217593
+230473;Bibliothèque Francois Mitterand;118;110 Avenue de France;;75013;PARIS;48.8304901437, 2.37708359957
+230474;Hôtel de Ville;119;4 Rue de Lobau;;75004;PARIS;48.8567466984, 2.35376447439
+230360;Panthéon;12;26 rue Soufflot;Angle boulevard Saint Michel;75005;PARIS;48.8473565019, 2.34084360301
+230363;Rennes - Montparnasse;18;1 place du dix huit Juin 1940;Angle boulevard du Montparnasse, au pied de la Tour Montparnasse;75006;PARIS;48.843522614, 2.32368953526
+230378;Patay - Tolbiac;55;119 rue de Patay;Angle rue de Tolbiac;75013;PARIS;48.8279351561, 2.37093195319
+230380;Porte d'Orléans;59;1 place du vingt cinq Août 1944;;75014;PARIS;48.822611111, 2.32571393251
+230384;Hôpital Georges Pompidou;67;32 rue Leblanc;Hôpital Georges Pompidou;75015;PARIS;48.8393411, 2.27505974472
+230389;Place Victor Hugo;78;12 place Victor Hugo;Angle avenue Victor Hugo;75016;PARIS;48.869568562, 2.28490680456
+230392;Pont Cardinet;86;167 rue de Rome;Angle rue Cardinet, gare SNCF;75017;PARIS;48.8873058051, 2.31437556446
+230394;Porte de Champerret;88;1 boulevard Gouvion Saint Cyr;Angle avenue de la porte de Champerret;75017;PARIS;48.885453481, 2.29148894548
+230399;Buttes Chaumont - Botzaris;100;1 rue du Général Brunet;Angle rue de Crimée;75019;PARIS;48.8797448401, 2.3896484077
+230402;Porte de la Villette;108;3 avenue de la porte de la Villette;;75019;PARIS;48.8988128396, 2.3865263164
+230403;Mairie du 20ème - Gambetta;109;18 avenue du Père Lachaise;Angle place Gambetta;75020;PARIS;48.8644994969, 2.39818453789
+230423;Trinité - d'Estienne d'Orves;34;2 place d'Estienne d'Orves;;75009;PARIS;48.876374734, 2.33174353838
+230431;Abbé Georges Hénocque;53;8 place de l'Abbé Georges Hénocque;;75013;PARIS;48.8236335835, 2.35312342644
+230437;Convention - Vaugirard;65;304 rue de Vaugirard;Angle rue Ferdinand Fabre;75015;PARIS;48.8378506754, 2.29749508202
+230439;Place Balard;70;3 place Balard;Angle avenue Félix Faure;75015;PARIS;48.836918972, 2.2789234668
+230440;Porte de Saint Cloud;73;5 place de la Porte de Saint Cloud;Angle boulevard Murat;75016;PARIS;48.8374684629, 2.25752480328
+230441;Henri Martin;74;78 avenue Henri Martin;;75016;PARIS;48.8643106983, 2.2726149112
+230444;Trocadéro;81;1 avenue d'Eylau;Angle place du Trocadéro;75016;PARIS;48.8634443329, 2.28630691767
+230450;Marx Dormoy - Ordener;95;76 rue Marx Dormoy;Angle rue de Riquet;75018;PARIS;48.8899790097, 2.36003682017
+230456;Porte de Pantin;107;221 avenue Jean Jaurès;;75019;PARIS;48.8891756965, 2.39378705621
+230458;Ménilmontant - Belleville;111;148 boulevard de Ménilmontant;Angle rue de Ménilmontant;75020;PARIS;48.8667897264, 2.38344177604
+230461;République;39;10 place de la République;;75011;PARIS;48.8670142444, 2.36380934715
+230475;République Temple;120;2-4 Rue du Faubourg du Temple;;75010;PARIS;48.8677292547, 2.36463144422

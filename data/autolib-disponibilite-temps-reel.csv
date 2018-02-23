@@ -1,0 +1,1120 @@
+Address;Cars;Bluecar counter;Utilib counter;Utilib 1.4 counter;Charge Slots;Charging Status;City;Displayed comment;ID;Kind;Geo point;Postal code;Public name;Rental status;Scheduled at;Slots;Station type;Status;Subscription status
+106 Boulevard Voltaire;1;1;0;0;0;operational;Paris;;paris-voltaire-106;SPACE;48.8592806, 2.3773563;75011;Paris/Voltaire/106;operational;;4;full_station;ok;operational
+245 rue de Tolbiac;1;1;0;0;1;operational;Paris;;paris-tolbiac-245;STATION;48.8262319, 2.3424498;75013;Paris/Tolbiac/245;operational;;4;station;ok;nonexistent
+172 boulevard Diderot;2;2;0;2;0;operational;Paris;;paris-diderot-172;SPACE;48.8480068, 2.3940643;75012;Paris/Diderot/172;operational;;1;full_station;ok;operational
+58 Rue Monge;0;0;0;0;1;operational;Paris;;paris-monge-58;STATION;48.8444276, 2.3522773;75005;Paris/Monge/58;operational;;4;station;ok;nonexistent
+2 Place de Catalogne;1;1;0;0;1;operational;Paris;;paris-catalogne-2;SPACE;48.8367951, 2.3186569;75014;Paris/Catalogne/2;operational;;4;full_station;ok;operational
+2 Avenue René Fonck;5;5;0;0;0;operational;Paris;;paris-renefonck-2;STATION;48.87869, 2.409082;75019;Paris/René Fonck/2;operational;;0;station;ok;nonexistent
+16 Rue du Faubourg Saint-Antoine;4;4;0;0;1;operational;Paris;;paris-saintantoine-16;STATION;48.8526773, 2.3710901;75012;Paris/Saint-Antoine/16;operational;;1;station;ok;nonexistent
+110 Boulevard Richard Lenoir;2;2;0;0;1;operational;Paris;;paris-richardlenoir-110;STATION;48.8640621, 2.3713985;75011;Paris/Richard Lenoir/110;operational;;4;station;ok;nonexistent
+3 avenue Claude Vellefaux;1;1;0;0;1;operational;Paris;;paris-claudevellefaux-3;STATION;48.8740623, 2.3703034;75010;Paris/Claude Vellefaux/3;operational;;4;station;ok;nonexistent
+63 Boulevard Richard Lenoir;0;0;0;0;2;operational;Paris;;paris-richardlenoir-63;STATION;48.86023, 2.3719914;75011;Paris/Richard Lenoir/63;operational;;6;station;ok;nonexistent
+10 Avenue du Docteur Arnold Netter;1;1;0;0;1;operational;Paris;;paris-arnoldnetter-10;STATION;48.8415951, 2.4050137;75012;Paris/Arnold Netter/10;operational;;4;station;ok;nonexistent
+3 Rue Henard;2;2;0;0;2;operational;Paris;;paris-henard-3;STATION;48.84154, 2.389211;75012;Paris/Henard/3;operational;;4;station;ok;nonexistent
+33 Avenue Pierre 1er de Serbie;4;4;0;0;1;operational;Paris;;paris-pierre1erdeserbie-33;STATION;48.8673767, 2.2988559;75016;Paris/Pierre 1er de Serbie/33;operational;;1;station;ok;nonexistent
+171 Rue de la Convention;0;0;0;0;0;nonexistent;Paris;;paris-convention-171;STATION;48.8383125, 2.2943442;75015;Paris/Convention/171;operational;;1;station;ok;nonexistent
+161 Avenue de Suffren;0;0;0;0;2;operational;Paris;;paris-suffren-161;STATION;48.84595, 2.309411;75015;Paris/Suffren/161;operational;;6;station;ok;nonexistent
+61 Boulevard Haussmann;0;0;0;0;0;nonexistent;Paris;;paris-haussmann-61;STATION;48.87405, 2.325726;75008;Paris/Haussmann/61;operational;;4;station;ok;nonexistent
+46 Avenue de Villiers;0;0;0;0;1;operational;Paris;;paris-villiers-46;STATION;48.8832876, 2.3080623;75017;Paris/Villiers/46;operational;;4;station;ok;nonexistent
+46 rue de Turenne;1;1;1;1;0;operational;Paris;;paris-turenne-46;STATION;48.8580079, 2.3644786;75003;Paris/Turenne/46;operational;;0;station;ok;nonexistent
+40 Rue Sorbier;3;3;0;0;0;operational;Paris;;paris-sorbier-40;STATION;48.8656837, 2.3929721;75020;Paris/Sorbier/40;operational;;3;station;ok;nonexistent
+91 rue du Faubourg Saint-Denis;4;4;0;0;0;nonexistent;Paris;;paris-saintdenis-91;STATION;48.8740698, 2.3551424;75010;Paris/Saint-Denis/91;operational;;0;station;ok;nonexistent
+336 Rue Lecourbe;1;1;0;0;1;operational;Paris;;paris-lecourbe-336;STATION;48.8373119, 2.2847182;75015;Paris/Lecourbe/336;operational;;5;station;ok;nonexistent
+45 Avenue de la Bourdonnais;2;2;0;1;0;operational;Paris;;paris-bourdonnais-45;STATION;48.85807, 2.299582;75007;Paris/Bourdonnais/45;operational;;1;station;ok;nonexistent
+42 avenue de Friedland;3;3;0;0;0;nonexistent;Paris;;paris-friedland-42;STATION;48.8741642, 2.2976358;75008;Paris/Friedland/42;operational;;0;station;ok;nonexistent
+199 Rue du Faubourg Saint-Antoine;3;3;0;0;0;nonexistent;Paris;;paris-faubourgsaintantoine-199;SPACE;48.8505136, 2.3823163;75011;Paris/Saint-Antoine/199;operational;;1;full_station;ok;operational
+35 Rue Louis Blanc;1;1;0;0;0;nonexistent;Saint-Ouen;;saintouen-louisblanc-35;STATION;48.9072038, 2.3314347;93400;Saint-Ouen/Louis Blanc/35;operational;;2;station;ok;nonexistent
+145 Rue Raymond Losserand;0;0;0;0;0;operational;Paris;;paris-raymondlosserand-145;STATION;48.83126, 2.313088;75014;Paris/Raymond Losserand/145;operational;;2;station;ok;nonexistent
+183 Rue des Renouillers;0;0;0;0;0;nonexistent;Colombes;;colombes-renouillers-183;STATION;48.9236342, 2.2368586;92700;Colombes/Renouillers/183;broken;;0;station;closed;nonexistent
+20 Rue Gambetta;2;2;0;1;0;nonexistent;Nanterre;;nanterre-gambetta-20;SPACE;48.88807, 2.199446;92000;Nanterre/Gambetta/20;operational;;3;full_station;ok;operational
+27 Rue des Batignolles;0;0;0;0;1;operational;Paris;;paris-batignolles-27;STATION;48.884737, 2.321309;75017;Paris/Batignolles/27;operational;;4;station;ok;nonexistent
+96 Avenue Simon Bolivar;1;1;0;1;1;operational;Paris;;paris-simonbolivar-96;STATION;48.877449, 2.374112;75019;Paris/Simon Bolivar/96;operational;;1;station;ok;nonexistent
+62 Rue Ramey;1;1;0;0;0;operational;Paris;;paris-ramey-62;STATION;48.8916426, 2.3449781;75018;Paris/Ramey/62;operational;;2;station;ok;nonexistent
+7 Rue René Thibert;2;2;0;0;0;nonexistent;Villejuif;;villejuif-renethibert-7;STATION;48.80543, 2.362543;94800;Villejuif/René Thibert/7;operational;;2;station;ok;nonexistent
+31 Boulevard Rochechouart;0;0;0;0;1;operational;Paris;;paris-rochechouart-31;STATION;48.8829733, 2.3454871;75009;Paris/Rochechouart/31;operational;;4;station;ok;nonexistent
+26 Place de la Nation;1;1;0;0;0;operational;Paris;;paris-nation-26;STATION;48.84756, 2.397014;75012;Paris/Nation/26;operational;;2;station;ok;nonexistent
+77 Rue Jean Bleuzen;4;4;0;0;0;nonexistent;Vanves;;vanves-jeanbleuzen-77;SPACE;48.82338, 2.296546;92170;Vanves/Jean Bleuzen/77;operational;;0;full_station;ok;operational
+56 Rue des Plantes;0;0;0;0;1;operational;Paris;;paris-plantes-56;STATION;48.8283698, 2.3216963;75014;Paris/Plantes/56;operational;;4;station;ok;nonexistent
+21 Boulevard des Îles;4;4;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-iles-21;STATION;48.8226736, 2.2498224;92130;Issy-les-Moulineaux/Îles/21;operational;;0;station;ok;nonexistent
+255 Avenue Jean Jaurès;0;0;0;0;0;nonexistent;Clamart;;clamart-jeanjaures-255;STATION;48.8136037, 2.2719303;92140;Clamart/Jean Jaurès/255;operational;;3;station;ok;nonexistent
+24 Boulevard de la République;6;6;0;0;0;operational;Boulogne-Billancourt;;boulognebillancourt-republique-24;STATION;48.831826, 2.254098;92100;Boulogne-Billancourt/République/24;operational;;0;station;ok;nonexistent
+161 Avenue Gambetta;1;1;1;0;0;nonexistent;Paris;;paris-gambetta-161;STATION;48.87083, 2.403597;75020;Paris/Gambetta/161;operational;;2;station;ok;nonexistent
+5 Rue Henry Brisson;1;1;0;0;1;operational;Paris;;paris-henrybrisson-5;STATION;48.8984293, 2.3347923;75018;Paris/Henry Brisson/5;operational;;4;station;ok;nonexistent
+71 rue Caulaincourt;0;0;0;0;0;nonexistent;Paris;;paris-caulincourt-71;STATION;48.8895441, 2.3365418;75018;Paris/Caulaincourt/71;operational;;6;station;ok;nonexistent
+41 Boulevard Pasteur;3;3;0;0;1;operational;Paris;;paris-pasteur-41;STATION;48.8426446, 2.3132661;75015;Paris/Pasteur/41;operational;;2;station;ok;nonexistent
+33 Rue du Ranelagh;4;4;0;0;0;operational;Paris;;paris-ranelagh-33;STATION;48.8538134, 2.2768772;75016;Paris/Ranelagh/33;operational;;0;station;ok;nonexistent
+40 Avenue de la Grande Armée;3;3;0;0;1;operational;Paris;;paris-grandearmee-40;STATION;48.876042, 2.288446;75017;Paris/Grande Armée/40;operational;;1;station;ok;nonexistent
+23 Boulevard Delessert;6;6;0;0;0;operational;Paris;;paris-delessert-23;STATION;48.8585701, 2.2851211;75016;Paris/Delessert/23;operational;;0;station;ok;nonexistent
+3 Rue Camille Desmoulins;0;0;0;0;0;nonexistent;Cachan;;cachan-camilledesmoulins-3;SPACE;48.7942674, 2.3345857;94230;Cachan/Camille Desmoulins/3;operational;;4;full_station;ok;operational
+51 Rue Eugène Oudiné;1;1;0;0;0;operational;Paris;;paris-eugeneoudine-51;STATION;48.8250327, 2.3725162;75013;Paris/Eugène Oudiné/51;operational;;2;station;ok;nonexistent
+65 Rue René Cros;3;3;0;0;0;nonexistent;Bagneux;;bagneux-renecros-65;STATION;48.79932, 2.304576;92220;Bagneux/René Cros/65;operational;;3;station;ok;nonexistent
+1 Rue Legrand;1;1;0;1;0;nonexistent;Malakoff;;malakoff-legrand-1;STATION;48.8242495, 2.3038947;92240;Malakoff/Legrand/1;operational;;3;station;ok;nonexistent
+2 Rue de Rungis;1;1;0;0;2;operational;Paris;;paris-rungis-2;STATION;48.82195, 2.345853;75013;Paris/Rungis/2;operational;;5;station;ok;nonexistent
+52 Rue de Bagneux;1;1;0;0;0;nonexistent;Sceaux;;sceaux-bagneux-52;STATION;48.7842765, 2.3027628;92330;Sceaux/Bagneux/52;operational;;3;station;ok;nonexistent
+2 Rue Marcelin Berthelot;2;2;0;0;0;nonexistent;Drancy;;drancy-marcelinberthelot-2;STATION;48.92155, 2.445802;93700;Drancy/Marcelin Berthelot/2;operational;;4;station;ok;nonexistent
+213 Rue Sadi Carnot;0;0;0;0;0;nonexistent;Bagnolet;;bagnolet-sadicarnot-213;STATION;48.8777608, 2.4267206;93170;Bagnolet/Sadi Carnot/213;operational;;5;station;ok;nonexistent
+42 Avenue Michelet;0;0;0;0;0;nonexistent;Saint-Ouen;;saintouen-michelet-42;STATION;48.9102315, 2.3441112;93400;Saint-Ouen/Michelet/42;operational;;6;station;ok;nonexistent
+8 Boulevard de la Madeleine;2;2;0;0;0;nonexistent;Paris;;paris-madeleine-8;STATION;48.86972, 2.326691;75009;Paris/Madeleine/8;operational;;1;station;ok;nonexistent
+17 Avenue Louis Pasteur;0;0;0;0;0;nonexistent;Bagneux;;bagneux-louispasteur-17;STATION;48.7991008, 2.3177148;92220;Bagneux/Louis Pasteur/17;operational;;5;station;ok;nonexistent
+1 Rue Gounod;1;1;0;0;0;nonexistent;Colombes;;colombes-gounod-1;STATION;48.9236174, 2.2483611;92700;Colombes/Gounod/1;operational;;3;station;ok;nonexistent
+28 Rue Bara;3;3;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-bara-28;STATION;48.8326967, 2.2682505;92130;Issy-les-Moulineaux/Bara/28;operational;;2;station;ok;nonexistent
+6 Rue Pablo Neruda;0;0;0;0;0;nonexistent;Nanterre;;nanterre-pabloneruda-6;STATION;48.89586, 2.216845;92000;Nanterre/Pablo Neruda/6;operational;;6;station;ok;nonexistent
+4 Rue de Cotonou;4;4;0;0;0;nonexistent;Créteil;;creteil-cotonou-4;STATION;48.7706043, 2.4707901;94000;Créteil/Cotonou/4;operational;;0;station;ok;nonexistent
+18 Place Mozart;0;0;0;0;0;nonexistent;Joinville-le-Pont;;joinvillelepont-mozart-18;STATION;48.8245149, 2.4753934;94340;Joinville-le-Pont/Mozart/18;operational;;5;station;ok;nonexistent
+20 Rue Cognacq Jay;3;3;1;0;0;operational;Paris;;paris-cognacqjay-20;STATION;48.8618934, 2.3029282;75007;Paris/Cognacq Jay/20;operational;;1;station;ok;nonexistent
+2 Rue Péguy;3;3;0;0;0;operational;Paris;;paris-peguy-2;STATION;48.8430076, 2.3280363;75006;Paris/Péguy/2;operational;;1;station;ok;nonexistent
+16 Rue Charles de Gaulle;3;3;0;0;0;nonexistent;Alfortville;;alfortville-charlesdegaulle-16;STATION;48.81456, 2.413135;94140;Alfortville/Charles de Gaulle/16;operational;;2;station;ok;nonexistent
+1 Rue Rigault;6;6;0;0;0;nonexistent;Nanterre;;nanterre-rigault-1;STATION;48.89334, 2.198058;92000;Nanterre/Rigault/1;operational;;0;station;ok;nonexistent
+2 Rue Duroc;3;3;0;0;0;operational;Paris;;paris-duroc-2;STATION;48.8482825, 2.315725;75007;Paris/Duroc/2;operational;;1;station;ok;nonexistent
+2 Rue des Entrepôts;3;3;0;1;0;nonexistent;Saint-Ouen;;saintouen-entrepots-2;STATION;48.9034828, 2.3470283;93400;Saint-Ouen/Entrepôts/2;operational;;1;station;ok;nonexistent
+19 rue des Écoles;0;0;0;0;1;operational;Paris;;paris-ecoles-19;STATION;48.8478612, 2.3509722;75005;Paris/Écoles/19;operational;;5;station;ok;nonexistent
+3 rue de Vaugirard;5;5;0;0;0;operational;Paris;;paris-vaugirard-3;STATION;48.84893, 2.340624;75006;Paris/Vaugirard/3;operational;;0;station;ok;nonexistent
+28 avenue de Niel;3;3;0;0;1;operational;Paris;;paris-niel-28;STATION;48.881032, 2.2956282;75017;Paris/Niel/28;operational;;1;station;ok;nonexistent
+67 avenue de Saint Ouen;0;0;0;0;0;operational;Paris;;paris-saintouen-67;STATION;48.8920729, 2.32707;75017;Paris/Saint Ouen/67;operational;;2;station;ok;nonexistent
+2 rue Jean Cocteau;1;1;0;0;0;operational;Paris;;paris-jeancocteau-2;STATION;48.8996, 2.351156;75018;Paris/Jean Cocteau/2;operational;;3;station;ok;nonexistent
+23 rue des Bernardins;1;1;0;0;2;operational;Paris;;paris-bernardins-23;STATION;48.84934, 2.350152;75005;Paris/Bernardins/23;operational;;5;station;ok;nonexistent
+280 avenue Jean Jaurès;0;0;0;0;0;nonexistent;Châtenay-Malabry;;chatenaymalabry-jeanjaures-280;STATION;48.76739, 2.255521;92290;Châtenay-Malabry/Jean Jaurès/280;broken;;0;station;closed;nonexistent
+19 rue Dalayrac;2;2;0;0;1;operational;Paris;;paris-dalayrac-19;STATION;48.868181, 2.335097;75002;Paris/Dalayrac/19;operational;;2;station;ok;nonexistent
+1 place Charles de Gaulle;1;1;0;0;0;nonexistent;Ville-d'Avray;;villedavray-charlesdegaulle-1;SPACE;48.826, 2.18935;92410;Ville-d'Avray/Charles de Gaulle/1;operational;;1;full_station;ok;broken
+67 rue Louis Blanc;6;6;0;0;0;operational;Paris;;paris-louisblanc-67;STATION;48.8837053, 2.3600404;75010;Paris/Louis Blanc/67;operational;;0;station;ok;nonexistent
+1 avenue Philippe Auguste;3;3;0;0;0;operational;Paris;;paris-philippeauguste-1;STATION;48.8493744, 2.395332;75011;Paris/Philippe Auguste/1;operational;;1;station;ok;nonexistent
+104 avenue Ledru Rollin;0;0;0;0;1;operational;Paris;;paris-ledrurollin-104;STATION;48.85189, 2.376434;75011;Paris/Ledru Rollin/104;operational;;4;station;ok;nonexistent
+157 rue Jeanne D'Arc;0;0;0;0;0;operational;Paris;;paris-jeannedarc-157;STATION;48.8365583, 2.3592348;75013;Paris/Jeanne D'Arc/157;operational;;2;station;ok;nonexistent
+6 rue Guébriant;1;1;0;0;0;operational;Paris;;paris-guebriant-6;STATION;48.8730881, 2.4092069;75020;Paris/Guébriant/6;operational;;3;station;ok;nonexistent
+158 boulevard de Charonne;2;2;0;0;1;operational;Paris;;paris-charonne-158;STATION;48.8569151, 2.3941433;75020;Paris/Charonne/158;operational;;3;station;ok;nonexistent
+59 boulevard Gallieni;5;5;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-gallieni-59;STATION;48.824941, 2.2680704;92130;Issy-les-Moulineaux/Gallieni/59;operational;;1;station;ok;nonexistent
+10 rue du Quatre septembre;2;2;0;0;0;operational;Paris;;paris-quatreseptembre-10;STATION;48.869353, 2.3382066;75002;Paris/Quatre septembre/10;operational;;1;station;ok;nonexistent
+4 avenue de la Sœur Rosalie;0;0;0;0;0;nonexistent;Paris;;paris-soeurrosalie-4;STATION;48.83185, 2.354094;75013;Paris/Sœur Rosalie/4;operational;;4;station;ok;nonexistent
+3 avenue d'Ivry;4;4;0;0;0;operational;Paris;;paris-ivry-3;STATION;48.82175, 2.36868;75013;Paris/Ivry/3;operational;;0;station;ok;nonexistent
+19 avenue du Général de Gaulle;3;3;0;0;0;nonexistent;Meudon;;meudon-generaldegaulle-19;STATION;48.787936, 2.22752;92190;Meudon/De Gaulle/19;operational;;1;station;ok;nonexistent
+21 avenue Jean Jaurès;6;6;0;0;0;nonexistent;Suresnes;;suresnes-jeanjaures-21;STATION;48.8636819, 2.208944;92150;Suresnes/Jean Jaurès/21;operational;;0;station;ok;nonexistent
+27 rue Pastourelle;1;1;1;1;1;operational;Paris;;paris-pastourelle-27;STATION;48.862833, 2.3593315;75003;Paris/Pastourelle/27;operational;;1;station;ok;nonexistent
+6 rue Michelet;4;4;0;0;0;operational;Paris;;paris-michelet-6;STATION;48.8425631, 2.3363896;75006;Paris/Michelet/6;operational;;0;station;ok;nonexistent
+142 rue du Bac;0;0;0;0;0;operational;Paris;;paris-bac-142;STATION;48.8508194, 2.3237968;75007;Paris/Bac/142;operational;;1;station;ok;nonexistent
+89 avenue Kléber;4;4;0;1;0;operational;Paris;;paris-kleber-89;STATION;48.8639711, 2.2880679;75016;Paris/Kléber/89;operational;;1;station;ok;nonexistent
+73 avenue des Ternes;5;5;0;0;0;operational;Paris;;paris-ternes-73;SPACE;48.8794622, 2.2899947;75017;Paris/Ternes/73;operational;;0;full_station;ok;broken
+2 avenue du Président Wilson;1;1;0;0;0;nonexistent;Malakoff;;malakoff-presidentwilson-2;STATION;48.82027, 2.301874;92240;Malakoff/Wilson/2;operational;;3;station;ok;nonexistent
+58 avenue de la République;5;5;0;0;0;nonexistent;Bagnolet;;bagnolet-republique-58;STATION;48.8611263, 2.4181508;93170;Bagnolet/République/58;operational;;1;station;ok;nonexistent
+17 boulevard Saint-Martin;0;0;0;0;0;nonexistent;Paris;;paris-saintmartin-17;STATION;48.8681421, 2.360276;75003;Paris/Saint-Martin/17;operational;;4;station;ok;nonexistent
+12 rue Larmeroux;0;0;0;0;0;nonexistent;Vanves;;vanves-larmeroux-12;STATION;48.8169686, 2.2810709;92170;Vanves/Larmeroux/12;operational;;5;station;ok;nonexistent
+101 rue Jean Jaurès;3;3;0;1;0;nonexistent;Vanves;;vanves-jeanjaures-101;STATION;48.8258129, 2.2906328;92170;Vanves/Jean Jaurès/101;operational;;0;station;ok;nonexistent
+118 rue Houdan;7;7;0;0;0;operational;Sceaux;;sceaux-houdan-118;STATION;48.779037, 2.2891934;92330;Sceaux/Houdan/118;operational;;0;station;ok;nonexistent
+24 boulevard Diderot;3;3;0;0;0;operational;Paris;;paris-diderot-24;SPACE;48.8458586, 2.3748769;75012;Paris/Diderot/24;operational;;0;full_station;ok;operational
+77 Rue Jean de la Fontaine;1;1;0;0;0;nonexistent;Paris;;paris-jeandelafontaine-77;STATION;48.8487919, 2.2661693;75016;Paris/Jean de la Fontaine/77;operational;;2;station;ok;nonexistent
+229 Rue Raymond Losserand;0;0;0;0;2;operational;Paris;;paris-raymondlosserand-229;STATION;48.828, 2.306022;75014;Paris/Raymond Losserand/229;operational;;5;station;ok;nonexistent
+26 Boulevard Jourdan;1;1;0;0;1;operational;Paris;;paris-jourdan-26;STATION;48.8207604, 2.3370783;75014;Paris/Jourdan/26;operational;;1;station;ok;nonexistent
+4 Rue Charles Bossut;1;1;0;1;0;operational;Paris;;paris-charlesbossut-4;STATION;48.8431847, 2.3837959;75012;Paris/Charles Bossut/4;operational;;2;station;ok;nonexistent
+7 boulevard de Picpus;1;1;0;0;2;operational;Paris;;paris-picpus-7;STATION;48.8406851, 2.400428;75012;Paris/Picpus/7;operational;;4;station;ok;nonexistent
+33 rue d'Alésia;1;1;0;1;2;operational;Paris;;paris-alesia-33;STATION;48.827687, 2.3330017;75014;Paris/Alésia/33;operational;;4;station;ok;nonexistent
+26 avenue Trudaine;1;1;0;0;1;operational;Paris;;paris-trudaine-26;SPACE;48.880936, 2.341184;75009;Paris/Trudaine/26;operational;;3;full_station;ok;operational
+31 rue du Professeur Victor Pauchet;1;1;0;0;0;nonexistent;Vaucresson;;vaucresson-victorpauchet-31;STATION;48.8479, 2.175519;92420;Vaucresson/Victor Pauchet/31;operational;;1;station;ok;nonexistent
+1 Boulevard Murat;5;5;0;0;0;operational;Paris;;paris-murat-1;STATION;48.84744, 2.258728;75016;Paris/Murat/1;operational;;0;station;ok;nonexistent
+43 Rue de Monceau;2;2;2;1;0;operational;Paris;;paris-monceau-43;STATION;48.8778333, 2.310832;75008;Paris/Monceau/43;operational;;0;station;ok;nonexistent
+3 Rue des Halles;0;0;0;0;0;nonexistent;Paris;;paris-halles-3;SPACE;48.8589371, 2.347433;75001;Paris/Halles/3;broken;;0;full_station;ok;operational
+2 Rue Houdart de Lamotte;3;3;0;0;0;nonexistent;Paris;;paris-houdartdelamotte-2;STATION;48.8406886, 2.2876391;75015;Paris/Houdart de Lamotte/2;operational;;2;station;ok;nonexistent
+20 Boulevard Émile Augier;4;4;0;1;1;operational;Paris;;paris-emileaugier-20;STATION;48.8602593, 2.2740467;75016;Paris/Émile Augier/20;operational;;1;station;ok;nonexistent
+12 Avenue de Messine;3;3;0;0;0;operational;Paris;;paris-messine-12;STATION;48.87593, 2.314194;75008;Paris/Messine/12;operational;;1;station;ok;nonexistent
+50 Boulevard Pereire;1;1;0;0;1;operational;Paris;;paris-pereire-50;SPACE;48.8876949, 2.3050366;75017;Paris/Pereire/50;operational;;4;full_station;ok;operational
+36 avenue de la République;1;1;0;0;0;nonexistent;Paris;;paris-republique-36;STATION;48.8656694, 2.3721102;75011;Paris/République/36;operational;;3;station;ok;nonexistent
+45 rue Jeanne D'Arc;1;1;0;0;0;nonexistent;Paris;;paris-jeannedarc-45;STATION;48.8304583, 2.3672231;75013;Paris/Jeanne D'Arc/45;operational;;2;station;ok;nonexistent
+51 Rue de Bretagne;1;1;0;0;1;operational;Paris;;paris-bretagne-51;SPACE;48.8635527, 2.3612023;75003;Paris/Bretagne/51;operational;;3;full_station;ok;operational
+38 Rue Lacépède;0;0;0;0;0;broken;Paris;;paris-lacepede-38;STATION;48.8441945, 2.3507523;75005;Paris/Lacépède/38;broken;;0;station;closed;nonexistent
+42 Rue du Bac;2;2;0;0;1;operational;Paris;;paris-bac-42;STATION;48.856725, 2.3270428;75007;Paris/Bac/42;operational;;2;station;ok;nonexistent
+11 Rue de la Grange aux Belles;1;1;0;0;1;operational;Paris;;paris-grangeauxbelles-11;STATION;48.87383, 2.365097;75010;Paris/Grange aux Belles/11;operational;;3;station;ok;nonexistent
+242 Rue du Faubourg-Saint-Martin;4;4;0;0;0;operational;Paris;;paris-faubourgsaintmartin-242;STATION;48.8820036, 2.3665874;75010;Paris/Faubourg-Saint-Martin/242;operational;;1;station;ok;nonexistent
+143 Rue La Fayette;2;2;0;0;0;nonexistent;Paris;;paris-lafayette-143;STATION;48.8791341, 2.3560476;75010;Paris/La Fayette/143;operational;;1;station;ok;nonexistent
+22 Boulevard de Belleville;0;0;0;0;0;nonexistent;Paris;;paris-belleville-22;STATION;48.8679058, 2.3826171;75020;Paris/Belleville/22;operational;;4;station;ok;nonexistent
+182 Boulevard Voltaire;0;0;0;1;2;operational;Paris;;paris-voltaire-182;STATION;48.8548, 2.385047;75011;Paris/Voltaire/182;operational;;5;station;ok;nonexistent
+44 Avenue de Suffren;3;3;0;0;0;nonexistent;Paris;;paris-suffren-44;STATION;48.8539296, 2.2964095;75015;Paris/Suffren/44;operational;;0;station;ok;nonexistent
+92 Boulevard des Batignolles;0;0;0;0;0;broken;Paris;;paris-batignolles-92;STATION;48.8817521, 2.317631;75017;Paris/Batignolles/92;operational;;4;station;ok;nonexistent
+128 avenue de la République;0;0;0;0;2;operational;Paris;;paris-republique-128;STATION;48.8629398, 2.386178;75011;Paris/République/128;operational;;6;station;ok;nonexistent
+48 Avenue de Saint-Mandé;4;4;0;0;0;nonexistent;Paris;;paris-saintmande-48;STATION;48.8449828, 2.4019623;75012;Paris/Saint-Mandé/48;operational;;0;station;ok;nonexistent
+24 rue Caillaux;0;0;0;0;1;operational;Paris;;paris-caillaux-24;STATION;48.82223, 2.358905;75013;Paris/Caillaux/24;operational;;4;station;ok;nonexistent
+8 Rue Benoît Malon;6;6;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-benoitmalon-8;STATION;48.9094941, 2.2754817;92600;Asnières-sur-Seine/Benoît Malon/8;operational;;0;station;ok;nonexistent
+2 Avenue Mozart;3;3;0;0;0;nonexistent;Paris;;paris-mozart-2;STATION;48.85791, 2.273956;75016;Paris/Mozart/2;operational;;0;station;ok;nonexistent
+101 Avenue Mozart;1;1;0;0;0;nonexistent;Paris;;paris-mozart-101;STATION;48.8515283, 2.2678125;75016;Paris/Mozart/101;operational;;3;station;ok;nonexistent
+18 Avenue Victor Hugo;6;6;0;0;0;operational;Paris;;paris-victorhugo-18;STATION;48.8724415, 2.2915577;75016;Paris/Victor Hugo/18;operational;;0;station;ok;nonexistent
+159 Rue Manin;5;5;1;0;0;operational;Paris;;paris-manin-159;STATION;48.886098, 2.3936;75019;Paris/Manin/159;operational;;0;station;ok;nonexistent
+1 Rue Dante;2;2;0;0;0;nonexistent;Paris;;paris-dante-1;STATION;48.8513879, 2.3472476;75005;Paris/Dante/1;operational;;1;station;ok;nonexistent
+152 Rue de Grenelle;2;2;2;0;0;operational;Paris;;paris-grenelle-152;STATION;48.85806, 2.310588;75007;Paris/Grenelle/152;operational;;1;station;ok;nonexistent
+9 Boulevard des Batignolles;0;0;0;0;0;nonexistent;Paris;;paris-batignolles-9;STATION;48.8830163, 2.325922;75008;Paris/Batignolles/9;operational;;2;station;ok;nonexistent
+39 Avenue de la République;2;2;0;0;0;nonexistent;Arcueil;;arcueil-republique-39;SPACE;48.807283, 2.3339929;94110;Arcueil/République/39;operational;;3;full_station;ok;operational
+44 Place de l'Église;3;3;0;0;0;nonexistent;Pantin;;pantin-eglise-44;STATION;48.8929204, 2.4138507;93500;Pantin/Église/44;operational;;3;station;ok;nonexistent
+8 Place du 25 Août 1944;1;1;0;0;0;nonexistent;Paris;;paris-25aout1944-8;STATION;48.822183, 2.3248774;75014;Paris/25 Août 1944/8;operational;;3;station;ok;nonexistent
+211 Rue de Versailles;0;0;0;0;0;nonexistent;Ville-d'Avray;;villedavray-versailles-211;STATION;48.81805, 2.164893;92410;Ville-d'Avray/Versailles/211;broken;;0;station;closed;nonexistent
+46 Rue Pernety;0;0;0;0;0;nonexistent;Paris;;paris-pernety-46;STATION;48.8343392, 2.3178674;75014;Paris/Pernety/46;operational;;2;station;ok;nonexistent
+3 Rue Salomon de Rothschild;3;3;0;0;0;nonexistent;Suresnes;;suresnes-salomonderothschild-3;STATION;48.87301, 2.232485;92150;Suresnes/Salomon de Rothschild/3;operational;;2;station;ok;nonexistent
+24 Rue Barbès;3;3;0;0;0;nonexistent;Montrouge;;montrouge-barbes-24;STATION;48.81737, 2.327974;92120;Montrouge/Barbès/24;operational;;3;station;ok;nonexistent
+18 Boulevard Garibaldi;3;3;0;1;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-garibaldi-18;STATION;48.8215502, 2.2613183;92130;Issy-les-Moulineaux/Garibaldi/18;operational;;0;station;ok;nonexistent
+236 Rue des Pyrénées;4;4;0;0;1;operational;Paris;;paris-pyrenees-236;STATION;48.8674784, 2.3965939;75020;Paris/Pyrénées/236;operational;;2;station;ok;nonexistent
+143 Avenue Émile Zola;3;3;0;0;0;operational;Paris;;paris-emilezola-143;STATION;48.8471694, 2.2953347;75015;Paris/Émile Zola/143;operational;;2;station;ok;nonexistent
+120 Rue Ordener;0;0;0;0;1;operational;Paris;;paris-ordener-120;STATION;48.8932768, 2.3394999;75018;Paris/Ordener/120;operational;;5;station;ok;nonexistent
+24 Avenue d'Iéna;2;2;0;1;0;nonexistent;Paris;;paris-iena-24;STATION;48.8653828, 2.2945784;75016;Paris/Iéna/24;operational;;1;station;ok;nonexistent
+9 avenue Arblade;1;1;0;0;0;nonexistent;Malakoff;;malakoff-arblade-9;STATION;48.8180219, 2.2918859;92240;Malakoff/Arblade/9;operational;;3;station;ok;nonexistent
+60 Avenue du Président Franklin Roosevelt;7;7;0;0;0;operational;Sceaux;;sceaux-franklinroosevelt-60;STATION;48.7771124, 2.2965901;92330;Sceaux/Franklin Roosevelt/60;operational;;0;station;ok;nonexistent
+28 Rue Anatole France;4;4;0;0;0;nonexistent;Chaville;;chaville-anatolefrance-28;STATION;48.8038815, 2.1883009;92370;Chaville/Anatole France/28;operational;;2;station;ok;nonexistent
+88 rue de Bercy;0;0;0;0;1;operational;Paris;;paris-bercy-88;STATION;48.8382761, 2.3816754;75012;Paris/Bercy/88;operational;;6;station;ok;nonexistent
+119 avenue de Flandre;0;0;0;0;2;operational;Paris;;paris-flandre-119;STATION;48.891659, 2.3775942;75019;Paris/Flandre/119;operational;;6;station;ok;nonexistent
+76 rue Botzaris;1;1;0;0;0;nonexistent;Paris;;paris-botzaris-76;STATION;48.8794816, 2.388647;75019;Paris/Botzaris/76;operational;;3;station;ok;nonexistent
+143 avenue Roger Salengro;4;4;0;1;0;nonexistent;Châtenay-Malabry;;chatenaymalabry-rogersalengro-143;STATION;48.76465, 2.27218652;92290;Châtenay-Malabry/Roger Salengro/143;operational;;1;station;ok;nonexistent
+24 boulevard Paul Vaillant Couturier;5;5;0;0;0;nonexistent;Drancy;;drancy-couturier-24;SPACE;48.9222845, 2.4476628;93700;Drancy/Couturier/24;operational;;1;full_station;ok;operational
+4 Rue de Montfaucon;0;0;0;0;0;nonexistent;Paris;;paris-montfaucon-4;STATION;48.85273, 2.335816;75006;Paris/Montfaucon/4;operational;;2;station;ok;nonexistent
+137 Rue des Pyrénées;2;2;0;0;1;operational;Paris;;paris-pyrenees-137;SPACE;48.85844, 2.402911;75020;Paris/Pyrénées/137;operational;;3;full_station;ok;operational
+36 Rue des Saussaies;5;5;0;0;0;nonexistent;Cachan;;cachan-saussaies-36;STATION;48.7862756, 2.3403992;94230;Cachan/Saussaies/36;operational;;1;station;ok;nonexistent
+58 Avenue de la Division Leclerc;2;2;0;0;0;nonexistent;Cachan;;cachan-divisionleclerc-58;STATION;48.785493, 2.3288415;94230;Cachan/Division Leclerc/58;operational;;3;station;ok;nonexistent
+22 Avenue Jean Jaurès;2;2;0;1;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-jeanjaures-22;STATION;48.8229419, 2.2755104;92130;Issy-les-Moulineaux/Jean Jaurès/22;operational;;0;station;ok;nonexistent
+94 Rue Paul Vaillant Couturier;5;5;0;1;0;nonexistent;Nanterre;;nanterre-paulvaillantcouturier-94;STATION;48.8829721, 2.2040354;92000;Nanterre/Paul Vaillant Couturier/94;operational;;0;station;ok;nonexistent
+17 Rue Custine;3;3;0;1;0;operational;Paris;;paris-custine-17;STATION;48.8883596, 2.3480345;75018;Paris/Custine/17;operational;;2;station;ok;nonexistent
+97 Rue Roger Salengro;6;6;0;0;0;nonexistent;Drancy;;drancy-rogersalengro-97;STATION;48.9166381, 2.4362063;93700;Drancy/Roger Salengro/97;operational;;0;station;ok;nonexistent
+77 Rue Nationale;5;5;0;0;0;operational;Paris;;paris-nationale-77;STATION;48.8268565, 2.3665764;75013;Paris/Nationale/77;operational;;0;station;ok;nonexistent
+12 Rue des Pyramides;3;3;0;0;1;operational;Paris;;paris-pyramides-12;STATION;48.8648594, 2.3329713;75001;Paris/Pyramides/12;operational;;2;station;ok;nonexistent
+230 Rue de Vaugirard;0;0;0;0;1;operational;Paris;;paris-vaugirard-230;STATION;48.8404209, 2.3042578;75015;Paris/Vaugirard/230;operational;;5;station;ok;nonexistent
+61 Avenue de Flandre;0;0;0;0;0;broken;Paris;;paris-flandre-61;STATION;48.888195, 2.3730799;75019;Paris/Flandre/61;broken;;0;station;closed;nonexistent
+5 Rue Jean Marin Naudin;0;0;0;0;0;nonexistent;Bagneux;;bagneux-jeanmarinnaudin-5;STATION;48.8059298, 2.3143019;92220;Bagneux/Jean Marin Naudin/5;operational;;1;station;ok;nonexistent
+33 Avenue Jules Quentin;2;2;0;0;0;nonexistent;Nanterre;;nanterre-julesquentin-33;STATION;48.8953323, 2.1910555;92000;Nanterre/Jules Quentin/33;operational;;4;station;ok;nonexistent
+4 Rue Auguste Perret;1;1;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-augusteperret-4;STATION;48.8893048, 2.1678526;92500;Rueil-Malmaison/Auguste Perret/4;operational;;1;station;ok;nonexistent
+32 avenue François Vincent Raspail;1;1;0;0;0;nonexistent;Arcueil;;arcueil-francoisvincentraspail-32;STATION;48.8052961, 2.3374929;94110;Arcueil/François Vincent Raspail/32;operational;;5;station;ok;nonexistent
+16 Avenue du Maréchal Lyautey;4;4;0;0;0;nonexistent;Créteil;;creteil-marechallyautey-16;STATION;48.791297, 2.44581;94000;Créteil/Maréchal Lyautey/16;operational;;2;station;ok;nonexistent
+26 Avenue Duquesne;2;2;0;1;0;operational;Paris;;paris-duquesne-26;STATION;48.8511276, 2.3106373;75007;Paris/Duquesne/26;operational;;2;station;ok;nonexistent
+16 Avenue Henri Barbusse;2;2;0;0;0;nonexistent;Colombes;;colombes-henribarbusse-16;STATION;48.92257, 2.25258;92700;Colombes/Henri Barbusse/16;operational;;3;station;ok;nonexistent
+81 Avenue Bosquet;5;5;0;0;0;operational;Paris;;paris-bosquet-81;STATION;48.8553541, 2.305473;75007;Paris/Bosquet/81;operational;;1;station;ok;nonexistent
+13 Rue des Peupliers;4;4;0;1;0;nonexistent;Nanterre;;nanterre-peupliers-13;STATION;48.91278, 2.215178;92000;Nanterre/Peupliers/13;operational;;0;station;ok;nonexistent
+19 rue Tronchet;4;4;0;0;1;operational;Paris;;paris-tronchet-19;STATION;48.87236, 2.326167;75008;Paris/Tronchet/19;operational;;2;station;ok;nonexistent
+12 rue Chernoviz;4;4;0;0;0;nonexistent;Paris;;paris-chernoviz-12;STATION;48.85775, 2.281404;75016;Paris/Chernoviz/12;operational;;0;station;ok;nonexistent
+7 rue Marcadet;5;5;0;0;0;operational;Paris;;paris-marcadet-7;STATION;48.8903813, 2.3548773;75018;Paris/Marcadet/7;operational;;0;station;ok;nonexistent
+2 rue de Fleurus;0;0;0;0;1;operational;Paris;;paris-fleurus-2;STATION;48.8471079, 2.3321208;75006;Paris/Fleurus/2;operational;;2;station;ok;nonexistent
+4 rue de Constantinople;0;0;0;0;0;operational;Paris;;paris-constantinople-4;STATION;48.8797479, 2.3214351;75008;Paris/Constantinople/4;operational;;3;station;ok;nonexistent
+231 rue des Pyrénées;1;1;0;0;0;nonexistent;Paris;;paris-pyrenees-231;STATION;48.8638511, 2.3991848;75020;Paris/Pyrénées/231;operational;;3;station;ok;nonexistent
+5 rue Frédéric Loliée;4;4;0;0;0;operational;Paris;;paris-fredericloliee-5;STATION;48.8495131, 2.4061582;75020;Paris/Frédéric Loliée/5;operational;;1;station;ok;nonexistent
+1 rue Jules Lefèbvre;1;1;0;0;2;operational;Paris;;paris-juleslefebvre-1;STATION;48.8804478, 2.3283632;75009;Paris/Jules Lefèbvre/1;operational;;5;station;ok;nonexistent
+33 rue Crozatier;3;3;0;0;1;operational;Paris;;paris-crozatier-33;STATION;48.8470504, 2.3815222;75012;Paris/Crozatier/33;operational;;3;station;ok;nonexistent
+15 bis rue de Tolbiac;0;0;0;0;0;nonexistent;Paris;;paris-tolbiac-15;STATION;48.8292818, 2.3744385;75013;Paris/Tolbiac/15;broken;;0;station;closed;nonexistent
+37 avenue Georges Pompidou;1;1;0;0;0;nonexistent;Suresnes;;suresnes-georgespompidou-37;STATION;48.8755464, 2.2319905;92150;Suresnes/Georges Pompidou/37;operational;;4;station;ok;nonexistent
+125 rue Diderot;5;5;0;0;0;nonexistent;Drancy;;drancy-diderot-125;STATION;48.9196895, 2.4288043;93700;Drancy/Diderot/125;operational;;0;station;ok;nonexistent
+7 rue La Fayette;5;5;0;0;0;operational;Paris;;paris-lafayette-7;STATION;48.87357, 2.3348418;75009;Paris/La Fayette/7;operational;;0;station;ok;nonexistent
+21 rue Fernand Braudel;1;1;1;0;0;nonexistent;Paris;;paris-fernandbraudel-21;STATION;48.8362302, 2.3724643;75013;Paris/Fernand Braudel/21;operational;;1;station;ok;nonexistent
+79 rue du Chevaleret;2;2;0;0;0;operational;Paris;;paris-chevaleret-79;STATION;48.82881, 2.376281;75013;Paris/Chevaleret/79;operational;;1;station;ok;nonexistent
+11 rue Gerbert;0;0;0;0;1;operational;Paris;;paris-gerbert-11;STATION;48.8395783, 2.2986453;75015;Paris/Gerbert/11;operational;;4;station;ok;nonexistent
+43 rue du Docteur Finlay;1;1;0;0;0;operational;Paris;;paris-docteurfinlay-43;STATION;48.8512259, 2.2912934;75015;Paris/Finlay/43;operational;;1;station;ok;nonexistent
+162 rue Championnet;0;0;0;0;1;operational;Paris;;paris-championnet-162;STATION;48.8948847, 2.3355224;75018;Paris/Championnet/162;operational;;6;station;ok;nonexistent
+17 rue Caulaincourt;1;1;0;0;0;nonexistent;Paris;;paris-caulaincourt-17;STATION;48.8872522, 2.3330069;75018;Paris/Caulaincourt/17;operational;;3;station;ok;nonexistent
+1 rue de Verdun;2;2;0;0;0;nonexistent;Clamart;;clamart-verdun-1;STATION;48.813219, 2.258785;92140;Clamart/Verdun/1;operational;;1;station;ok;nonexistent
+2 Boulevard de Clichy;1;1;0;0;1;operational;Paris;;paris-clichy-2;STATION;48.8822728, 2.3395493;75018;Paris/Clichy/2;operational;;2;station;ok;nonexistent
+78 Avenue du Maine;4;4;0;0;0;broken;Paris;;paris-maine-78;SPACE;48.8388247, 2.3221905;75014;Paris/Maine/78;operational;;0;full_station;ok;operational
+17 Avenue Victoria;0;0;0;0;0;operational;Paris;;paris-victoria-17;STATION;48.857882, 2.346828;75001;Paris/Victoria/17;operational;;2;station;ok;nonexistent
+123 Rue du Faubourg Saint-Honoré;5;5;0;0;0;operational;Paris;;paris-sainthonore-123;STATION;48.87327, 2.309515;75008;Paris/Saint-Honoré/123;operational;;1;station;ok;nonexistent
+112 Avenue de Versailles;4;4;0;0;0;operational;Paris;;paris-versailles-112;STATION;48.8437929, 2.2698931;75016;Paris/Versailles/112;operational;;1;station;ok;nonexistent
+105 bis Rue Pelleport;3;3;0;0;0;operational;Paris;;paris-pelleport-105;STATION;48.86959, 2.400348;75020;Paris/Pelleport/105;operational;;2;station;ok;nonexistent
+8 Boulevard Richard Lenoir;2;2;0;0;1;operational;Paris;;paris-richardlenoir-8;STATION;48.8545026, 2.370183;75011;Paris/Richard Lenoir/8;operational;;3;station;ok;nonexistent
+126 Avenue Philippe Auguste;0;0;0;0;0;operational;Paris;;paris-philippeauguste-126;STATION;48.8577957, 2.390264;75011;Paris/Philippe Auguste/126;operational;;0;station;ok;nonexistent
+6 avenue Emile Zola;3;3;0;0;0;nonexistent;Paris;;paris-emilezola-6;STATION;48.846148, 2.278533;75015;Paris/Emile Zola/6;operational;;0;station;ok;nonexistent
+236 Boulevard Voltaire;1;1;0;0;1;operational;Paris;;paris-voltaire-236;STATION;48.852023, 2.389719;75011;Paris/Voltaire/236;operational;;3;station;ok;nonexistent
+81 Boulevard Vincent Auriol;2;2;0;0;0;operational;Paris;;paris-vincentauriol-81;STATION;48.8344789, 2.3672062;75013;Paris/Vincent Auriol/81;operational;;1;station;ok;nonexistent
+28 Avenue de la Porte de Villiers;5;5;0;1;0;operational;Paris;;paris-portedevilliers-28;STATION;48.8854246, 2.2849721;75017;Paris/Porte de Villiers/28;operational;;0;station;ok;nonexistent
+181 quater Avenue de Clichy;0;0;0;0;0;nonexistent;Paris;;paris-clichy-181;STATION;48.89351, 2.314814;75017;Paris/Clichy/181;operational;;4;station;ok;nonexistent
+19 Rue Émile Duclaux;1;1;0;0;0;broken;Paris;;paris-emileduclaux-19;STATION;48.842111, 2.3091306;75015;Paris/Émile Duclaux/19;operational;;3;station;ok;nonexistent
+1 Avenue Marceau;3;3;0;0;1;operational;Paris;;paris-marceau-1;STATION;48.8654617, 2.2995713;75016;Paris/Marceau/1;operational;;2;station;ok;nonexistent
+238 Rue du Faubourg Saint-Antoine;0;0;0;0;1;operational;Paris;;paris-saintantoine-238;STATION;48.8493367, 2.3895684;75012;Paris/Saint-Antoine/238;operational;;5;station;ok;nonexistent
+23 Quai aux Fleurs;1;1;0;2;1;operational;Paris;;paris-quaiauxfleurs-23;STATION;48.8548459, 2.3505278;75004;Paris/Fleurs/23;operational;;3;station;ok;nonexistent
+203 Rue du Faubourg-Saint-Martin;5;5;0;0;0;operational;Paris;;paris-faubourgsaintmartin-203;STATION;48.8801069, 2.3635391;75010;Paris/Faubourg-Saint-Martin/203;operational;;0;station;ok;nonexistent
+142 Rue de Bagnolet;0;0;0;0;1;operational;Paris;;paris-bagnolet-142;STATION;48.8614319, 2.4056437;75020;Paris/Bagnolet/142;operational;;5;station;ok;nonexistent
+31 avenue Hoche;2;2;0;0;0;nonexistent;Paris;;paris-hoche-31;STATION;48.8762882, 2.3011232;75008;Paris/Hoche/31;operational;;0;station;ok;nonexistent
+24 rue du Château Landon;3;3;0;0;0;operational;Paris;;paris-chateaulandon-24;STATION;48.8814921, 2.3629571;75010;Paris/Château Landon/24;operational;;1;station;ok;nonexistent
+108 Rue Jouffroy d'Abbans;3;3;0;0;0;operational;Paris;;paris-jouffroydabbans-108;STATION;48.8823377, 2.3018911;75017;Paris/Jouffroy d'Abbans/108;operational;;0;station;ok;nonexistent
+39 Rue Notre-Dame des Champs;0;0;0;0;0;nonexistent;Paris;;paris-notredamedeschamps-39;STATION;48.8448931, 2.3292576;75006;Paris/Notre-Dame des Champs/39;operational;;1;station;ok;nonexistent
+31 Bis Rue du Faubourg Montmartre;0;0;0;0;0;nonexistent;Paris;;paris-faubourgmontmartre-31;STATION;48.8738324, 2.3425629;75009;Paris/Montmartre/31;operational;;1;station;ok;nonexistent
+35 Rue de Provence;0;0;0;0;0;nonexistent;Paris;;paris-provence-35;STATION;48.874155, 2.338559;75009;Paris/Provence/35;operational;;2;station;ok;nonexistent
+92 Rue des Orteaux;0;0;0;0;0;nonexistent;Paris;;paris-orteaux-92;STATION;48.8557933, 2.4079711;75020;Paris/Orteaux/92;broken;;0;station;closed;nonexistent
+8 Avenue de la Porte de Montrouge;0;0;0;0;1;operational;Paris;;paris-portedemontrouge-8;STATION;48.8230593, 2.322823;75014;Paris/Porte de Montrouge/8;operational;;2;station;ok;nonexistent
+1 rue Chazelles;1;1;0;0;0;nonexistent;Paris;;paris-chazelles-1;STATION;48.87959, 2.303352;75017;Paris/Chazelles/1;operational;;0;station;ok;nonexistent
+2 Rue Fabre d'Églantine;4;4;0;0;1;operational;Paris;;paris-fabredeglantine-2;STATION;48.8455775, 2.3953738;75012;Paris/Fabre d'Églantine/2;operational;;1;station;ok;nonexistent
+12 Rue Gouthière;0;0;0;0;1;operational;Paris;;paris-gouthiere-12;STATION;48.8204223, 2.3512076;75013;Paris/Gouthière/12;operational;;4;station;ok;nonexistent
+30 Quai de Dion Bouton;4;4;0;0;0;operational;Puteaux;;puteaux-dionbouton-30;SPACE;48.8807168, 2.2450631;92800;Puteaux/Dion Bouton/30;operational;;2;full_station;ok;operational
+178 Rue Lecourbe;1;1;0;0;1;operational;Paris;;paris-lecourbe-178;STATION;48.8412037, 2.2977543;75015;Paris/Lecourbe/178;operational;;3;station;ok;nonexistent
+2 Avenue Albert 1er;4;4;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-albert1er-2;STATION;48.88034, 2.180216;92500;Rueil-Malmaison/Albert 1er/2;operational;;0;station;ok;nonexistent
+70 Avenue Paul Langevin;0;0;0;0;0;nonexistent;Fontenay-aux-Roses;;fontenayauxroses-paullangevin-70;STATION;48.7835391, 2.2830741;92260;Fontenay-aux-Roses/Paul Langevin/70;operational;;5;station;ok;nonexistent
+19 Avenue Gambetta;6;6;0;0;0;operational;Paris;;paris-gambetta-19;STATION;48.8637, 2.390714;75020;Paris/Gambetta/19;operational;;0;station;ok;nonexistent
+89 Rue des Pyrénées;4;4;0;0;1;operational;Paris;;paris-pyrenees-89;STATION;48.854194, 2.405656;75020;Paris/Pyrénées/89;operational;;2;station;ok;nonexistent
+4 Avenue Secrétan;6;6;0;0;0;operational;Paris;;paris-secretan-4;STATION;48.8821756, 2.3708912;75019;Paris/Secrétan/4;operational;;0;station;ok;nonexistent
+1 Rue Ordener;4;4;0;0;0;operational;Paris;;paris-ordener-1;STATION;48.89022, 2.359383;75018;Paris/Ordener/1;operational;;0;station;ok;nonexistent
+46 Quai Henri IV;0;0;0;0;1;operational;Paris;;paris-henriiv-46;STATION;48.8504593, 2.3615731;75004;Paris/Henri IV/46;operational;;5;station;ok;nonexistent
+42 avenue du Général de Gaulle;0;0;1;0;0;nonexistent;Maisons-Alfort;;maisonsalfort-generaldegaulle-42;SPACE;48.8138166, 2.4212353;94700;Maisons-Alfort/De Gaulle/42;operational;;5;full_station;ok;operational
+422 Rue Saint-Honoré;3;3;0;0;0;operational;Paris;;paris-sainthonore-422;STATION;48.8683003, 2.3237257;75008;Paris/Saint-Honoré/422;operational;;0;station;ok;nonexistent
+4 Rue Louis Sallé;0;0;0;0;0;nonexistent;Limeil-Brévannes;;limeilbrevannes-louissalle-4;SPACE;48.75014, 2.489249;94450;Limeil-Brévannes/Louis Sallé/4;operational;;5;full_station;ok;operational
+38 Avenue de la France Libre;0;0;0;0;0;nonexistent;Créteil;;creteil-francelibre-38;SPACE;48.778891, 2.455066;94000;Créteil/France Libre/38;operational;;6;full_station;ok;broken
+88 Avenue Ledru-Rollin;0;0;0;0;2;operational;Paris;;paris-ledrurollin-88;STATION;48.8506483, 2.3754501;75012;Paris/Ledru-Rollin/88;operational;;5;station;ok;nonexistent
+80 rue de Reuilly;4;4;0;0;0;nonexistent;Paris;;paris-reuilly-80;STATION;48.8431101, 2.3912439;75012;Paris/Reuilly/80;operational;;1;station;ok;nonexistent
+125 Avenue Louis Roche;1;1;0;1;0;nonexistent;Gennevilliers;;gennevilliers-louisroche-125;STATION;48.9269437, 2.3143339;92230;Gennevilliers/Louis Roche/125;operational;;4;station;ok;nonexistent
+2 Avenue de Suffren;2;2;0;0;0;nonexistent;Paris;;paris-suffren-2;STATION;48.857, 2.2917;75015;Paris/Suffren/2;operational;;2;station;ok;nonexistent
+180 Avenue Victor Hugo;6;6;0;0;0;operational;Paris;;paris-victorhugo-180;STATION;48.8658188, 2.2762194;75016;Paris/Victor Hugo/180;operational;;0;station;ok;nonexistent
+80 Rue de Dantzig;1;1;0;0;2;operational;Paris;;paris-dantzig-80;STATION;48.8304, 2.295999;75015;Paris/Dantzig/80;operational;;4;station;ok;nonexistent
+29 Avenue Georges Pompidou;4;4;0;0;0;operational;Villeneuve-la-Garenne;;villeneuvelagarenne-pompidou-29;STATION;48.9418303, 2.3235384;92390;Villeneuve-la-Garenne/Pompidou/29;operational;;0;station;ok;nonexistent
+1 Place de la République;1;1;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -1), accès rue Wilson;levalloisperret-hoteldeville-parking;PARKING;48.89331, 2.28894;92300;Levallois-Perret/Hôtel de Ville/Parking;operational;;4;station;ok;nonexistent
+2 bis Place du 8 mai 1945;5;5;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-8mai1945-2;STATION;48.8713591, 2.20283;92500;Rueil-Malmaison/8 mai 1945/2;operational;;1;station;ok;nonexistent
+134 boulevard National;4;4;1;0;0;nonexistent;Nanterre;;nanterre-national-134;STATION;48.88835, 2.184296;92000;Nanterre/National/134;operational;;0;station;ok;nonexistent
+105 Avenue Jean Jaurès;6;6;0;0;0;nonexistent;Drancy;;drancy-jeanjaures-105;STATION;48.919047, 2.453108;93700;Drancy/Jean Jaurès/105;operational;;0;station;ok;nonexistent
+4 rue Massenet;5;5;0;0;0;operational;Courbevoie;;courbevoie-massenet-4;SPACE;48.89618, 2.25603056;92400;Courbevoie/Massenet/4;operational;;0;full_station;ok;broken
+Place Montgolfier - Parking Montgolfier;4;4;0;0;0;nonexistent;Saint-Maurice;;saintmaurice-montgolfier-parking;PARKING;48.81503, 2.45917;94410;Saint-Maurice/Montgolfier/Parking;operational;;2;station;ok;nonexistent
+1 place du 8 mai 1945;6;6;0;0;0;nonexistent;Joinville-le-Pont;;joinvillelepont-8mai1945-1;SPACE;48.8168, 2.466878;94340;Joinville-le-Pont/8 mai 1945/1;operational;;0;full_station;ok;operational
+122 Rue Ménilmontant;1;1;0;0;1;operational;Paris;;paris-menilmontant-122;STATION;48.8699519, 2.3952568;75020;Paris/Ménilmontant/122;operational;;4;station;ok;nonexistent
+46 Rue du Général Leclerc;0;0;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-generalleclerc-46;SPACE;48.824901, 2.2752102;92130;Issy-les-Moulineaux/Leclerc/46;broken;;0;full_station;closed;broken
+3 Rue du Transvaal;1;1;0;0;0;nonexistent;La Garenne-Colombes;;lagarennecolombes-transvaal-3;STATION;48.91354, 2.25703;92250;La Garenne-Colombes/Transvaal/3;operational;;5;station;ok;nonexistent
+8 rue de Lyon;3;3;0;0;0;nonexistent;Paris;;paris-lyon-8;STATION;48.8472262, 2.3720676;75012;Paris/Lyon/8;operational;;0;station;ok;nonexistent
+101 Avenue du Général Leclerc;3;3;0;0;1;operational;Paris;;paris-generalleclerc-101;STATION;48.8256986, 2.3263394;75014;Paris/Leclerc/101;operational;;3;station;ok;nonexistent
+108 Rue Balard;2;2;0;0;0;operational;Paris;;paris-balard-108;STATION;48.83731, 2.278682;75015;Paris/Balard/108;operational;;0;station;ok;nonexistent
+2 Rue de l'Amiral Coligny;5;5;0;0;0;operational;Paris;;paris-amiralcoligny-2;STATION;48.85971, 2.34024;75001;Paris/Amiral Coligny/2;operational;;0;station;ok;nonexistent
+66 Boulevard Camélinat;4;4;0;0;0;nonexistent;Gennevilliers;;gennevilliers-camelinat-66;STATION;48.93025, 2.301087;92230;Gennevilliers/Camélinat/66;operational;;2;station;ok;nonexistent
+31 Rue Camille Desmoulins;1;1;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-camillesdesmoulins-31;STATION;48.8294072, 2.2644545;92130;Issy-les-Moulineaux/Camille Desmoulins/31;operational;;3;station;ok;nonexistent
+50 Rue Guynemer;3;3;0;1;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-guynemer-50;STATION;48.8284904, 2.2748136;92130;Issy-les-Moulineaux/Guynemer/50;operational;;1;station;ok;nonexistent
+44 Rue de Champ Chardon;2;2;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-champchardon-44;STATION;48.821914, 2.252089;92130;Issy-les-Moulineaux/Champ Chardon/44;operational;;1;station;ok;nonexistent
+2 Rue du Général Malleret Joinville;0;0;0;0;0;nonexistent;Malakoff;;malakoff-generalmalleretjoinville-2;STATION;48.8118151, 2.2811943;92240;Malakoff/Malleret Joinville/2;operational;;6;station;ok;nonexistent
+142 Avenue Laferrière;0;0;0;0;0;nonexistent;Créteil;;creteil-laferriere-142;STATION;48.8007041, 2.4568599;94000;Créteil/Laferrière/142;broken;;0;station;closed;nonexistent
+49 Avenue du Docteur Paul Casalis;5;5;0;0;0;nonexistent;Créteil;;creteil-paulcasalis-49;STATION;48.7803, 2.469707;94000;Créteil/Paul Casalis/49;operational;;1;station;ok;nonexistent
+3 Rue Mongenot;4;4;0;1;0;operational;Saint-Mandé;;saintmande-mongenot-3;STATION;48.8435084, 2.4171838;94160;Saint-Mandé/Mongenot/3;operational;;0;station;ok;nonexistent
+33 Rue de la Tuilerie;3;3;0;0;0;nonexistent;Suresnes;;suresnes-tuilerie-33;STATION;48.8618708, 2.2133061;92150;Suresnes/Tuilerie/33;operational;;3;station;ok;nonexistent
+9 Boulevard Raspail;2;2;0;0;1;operational;Paris;;paris-raspail-9;STATION;48.85478, 2.32588;75007;Paris/Raspail/9;operational;;2;station;ok;nonexistent
+6 Rue de Metz;1;1;0;0;0;nonexistent;Paris;;paris-metz-6;STATION;48.87081, 2.354076;75010;Paris/Metz/6;operational;;3;station;ok;nonexistent
+28 Avenue du Maréchal Joffre;2;2;0;0;0;nonexistent;Nanterre;;nanterre-marechaljoffre-28;STATION;48.8856, 2.196418;92000;Nanterre/Maréchal Joffre/28;operational;;3;station;ok;nonexistent
+326 Avenue de la République;5;5;1;0;0;nonexistent;Nanterre;;nanterre-republique-326;STATION;48.9088989, 2.215978;92000;Nanterre/République/326;operational;;0;station;ok;nonexistent
+21 Quai de la Tournelle;1;1;0;1;0;nonexistent;Paris;;paris-tournelle-21;STATION;48.850032, 2.3544309;75005;Paris/Tournelle/21;operational;;0;station;ok;nonexistent
+13 Rue de l'Union;6;6;0;0;0;nonexistent;Nanterre;;nanterre-union-13;STATION;48.898941, 2.1927044;92000;Nanterre/Union/13;operational;;0;station;ok;nonexistent
+51 avenue Raymond Poincaré;1;1;1;1;0;operational;Paris;;paris-raymondpoincare-51;STATION;48.8669712, 2.2858795;75016;Paris/Raymond Poincaré/51;operational;;2;station;ok;nonexistent
+8 rue Rémusat;4;4;0;0;0;operational;Paris;;paris-remusat-8;SPACE;48.8478478, 2.2723059;75016;Paris/Rémusat/8;operational;;0;full_station;ok;operational
+28 rue Championnet;2;2;0;0;0;operational;Paris;;paris-championnet-28;STATION;48.895422, 2.3499795;75018;Paris/Championnet/28;operational;;3;station;ok;nonexistent
+169 avenue Gabriel Péri;0;0;0;0;0;nonexistent;Gennevilliers;;gennevilliers-gabrielperi-169;SPACE;48.9242205, 2.2942668;92230;Gennevilliers/Gabriel Péri/169;broken;;0;full_station;closed;broken
+66 rue Gay-Lussac;1;1;0;0;0;operational;Paris;;paris-gaylussac-66;SPACE;48.8420054, 2.3430684;75005;Paris/Gay-Lussac/66;operational;;3;full_station;ok;operational
+10 rue de la Verrerie;1;1;0;0;0;nonexistent;Meudon;;meudon-verrerie-10;SPACE;48.8204172, 2.23413;92190;Meudon/Verrerie/10;operational;;4;full_station;ok;operational
+30 rue du Maréchal Joffre;4;4;0;0;0;nonexistent;Colombes;;colombes-marechaljoffre-30;SPACE;48.9219814, 2.2550527;92700;Colombes/Maréchal Joffre/30;operational;;2;full_station;ok;operational
+17 Rue des Luaps Prolongée;2;2;0;0;0;nonexistent;Nanterre;;nanterre-luaps-17;STATION;48.88069, 2.21063;92000;Nanterre/Luaps/17;operational;;0;station;ok;nonexistent
+52 rue de Château Landon;1;1;1;0;0;nonexistent;Paris;;paris-chateaulandon-52;STATION;48.8836044, 2.3643056;75010;Paris/Château Landon/52;operational;;2;station;ok;nonexistent
+14 rue Sorbier;5;5;0;1;0;operational;Paris;;paris-sorbier-14;STATION;48.867322, 2.3906964;75020;Paris/Sorbier/14;operational;;0;station;ok;nonexistent
+19 rue de Suresnes;6;6;0;0;0;nonexistent;Nanterre;;nanterre-suresnes-19;STATION;48.8854172, 2.2116588;92000;Nanterre/Suresnes/19;operational;;0;station;ok;nonexistent
+169 avenue de Flandre;4;4;0;0;0;operational;Paris;;paris-flandre-169;SPACE;48.894, 2.380947;75019;Paris/Flandre/169;operational;;0;full_station;ok;operational
+41 rue de Tolbiac;0;0;0;0;1;operational;Paris;;paris-tolbiac-41;STATION;48.8279725, 2.3721949;75013;Paris/Tolbiac/41;operational;;5;station;ok;nonexistent
+25 rue Henri Barbusse;4;4;0;0;0;operational;Paris;;paris-henribarbusse-25;STATION;48.8415, 2.338973;75005;Paris/Henri Barbusse/25;operational;;1;station;ok;nonexistent
+120 cours de Vincennes;0;0;0;0;0;nonexistent;Paris;;paris-vincennes-120;STATION;48.846304, 2.410751;75012;Paris/Vincennes/120;operational;;4;station;ok;nonexistent
+6 rue Paulin Enfert;0;0;0;0;0;broken;Paris;;paris-paulinenfert-6;STATION;48.8186561, 2.3623864;75013;Paris/Paulin Enfert/6;broken;;0;station;closed;nonexistent
+71 rue Froidevaux;0;0;0;0;0;nonexistent;Paris;;paris-froidevaux-71;STATION;48.8368865, 2.3242513;75014;Paris/Froidevaux/71;operational;;4;station;ok;nonexistent
+29 rue du Cotentin;0;0;0;0;1;operational;Paris;;paris-cotentin-29;STATION;48.8385459, 2.3126749;75015;Paris/Cotentin/29;operational;;2;station;ok;nonexistent
+42 bis avenue Georges Mandel;2;2;0;0;0;operational;Paris;;paris-georgesmandel-42;STATION;48.8639536, 2.2806137;75016;Paris/Georges Mandel/42;operational;;2;station;ok;nonexistent
+1 avenue Georges Mandel;4;4;0;0;0;operational;Paris;;paris-georgesmandel-1;STATION;48.8629938, 2.2857836;75016;Paris/Georges Mandel/1;operational;;1;station;ok;nonexistent
+35 rue Mathis;0;0;0;0;0;nonexistent;Paris;;paris-mathis-35;STATION;48.8911334, 2.3725951;75019;Paris/Mathis/35;operational;;4;station;ok;nonexistent
+10 rue de Berri;2;2;0;0;0;operational;Paris;;paris-berri-10;STATION;48.8724475, 2.3041662;75008;Paris/Berri/10;operational;;0;station;ok;nonexistent
+2 avenue Parmentier;1;1;0;0;1;operational;Paris;;paris-parmentier-2;SPACE;48.8584385, 2.3800903;75011;Paris/Parmentier/2;operational;;4;full_station;ok;operational
+59 Boulevard Voltaire;1;1;0;0;1;operational;Paris;;paris-voltaire-59;STATION;48.8619069, 2.3735705;75011;Paris/Voltaire/59;operational;;4;station;ok;nonexistent
+24 Rue Vulpian;2;2;0;0;0;operational;Paris;;paris-vulpian-24;STATION;48.8310493, 2.3460584;75013;Paris/Vulpian/24;operational;;1;station;ok;nonexistent
+91 Rue du Faubourg Saint-Honoré;0;0;0;0;0;broken;Paris;;paris-sainthonore-91;STATION;48.872047, 2.3131252;75008;Paris/Saint-Honoré/91;broken;;0;station;closed;nonexistent
+73 Rue de Rome;1;1;0;1;2;operational;Paris;;paris-rome-73;STATION;48.881834, 2.32056;75008;Paris/Rome/73;operational;;3;station;ok;nonexistent
+54 Boulevard Sérurier;3;3;0;0;0;operational;Paris;;paris-serurier-54;SPACE;48.88075, 2.397629;75019;Paris/Sérurier/54;operational;;2;full_station;ok;operational
+6 place Adolphe Max;1;1;1;0;0;nonexistent;Paris;;paris-adolphemax-6;STATION;48.883011, 2.329596;75009;Paris/Adolphe Max/6;operational;;2;station;ok;nonexistent
+6 Boulevard Haussmann;2;2;0;0;0;operational;Paris;;paris-haussmann-6;STATION;48.8723178, 2.3387762;75009;Paris/Haussmann/6;operational;;2;station;ok;nonexistent
+65 Avenue Gambetta;1;1;0;0;0;operational;Paris;;paris-gambetta-65;STATION;48.8650994, 2.3963304;75020;Paris/Gambetta/65;operational;;3;station;ok;nonexistent
+46 quai de la Rapée;4;4;0;0;0;operational;Paris;;paris-rapee-46;STATION;48.8419525, 2.3728276;75012;Paris/Rapée/46;operational;;0;station;ok;nonexistent
+161 rue du Faubourg Saint-Honoré;5;5;0;0;0;operational;Paris;;paris-sainthonore-161;STATION;48.8746335, 2.3062488;75008;Paris/Saint-Honoré/161;operational;;1;station;ok;nonexistent
+1 Rue Navier;0;0;0;0;2;operational;Paris;;paris-navier-1;STATION;48.8955462, 2.3282817;75017;Paris/Navier/1;operational;;6;station;ok;nonexistent
+6 Rue Louis Blanc;4;4;0;0;1;operational;Paris;;paris-louisblanc-6;STATION;48.87893, 2.36908;75010;Paris/Louis Blanc/6;operational;;1;station;ok;nonexistent
+210 rue de Courcelles;0;0;0;0;0;broken;Paris;;paris-courcelles-210;STATION;48.8867348, 2.2955406;75017;Paris/Courcelles/210;broken;;0;station;closed;nonexistent
+109 avenue Félix Faure;2;2;0;0;0;operational;Paris;;paris-felixfaure-109;SPACE;48.8389208, 2.2824849;75015;Paris/Félix Faure/109;operational;;3;full_station;ok;broken
+31 rue Beaurepaire;1;1;0;0;1;operational;Paris;;paris-beaurepaire-31;STATION;48.87119, 2.364206;75010;Paris/Beaurepaire/31;operational;;3;station;ok;nonexistent
+2 Avenue de Taillebourg;6;6;0;0;0;operational;Paris;;paris-taillebourg-2;STATION;48.84948, 2.397761;75011;Paris/Taillebourg/2;operational;;0;station;ok;nonexistent
+16 place des États-Unis;0;0;0;0;1;operational;Paris;;paris-etatsunis-16;STATION;48.8684739, 2.2926576;75016;Paris/États-Unis/16;operational;;3;station;ok;nonexistent
+24 rue du Pont Louis-Philippe;0;0;0;0;1;operational;Paris;;paris-pontlouisphilippe-24;STATION;48.8557269, 2.3562973;75004;Paris/Pont Louis-Philippe/24;operational;;5;station;ok;nonexistent
+356 rue des Pyrénées;1;1;0;0;1;operational;Paris;;paris-pyrenees-356;STATION;48.8738701, 2.3864659;75020;Paris/Pyrénées/356;operational;;1;station;ok;nonexistent
+99 Rue Monge;1;1;0;0;1;operational;Paris;;paris-monge-99;STATION;48.8410649, 2.352048;75005;Paris/Monge/99;operational;;3;station;ok;nonexistent
+56 Rue La Fayette;0;0;0;0;0;operational;Paris;;paris-lafayette-56;STATION;48.875464, 2.342083;75009;Paris/La Fayette/56;operational;;3;station;ok;nonexistent
+8 Boulevard Voltaire;1;1;0;0;0;nonexistent;Paris;;paris-voltaire-8;STATION;48.8657658, 2.3664376;75011;Paris/Voltaire/8;operational;;3;station;ok;nonexistent
+188 rue de Courcelles;5;5;0;0;0;operational;Paris;;paris-courcelles-188;STATION;48.88558, 2.296675;75017;Paris/Courcelles/188;operational;;1;station;ok;nonexistent
+157 Boulevard de L'Hôpital;0;0;0;0;0;broken;Paris;;paris-lhopital-157;STATION;48.8332654, 2.3568808;75013;Paris/Hôpital/157;broken;;0;station;closed;nonexistent
+75 rue de la Chapelle;0;0;0;0;0;nonexistent;Paris;;paris-chapelle-75;STATION;48.8967147, 2.3591686;75018;Paris/Chapelle/75;broken;;0;station;closed;nonexistent
+75 Rue de la Convention;3;3;0;0;0;nonexistent;Paris;;paris-convention-75;STATION;48.8425678, 2.2848904;75015;Paris/Convention/75;operational;;1;station;ok;nonexistent
+1 Rue du Colonel Pierre Avia;3;3;0;0;0;operational;Paris;;paris-colonelpierreavia-1;STATION;48.8325995, 2.2788853;75015;Paris/Colonel Pierre Avia/1;operational;;0;station;ok;nonexistent
+2 Rue Georges Berger;4;4;0;0;0;operational;Paris;;paris-georgesberger-2;STATION;48.88093, 2.309852;75017;Paris/Georges Berger/2;operational;;1;station;ok;nonexistent
+65 Avenue Émile Zola;0;0;0;0;0;broken;Paris;;paris-emilezola-65;STATION;48.8467033, 2.2844167;75015;Paris/Émile Zola/65;operational;;3;station;ok;nonexistent
+50 Boulevard Auguste Blanqui;1;1;0;0;0;nonexistent;Paris;;paris-augusteblanqui-50;STATION;48.8299453, 2.3499186;75013;Paris/Auguste Blanqui/50;operational;;2;station;ok;nonexistent
+1 Rue de la Meurthe;3;3;0;0;1;operational;Paris;;paris-meurthe-1;STATION;48.8893057, 2.3835673;75019;Paris/Meurthe/1;operational;;2;station;ok;nonexistent
+36 Rue Étienne Marcel;0;0;0;0;0;operational;Paris;;paris-etiennemarcel-36;STATION;48.86502, 2.344388;75002;Paris/Étienne Marcel/36;operational;;4;station;ok;nonexistent
+36 quai de Béthune;0;0;0;0;1;operational;Paris;;paris-bethune-36;STATION;48.8512525, 2.3564553;75004;Paris/Béthune/36;operational;;2;station;ok;nonexistent
+178 Avenue Galliéni;2;2;0;0;0;nonexistent;Saint-Mandé;;saintmande-gallieni-178;SPACE;48.8468108, 2.4175419;94160;Saint-Mandé/Galliéni/178;operational;;2;full_station;ok;broken
+23 Boulevard de Clichy;0;0;0;0;1;operational;Paris;;paris-clichy-23;STATION;48.8826, 2.3363;75009;Paris/Clichy/23;operational;;3;station;ok;nonexistent
+13 Rue Paul Lafargue;1;1;0;0;0;nonexistent;Saint-Ouen;;saintouen-paullafargue-13;SPACE;48.912077, 2.333149;93400;Saint-Ouen/Paul Lafargue/13;operational;;4;full_station;ok;operational
+123 Grande Rue;2;2;0;2;0;nonexistent;Sèvres;;sevres-granderue-123;STATION;48.821593, 2.2050638;92310;Sèvres/Grande Rue/123;operational;;0;station;ok;nonexistent
+89 Avenue Albert Petit;0;0;0;0;0;nonexistent;Bagneux;;bagneux-albertpetit-89;STATION;48.7962, 2.319759;92220;Bagneux/Albert Petit/89;operational;;6;station;ok;nonexistent
+4 Avenue du Maine;6;6;0;0;0;operational;Paris;;paris-maine-4;STATION;48.8447061, 2.3198109;75015;Paris/Maine/4;operational;;0;station;ok;nonexistent
+6 Avenue de la Porte Pouchet;0;0;0;0;0;nonexistent;Paris;;paris-portepouchet-6;STATION;48.8979743, 2.323452;75017;Paris/Porte Pouchet/6;operational;;6;station;ok;nonexistent
+35 rue de Boucry;0;0;0;0;0;broken;Paris;;paris-boucry-35;STATION;48.895148, 2.3595823;75018;Paris/Boucry/35;broken;;0;station;closed;nonexistent
+7 boulevard Malesherbes;0;0;0;0;2;operational;Paris;;paris-malesherbes-7;STATION;48.870601, 2.3226488;75008;Paris/Malesherbes/7;operational;;4;station;ok;nonexistent
+188 Rue du Lieutenant-Colonel de Montbrison;6;6;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-demontbrison-188;STATION;48.8577, 2.1934;92500;Rueil-Malmaison/De Montbrison/188;operational;;0;station;ok;nonexistent
+403 Avenue de la République;5;5;0;0;0;nonexistent;Nanterre;;nanterre-republique-403;STATION;48.91221, 2.223302;92000;Nanterre/République/403;operational;;0;station;ok;nonexistent
+37 quai de Grenelle;4;4;0;0;0;operational;Paris;;paris-grenelle-37;STATION;48.8522422, 2.2861675;75015;Paris/Grenelle/37;operational;;1;station;ok;nonexistent
+2 rue de Cronstadt;1;1;0;0;0;nonexistent;Paris;;paris-cronstadt-2;STATION;48.83492, 2.302564;75015;Paris/Cronstadt/2;operational;;3;station;ok;nonexistent
+4 Rue Croix des Petits Champs;1;1;0;0;0;nonexistent;Paris;;paris-croixdespetitschamps-4;STATION;48.8624631, 2.3393006;75001;Paris/Croix des Petits Champs/4;operational;;0;station;ok;nonexistent
+1 Rue René Jacques;4;4;0;1;0;operational;Issy-les-Moulineaux;;issylesmoulineaux-renejacques-1;STATION;48.8238961, 2.2621859;92130;Issy-les-Moulineaux/René Jacques/1;operational;;0;station;ok;nonexistent
+62 Avenue Parmentier;0;0;0;0;0;nonexistent;Paris;;paris-parmentier-62;STATION;48.862875, 2.3765261;75011;Paris/Parmentier/62;operational;;3;station;ok;nonexistent
+8 Quai du Marché Neuf;0;0;0;0;1;operational;Paris;;paris-marcheneuf-8;STATION;48.8541989, 2.345341;75004;Paris/Marché Neuf/8;operational;;3;station;ok;nonexistent
+109 Rue du 8 mai 1945;5;5;0;0;0;nonexistent;Nanterre;;nanterre-8mai1945-109;STATION;48.8926309, 2.2063258;92000;Nanterre/8 mai 1945/109;operational;;1;station;ok;nonexistent
+2 Rue Marcel Monge;6;6;0;0;0;operational;Suresnes;;suresnes-marcelmonge-2;STATION;48.86121, 2.224382;92150;Suresnes/Marcel Monge/2;operational;;0;station;ok;nonexistent
+2 Rue du Nouveau Bercy;2;2;0;0;0;nonexistent;Charenton-le-Pont;;charentonlepont-nouveaubercy-2;STATION;48.8232903, 2.3967025;94220;Charenton-le-Pont/Nouveau Bercy/2;operational;;2;station;ok;nonexistent
+105 Rue de Rennes;1;1;0;0;0;nonexistent;Paris;;paris-rennes-105;STATION;48.8489613, 2.3287351;75006;Paris/Rennes/105;operational;;3;station;ok;nonexistent
+18 Rue Perrée;0;0;0;0;0;operational;Paris;;paris-perree-18;STATION;48.86502, 2.360503;75003;Paris/Perrée/18;operational;;0;station;ok;nonexistent
+19 Rue des Filles du Calvaire;3;3;1;0;0;operational;Paris;;paris-fillesducalvaire-19;STATION;48.8628, 2.3660304;75003;Paris/Filles du Calvaire/19;operational;;0;station;ok;nonexistent
+188 Avenue de Choisy;0;0;0;0;2;operational;Paris;;paris-choisy-188;STATION;48.8303916, 2.356917;75013;Paris/Choisy/188;operational;;4;station;ok;nonexistent
+77 Quai de Seine;0;0;0;0;0;nonexistent;Paris;;paris-seine-77;STATION;48.8886727, 2.378104;75019;Paris/Seine/77;operational;;1;station;ok;nonexistent
+30 Boulevard de Ménilmontant;3;3;0;0;1;operational;Paris;;paris-menilmontant-30;STATION;48.86191, 2.388035;75020;Paris/Ménilmontant/30;operational;;3;station;ok;nonexistent
+20 Avenue Lombard;5;5;0;0;0;nonexistent;Fontenay-aux-Roses;;fontenayauxroses-lombard-20;STATION;48.78919, 2.293033;92260;Fontenay-aux-Roses/Lombard/20;operational;;0;station;ok;nonexistent
+5 Rue des Archives;5;5;0;0;0;nonexistent;Créteil;;creteil-archives-5;STATION;48.78363, 2.456881;94000;Créteil/Archives/5;operational;;1;station;ok;nonexistent
+18 Rue Gabriel Fauré;5;5;0;0;0;nonexistent;Créteil;;creteil-gabrielfaure-18;STATION;48.7784312, 2.4623984;94000;Créteil/Gabriel Fauré/18;operational;;0;station;ok;nonexistent
+1 rue du Docteur Schweitzer;1;1;0;0;0;nonexistent;Bagneux;;bagneux-schweitzer-1;STATION;48.79006, 2.313115;92220;Bagneux/Schweitzer/1;operational;;4;station;ok;nonexistent
+26 Place Etienne Pernet;4;4;0;0;1;operational;Paris;;paris-etiennepernet-26;SPACE;48.8425947, 2.2920513;75015;Paris/Etienne Pernet/26;operational;;2;full_station;ok;operational
+20 Avenue Pablo Picasso;6;6;0;0;0;nonexistent;Nanterre;;nanterre-pablopicasso-20;STATION;48.89231, 2.214089;92000;Nanterre/Pablo Picasso/20;operational;;0;station;ok;nonexistent
+13 Rue de Lens;0;0;0;0;0;nonexistent;Nanterre;;nanterre-lens-13;STATION;48.8998826, 2.2242026;92000;Nanterre/Lens/13;operational;;5;station;ok;nonexistent
+52 Rue Carnot;4;4;0;0;0;nonexistent;Suresnes;;suresnes-carnot-52;STATION;48.8741, 2.227249;92150;Suresnes/Carnot/52;operational;;0;station;ok;nonexistent
+21 Boulevard des Invalides;4;4;1;0;0;operational;Paris;;paris-invalides-21;STATION;48.8558178, 2.3152447;75007;Paris/Invalides/21;operational;;0;station;ok;nonexistent
+1 Rue Dieumegard;0;0;0;1;0;nonexistent;Saint-Ouen;;saintouen-dieumegard-1;STATION;48.9082928, 2.3400493;93400;Saint-Ouen/Dieumegard/1;operational;;5;station;ok;nonexistent
+1 Rue du Moutier;1;1;0;0;0;nonexistent;Saint-Ouen;;saintouen-moutier-1;STATION;48.9178855, 2.3323373;93400;Saint-Ouen/Moutier/1;operational;;3;station;ok;nonexistent
+6 Rue des Bas;5;5;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-bas-6;SPACE;48.9164, 2.295224;92600;Asnières-sur-Seine/Bas/6;operational;;1;full_station;ok;operational
+6 Place Cyrano de Bergerac;3;3;0;0;0;nonexistent;Châtenay-Malabry;;chatenaymalabry-cyranodebergerac-6;STATION;48.768495, 2.250599;92290;Châtenay-Malabry/Cyrano de Bergerac/6;operational;;1;station;ok;nonexistent
+140 Avenue de la République;2;2;0;0;0;nonexistent;Châtillon;;chatillon-republique-140;STATION;48.8064005, 2.2982685;92320;Châtillon/République/140;operational;;3;station;ok;nonexistent
+45 rue Custine;0;0;0;0;0;broken;Paris;;paris-custine-45;STATION;48.8893322, 2.3442809;75018;Paris/Custine/45;broken;;0;station;closed;nonexistent
+145 avenue du Général Leclerc;4;4;0;0;0;nonexistent;Maisons-Alfort;;maisonsalfort-generalleclerc-145;STATION;48.8094628, 2.4344314;94700;Maisons-Alfort/Leclerc/145;operational;;2;station;ok;nonexistent
+12 rue Marcel Allégot;2;2;0;1;0;nonexistent;Meudon;;meudon-marcelallegot-12;STATION;48.82148, 2.22769;92190;Meudon/Marcel Allégot/12;operational;;2;station;ok;nonexistent
+8 rue Waldeck Rochet;3;3;0;0;0;nonexistent;Nanterre;;nanterre-waldeckrochet-8;STATION;48.8906294, 2.1983695;92000;Nanterre/Waldeck Rochet/8;operational;;0;station;ok;nonexistent
+126 rue d'Aubervilliers;3;3;0;0;0;operational;Paris;;paris-aubervilliers-126;STATION;48.8917059, 2.3690678;75019;Paris/Aubervilliers/126;operational;;3;station;ok;nonexistent
+157 rue Saint-Maur;0;0;0;0;0;nonexistent;Paris;;paris-saintmaur-157;STATION;48.8686522, 2.374656;75011;Paris/Saint-Maur/157;operational;;4;station;ok;nonexistent
+94 avenue de Saint-Mandé;2;2;0;0;1;operational;Paris;;paris-saintmande-94;STATION;48.8444, 2.407044;75012;Paris/Saint-Mandé/94;operational;;3;station;ok;nonexistent
+7 rue Nicolas Taunay;0;0;0;0;1;operational;Paris;;paris-nicolastaunay-7;STATION;48.8237041, 2.3195528;75014;Paris/Nicolas Taunay/7;operational;;3;station;ok;nonexistent
+38 rue d'Aubervilliers;2;2;0;0;0;operational;Paris;;paris-aubervilliers-38;STATION;48.8862071, 2.3665248;75019;Paris/Aubervilliers/38;operational;;3;station;ok;nonexistent
+1 rue des Bois;0;0;0;0;0;nonexistent;Paris;;paris-bois-1;STATION;48.8780077, 2.3966042;75019;Paris/Bois/1;operational;;2;station;ok;nonexistent
+19 rue Léon Renault;5;5;1;1;0;operational;Les Lilas;;leslilas-leonrenault-19;STATION;48.8810551, 2.4223705;93260;Les Lilas/Léon Renault/19;operational;;0;station;ok;nonexistent
+63 rue Lecourbe;1;1;0;0;1;operational;Paris;;paris-lecourbe-63;STATION;48.8435537, 2.3061617;75015;Paris/Lecourbe/63;operational;;4;station;ok;nonexistent
+27 rue Geoffroy-Saint-Hilaire;0;0;0;0;2;operational;Paris;;paris-geoffroysainthilaire-27;STATION;48.8403227, 2.3562719;75005;Paris/Geoffroy-Saint-Hilaire/27;operational;;5;station;ok;nonexistent
+59 avenue Reille;4;4;0;0;0;operational;Paris;;paris-reille-59;STATION;48.8236394, 2.3319004;75014;Paris/Reille/59;operational;;1;station;ok;nonexistent
+10 rue de la Fédération;3;3;2;0;0;operational;Paris;;paris-federation-10;STATION;48.854819, 2.2904053;75015;Paris/Fédération/10;operational;;0;station;ok;nonexistent
+42 rue Jean de la Fontaine;0;0;0;0;0;nonexistent;Paris;;paris-jeandelafontaine-42;STATION;48.8509978, 2.2719012;75016;Paris/Jean de la Fontaine/42;operational;;2;station;ok;nonexistent
+9 rue René Sahors;2;2;0;0;0;nonexistent;Vanves;;vanves-renesahors-9;STATION;48.82097, 2.29165;92170;Vanves/René Sahors/9;operational;;4;station;ok;nonexistent
+100 rue de la Commune de Paris;5;5;0;0;0;nonexistent;Romainville;;romainville-communedeparis-100;STATION;48.89449, 2.432462;93230;Romainville/Commune de Paris/100;operational;;1;station;ok;nonexistent
+26 rue Claude Decaen;1;1;0;1;2;operational;Paris;;paris-claudedecaen-26;STATION;48.8351899, 2.4002905;75012;Paris/Claude Decaen/26;operational;;4;station;ok;nonexistent
+116 rue Sadi Carnot;5;5;0;0;0;operational;Drancy;;drancy-sadicarnot-116;STATION;48.9258333, 2.4403004;93700;Drancy/Sadi Carnot/116;operational;;1;station;ok;nonexistent
+10 rue Castagnou;0;0;0;0;2;operational;Paris;;paris-castagnou-10;STATION;48.83273, 2.32608;75014;Paris/Castagnou/10;operational;;6;station;ok;nonexistent
+22 place Charles Fillion;0;0;0;0;1;operational;Paris;;paris-charlesfillion-22;STATION;48.8884456, 2.3160603;75017;Paris/Charles Fillion/22;operational;;4;station;ok;nonexistent
+174 route de l'Empereur;0;0;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-empereur-174;STATION;48.86324, 2.181831;92500;Rueil-Malmaison/Empereur/174;operational;;4;station;ok;nonexistent
+12 rue Henri Sainte-Claire Déville;4;4;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-henrisainteclairedeville-12;STATION;48.8926928, 2.1725973;92500;Rueil-Malmaison/Henri Sainte-Claire Déville/12;operational;;1;station;ok;nonexistent
+8 avenue Édouard Belin;4;4;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-edouardbelin-8;STATION;48.8876242, 2.1693918;92500;Rueil-Malmaison/Édouard Belin/8;operational;;0;station;ok;nonexistent
+330 rue des Pyrénées;2;2;0;0;0;operational;Paris;;paris-pyrenees-330;SPACE;48.8732135, 2.3903853;75020;Paris/Pyrénées/330;operational;;2;full_station;ok;operational
+60 Avenue Victor Hugo;1;1;0;0;0;operational;Paris;;paris-victorhugo-60;SPACE;48.870343, 2.286851;75016;Paris/Victor Hugo/60;operational;;2;full_station;ok;operational
+145 rue de Tolbiac;2;2;0;0;1;operational;Paris;;paris-tolbiac-145;STATION;48.8260824, 2.3580488;75013;Paris/Tolbiac/145;operational;;3;station;ok;nonexistent
+40 rue du Poteau;0;0;0;0;0;nonexistent;Paris;;paris-poteau-40;STATION;48.8945152, 2.3412577;75018;Paris/Poteau/40;operational;;3;station;ok;nonexistent
+65 rue Ordener;1;1;0;0;1;operational;Paris;;paris-ordener-65;STATION;48.8913517, 2.3507171;75018;Paris/Ordener/65;operational;;5;station;ok;nonexistent
+19 Rue Leblanc;0;0;0;0;1;operational;Paris;;paris-leblanc-19;STATION;48.83984, 2.273328;75015;Paris/Leblanc/19;operational;;5;station;ok;nonexistent
+69 Rue de Courcelles;0;0;0;0;0;operational;Paris;;paris-courcelles-69;STATION;48.878351, 2.3044935;75008;Paris/Courcelles/69;operational;;1;station;ok;nonexistent
+70 Boulevard de Clichy;1;1;0;0;0;operational;Paris;;paris-clichy-70;STATION;48.8836276, 2.3339857;75018;Paris/Clichy/70;operational;;1;station;ok;nonexistent
+65 avenue Philippe Auguste;3;3;0;0;0;operational;Paris;;paris-philippeauguste-65;STATION;48.853661, 2.3923486;75011;Paris/Philippe Auguste/65;operational;;1;station;ok;nonexistent
+9 place Saint-Augustin;0;0;0;0;0;operational;Paris;;paris-saintaugustin-9;STATION;48.875556, 2.319321;75008;Paris/Saint-Augustin/9;operational;;3;station;ok;nonexistent
+6 avenue Mathurin Moreau;3;3;0;0;0;operational;Paris;;paris-mathurinmoreau-6;SPACE;48.87808, 2.371484;75019;Paris/Mathurin Moreau/6;operational;;1;full_station;ok;operational
+155 Avenue Ledru Rollin;2;2;0;0;2;operational;Paris;;paris-ledrurollin-155;STATION;48.8553267, 2.3783382;75011;Paris/Ledru Rollin/155;operational;;3;station;ok;nonexistent
+44 Rue des Pirogues de Bercy;3;3;0;0;2;operational;Paris;;paris-piroguesdebercy-44;STATION;48.8334137, 2.388111;75012;Paris/Pirogues de Bercy/44;operational;;3;station;ok;nonexistent
+189 Rue de Tolbiac;1;1;0;0;1;operational;Paris;;paris-tolbiac-189;STATION;48.8257617, 2.3512073;75013;Paris/Tolbiac/189;operational;;4;station;ok;nonexistent
+58 Avenue D'Ivry;2;2;0;0;0;operational;Paris;;paris-divry-58;STATION;48.824068, 2.364308;75013;Paris/Ivry/58;operational;;0;station;ok;nonexistent
+16 Rue Molitor;3;3;0;0;1;operational;Paris;;paris-molitor-16;STATION;48.845175, 2.2641594;75016;Paris/Molitor/16;operational;;2;station;ok;nonexistent
+77 Boulevard Exelmans;2;2;0;0;0;nonexistent;Paris;;paris-exelmans-77;STATION;48.8432612, 2.259497;75016;Paris/Exelmans/77;operational;;1;station;ok;nonexistent
+77 Avenue de Wagram;0;0;0;0;0;nonexistent;Paris;;paris-wagram-77;STATION;48.88003, 2.29950738;75017;Paris/Wagram/77;operational;;1;station;ok;nonexistent
+54 Rue David d'Angers;4;4;0;0;2;operational;Paris;;paris-daviddangers-54;STATION;48.8817709, 2.3938462;75019;Paris/David d'Angers/54;operational;;2;station;ok;nonexistent
+69 Rue Manin;3;3;0;0;0;nonexistent;Paris;;paris-manin-69;STATION;48.8821153, 2.3814316;75019;Paris/Manin/69;operational;;1;station;ok;nonexistent
+8 rue Gaston Tessier;3;3;0;0;0;operational;Paris;;paris-gastontessier-8;STATION;48.895791, 2.373366;75019;Paris/Gaston Tessier/8;operational;;1;station;ok;nonexistent
+38 Rue Réaumur;3;3;0;0;0;operational;Paris;;paris-reaumur-38;STATION;48.8653769, 2.3573678;75003;Paris/Réaumur/38;operational;;2;station;ok;nonexistent
+41 Boulevard Bourdon;0;0;0;0;0;nonexistent;Paris;;paris-bourdon-41;SPACE;48.8524894, 2.3678127;75004;Paris/Bourdon/41;operational;;2;full_station;ok;operational
+64 rue du Faubourg Poissonnière;1;1;0;0;0;nonexistent;Paris;;paris-faubourgpoissoniere-64;STATION;48.87517, 2.348162;75010;Paris/Poissonnière/64;operational;;1;station;ok;nonexistent
+2 Rue du Buisson Saint Louis;0;0;0;0;1;operational;Paris;;paris-buissonsaintlouis-2;STATION;48.87179, 2.372482;75010;Paris/Buisson Saint Louis/2;operational;;5;station;ok;nonexistent
+28 Rue de Paradis;1;1;0;2;0;operational;Paris;;paris-paradis-28;STATION;48.8750753, 2.3523208;75010;Paris/Paradis/28;operational;;2;station;ok;nonexistent
+7 rue Raymond Pitet;0;0;0;0;1;operational;Paris;;paris-raymondpitet-7;STATION;48.8901162, 2.2964035;75017;Paris/Raymond Pitet/7;operational;;2;station;ok;nonexistent
+97 Rue de Charenton;3;3;0;0;0;operational;Paris;;paris-charenton-97;STATION;48.8476733, 2.377312;75012;Paris/Charenton/97;operational;;1;station;ok;nonexistent
+4 Avenue Jean Jaurès;1;1;0;0;0;nonexistent;Charenton-le-Pont;;charentonlepont-jeanjaures-4;SPACE;48.82214, 2.413997;94220;Charenton-le-Pont/Jean Jaurès/4;operational;;2;full_station;ok;operational
+5 Place du Commerce;1;1;0;0;0;operational;Paris;;paris-commerce-5;STATION;48.8454505, 2.292136;75015;Paris/Commerce/5;operational;;3;station;ok;nonexistent
+47 Rue de Vouillé;0;0;0;0;0;nonexistent;Paris;;paris-vouille-47;STATION;48.8338872, 2.3081344;75015;Paris/Vouillé/47;operational;;4;station;ok;nonexistent
+20 Boulevard de Vaugirard;0;0;0;0;2;operational;Paris;;paris-vaugirard-20;STATION;48.8415895, 2.3183413;75015;Paris/Vaugirard/20;operational;;3;station;ok;nonexistent
+5 Avenue Mac Mahon;3;3;0;0;0;operational;Paris;;paris-macmahon-5;STATION;48.8754776, 2.2945178;75017;Paris/Mac Mahon/5;operational;;0;station;ok;nonexistent
+115 Boulevard Pereire;0;0;1;0;1;operational;Paris;;paris-pereire-115;STATION;48.88576, 2.299225;75017;Paris/Pereire/115;operational;;3;station;ok;nonexistent
+5 bis Rue du Capitaine Ferber;5;5;0;0;0;operational;Paris;;paris-capitaineferber-5;STATION;48.865359, 2.405207;75020;Paris/Capitaine Ferber/5;operational;;1;station;ok;nonexistent
+9 Rue des Sept Arpents;4;4;0;0;0;operational;Paris;;paris-septarpents-9;STATION;48.88947, 2.398229;75019;Paris/Sept Arpents/9;operational;;0;station;ok;nonexistent
+19 Rue Polonceau;3;3;0;0;0;nonexistent;Paris;;paris-polonceau-19;STATION;48.8856198, 2.3531328;75018;Paris/Polonceau/19;operational;;1;station;ok;nonexistent
+32 boulevard Exelmans;3;3;0;0;0;operational;Paris;;paris-exelmans-32;STATION;48.8412643, 2.2643832;75016;Paris/Exelmans/32;operational;;2;station;ok;nonexistent
+18 Rue de la Perle;3;3;0;1;0;nonexistent;Paris;;paris-perle-18;SPACE;48.8597916, 2.3613291;75003;Paris/Perle/18;operational;;0;full_station;ok;operational
+3 Rue Georges Pompidou;5;5;0;0;0;operational;Les Lilas;;leslilas-georgespompidou-3;SPACE;48.8793959, 2.4156066;93260;Les Lilas/Georges Pompidou/3;operational;;0;full_station;ok;operational
+122 ter Rue de Picpus;2;2;0;0;0;operational;Paris;;paris-picpus-122;STATION;48.8373149, 2.4022445;75012;Paris/Picpus/122;operational;;2;station;ok;nonexistent
+2 Avenue John Fitzgerald Kennedy;2;2;1;0;0;operational;Le Bourget;;lebourget-johnfitzgeraldkennedy-2;STATION;48.938103, 2.4286035;93350;Le Bourget/John Fitzgerald Kennedy/2;operational;;2;station;ok;nonexistent
+15 Rue de Verdun;3;3;1;0;0;nonexistent;Suresnes;;suresnes-verdun-15;SPACE;48.871036, 2.2276552;92150;Suresnes/Verdun/15;operational;;0;full_station;ok;operational
+98 Boulevard de Vanves;1;1;0;0;0;nonexistent;Châtillon;;chatillon-vanves-98;STATION;48.8097437, 2.2827504;92320;Châtillon/Vanves/98;operational;;5;station;ok;nonexistent
+33 Avenue Sully Prudhomme;1;1;0;0;0;nonexistent;Châtenay-Malabry;;chatenaymalabry-sullyprudomme-33;STATION;48.76587, 2.290613;92290;Châtenay-Malabry/Sully Prudhomme/33;operational;;5;station;ok;nonexistent
+97 Rue Georges Guynemer;2;2;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-georgesguynemer-97;SPACE;48.91587, 2.291084;92600;Asnières-sur-Seine/Georges Guynemer/97;operational;;2;full_station;ok;operational
+113 Rue Duhesme;0;0;0;0;2;operational;Paris;;paris-duhesne-113;STATION;48.8955833, 2.3457215;75018;Paris/Duhesme/113;operational;;6;station;ok;nonexistent
+48 Rue Henri Huchard;4;4;0;0;1;operational;Paris;;paris-henrihuchard-48;STATION;48.89919, 2.330375;75018;Paris/Henri Huchard/48;operational;;2;station;ok;nonexistent
+271 Boulevard Pereire;3;3;0;1;0;operational;Paris;;paris-pereire-271;STATION;48.8781047, 2.2851178;75017;Paris/Pereire/271;operational;;0;station;ok;nonexistent
+99 Boulevard Arago;2;2;0;0;0;nonexistent;Paris;;paris-arago-99;STATION;48.834286, 2.3338533;75014;Paris/Arago/99;operational;;0;station;ok;nonexistent
+15 Rue Marcel Ethis;3;3;1;0;0;nonexistent;Romainville;;romainville-marcelethis-15;STATION;48.87798, 2.44464;93230;Romainville/Marcel Ethis/15;operational;;2;station;ok;nonexistent
+22 Boulevard de Pésaro;4;4;0;0;0;nonexistent;Nanterre;;nanterre-pesaro-22;STATION;48.8956, 2.224588;92000;Nanterre/Pésaro/22;operational;;1;station;ok;nonexistent
+52 Boulevard de la République;0;0;0;0;0;operational;La Garenne-Colombes;;lagarennecolombes-republique-52;SPACE;48.90628, 2.249208;92250;La Garenne-Colombes/République/52;operational;;4;full_station;ok;operational
+13 avenue de la Grande Armée;4;4;0;0;0;operational;Paris;;paris-grandearmee-13;SPACE;48.874641, 2.2915841;75016;Paris/Grande Armée/13;operational;;0;full_station;ok;operational
+36 Avenue Carnot;0;0;0;0;0;nonexistent;Cachan;;cachan-carnot-36;STATION;48.7985337, 2.3269032;94230;Cachan/Carnot/36;operational;;5;station;ok;nonexistent
+24 Avenue du Pont Royal;2;2;0;0;0;nonexistent;Cachan;;cachan-pontroyal-24;STATION;48.7929328, 2.3217392;94230;Cachan/Pont Royal/24;operational;;2;station;ok;nonexistent
+1 Avenue du Général Galliéni;2;2;0;0;0;nonexistent;Joinville-le-Pont;;joinvillelepont-generalgallieni-1;STATION;48.8202532, 2.4745761;94340;Joinville-le-Pont/Galliéni/1;operational;;4;station;ok;nonexistent
+7 Rue du Chevalier de la Barre;0;0;0;0;0;nonexistent;Le Bourget;;lebourget-chevalierdelabarre-7;STATION;48.9311, 2.424912;93350;Le Bourget/Chevalier de la Barre/7;broken;;0;station;closed;nonexistent
+49 Rue Paul Vaillant Couturier;4;4;0;0;0;nonexistent;Malakoff;;malakoff-paulvaillantcouturier-49;STATION;48.8137426, 2.2959516;92240;Malakoff/Paul Vaillant Couturier/49;operational;;1;station;ok;nonexistent
+4 Rue Sébastopol;5;5;0;0;0;nonexistent;Courbevoie;;courbevoie-sebastopol-4;STATION;48.8983625, 2.2475158;92400;Courbevoie/Sébastopol/4;operational;;2;station;ok;nonexistent
+47 Boulevard Charles de Gaulle;3;3;0;1;0;nonexistent;Malakoff;Station en parking;malakoff-charlesdegaulle-parking;SPACE;48.82317, 2.29935;92240;Malakoff/Charles de Gaulle/Parking;operational;;2;full_station;ok;operational
+21 Rue de Chateaudun;0;0;0;0;0;nonexistent;Paris;;paris-chateaudun-21;STATION;48.875921, 2.3382898;75009;Paris/Chateaudun/21;operational;;2;station;ok;nonexistent
+44 Avenue George V;5;5;0;1;0;operational;Paris;;paris-georgev-44;STATION;48.87057, 2.301121;75008;Paris/George V/44;operational;;0;station;ok;nonexistent
+8 Rue Denfert Rochereau;6;6;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-denfertrochereau-8;STATION;48.9069487, 2.2694015;92600;Asnières-sur-Seine/Denfert Rochereau/8;operational;;0;station;ok;nonexistent
+36 Boulevard Louise Michel;2;2;1;0;0;nonexistent;Gennevilliers;;gennevilliers-louisemichel-36;STATION;48.9226538, 2.320639;92230;Gennevilliers/Louise Michel/36;operational;;2;station;ok;nonexistent
+1 Avenue Gambetta;2;2;0;0;1;operational;Paris;;paris-gambetta-1;STATION;48.8632187, 2.388968;75020;Paris/Gambetta/1;operational;;3;station;ok;nonexistent
+26 Rue du Quatre Septembre;4;4;0;0;0;operational;Paris;;paris-quatreseptembre-26;STATION;48.8700633, 2.3340228;75002;Paris/Quatre Septembre/26;operational;;0;station;ok;nonexistent
+39 Rue Volta;1;1;0;0;0;nonexistent;Paris;;paris-volta-39;STATION;48.8665042, 2.3578808;75003;Paris/Volta/39;operational;;3;station;ok;nonexistent
+5 Rue de la Chaussée d'Antin;3;3;0;0;0;operational;Paris;;paris-chausseedantin-5;STATION;48.8716413, 2.3338862;75009;Paris/Chaussée d'Antin/5;operational;;1;station;ok;nonexistent
+20 Rue Villiot;0;0;0;0;0;broken;Paris;;paris-villiot-20;SPACE;48.841876, 2.375976;75012;Paris/Villiot/20;broken;;0;full_station;closed;broken
+18 Rue Balard;1;1;0;0;0;operational;Paris;;paris-balard-18;SPACE;48.8445403, 2.2771564;75015;Paris/Balard/18;operational;;2;full_station;ok;operational
+17 Rue Émile Zola;5;5;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-emilezola-17;STATION;48.9233235, 2.2853356;92600;Asnières-sur-Seine/Émile Zola/17;operational;;1;station;ok;nonexistent
+1 Place Ferrari;3;3;0;0;0;nonexistent;Clamart;;clamart-ferrari-1;STATION;48.7990591, 2.2625392;92140;Clamart/Ferrari/1;operational;;2;station;ok;nonexistent
+46 Rue Joseph Frantz;5;5;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-josephfrantz-46;STATION;48.8310957, 2.2665501;92130;Issy-les-Moulineaux/Joseph Frantz/46;operational;;0;station;ok;nonexistent
+57 Rue de l'Égalité;0;0;0;1;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-egalite-57;STATION;48.8167, 2.260423;92130;Issy-les-Moulineaux/Égalité/57;operational;;3;station;ok;nonexistent
+9 Rue de la Gare;5;5;0;0;0;nonexistent;Nanterre;;nanterre-gare-9;STATION;48.89591, 2.198215;92000;Nanterre/Gare/9;operational;;1;station;ok;nonexistent
+5 rue des Ecoles;3;3;0;0;0;nonexistent;Nanterre;;nanterre-ecoles-5;STATION;48.886678, 2.220199;92000;Nanterre/Ecoles/5;operational;;2;station;ok;nonexistent
+61 Boulevard Émile Zola;6;6;0;0;0;nonexistent;Nanterre;;nanterre-emilezola-61;STATION;48.89605, 2.214383;92000;Nanterre/Émile Zola/61;operational;;0;station;ok;nonexistent
+3 Avenue de la Gare;3;3;0;0;0;nonexistent;Sceaux;;sceaux-gare-3;SPACE;48.7793414, 2.2814988;92330;Sceaux/Gare/3;operational;;2;full_station;ok;operational
+2 Avenue de la Cristallerie;4;4;0;0;0;nonexistent;Sèvres;;sevres-cristallerie-2;STATION;48.82682, 2.22331;92310;Sèvres/Cristallerie/2;operational;;0;station;ok;nonexistent
+22 Rue Auguste Blanqui;3;3;0;0;0;nonexistent;Drancy;;drancy-augusteblanqui-22;STATION;48.9207972, 2.4559699;93700;Drancy/Auguste Blanqui/22;operational;;2;station;ok;nonexistent
+3 Rue Dulcie September;4;4;1;0;0;nonexistent;Saint-Ouen;;saintouen-dulcieseptember-3;STATION;48.90573, 2.321015;93400;Saint-Ouen/Dulcie September/3;operational;;1;station;ok;nonexistent
+102 Rue Juliette Savar;3;3;0;1;0;nonexistent;Créteil;;creteil-juliettesavar-102;STATION;48.77664, 2.467872;94000;Créteil/Juliette Savar/102;operational;;1;station;ok;nonexistent
+112 Avenue de Suffren;4;4;0;0;0;operational;Paris;;paris-suffren-112;STATION;48.848923, 2.3045476;75015;Paris/Suffren/112;operational;;2;station;ok;nonexistent
+27 Rue Faidherbe;4;4;0;1;0;operational;Paris;;paris-faidherbe-27;STATION;48.8525733, 2.3830368;75011;Paris/Faidherbe/27;operational;;0;station;ok;nonexistent
+168 Rue du Faubourg-Saint-Martin;2;2;0;0;0;nonexistent;Paris;;paris-faubourgsaintmartin-168;STATION;48.8772454, 2.3612521;75010;Paris/Faubourg-Saint-Martin/168;operational;;1;station;ok;nonexistent
+11 Place Stalingrad;4;4;0;0;0;nonexistent;Suresnes;;suresnes-stalingrad-11;STATION;48.86322, 2.201247;92150;Suresnes/Stalingrad/11;operational;;1;station;ok;nonexistent
+20 Chemin Latéral;5;5;0;0;1;operational;Drancy;;drancy-cheminlateral-20;STATION;48.93327, 2.455181;93700;Drancy/Latéral/20;operational;;1;station;ok;nonexistent
+1 Rue Jules Romains;2;2;0;0;1;operational;Paris;;paris-julesromains-1;SPACE;48.8727407, 2.3782985;75019;Paris/Jules Romains/1;operational;;1;full_station;ok;operational
+50 Boulevard Henri Sellier;3;3;0;0;0;nonexistent;Suresnes;;suresnes-henrisellier-50;STATION;48.86847, 2.223116;92150;Suresnes/Henri Sellier/50;operational;;3;station;ok;nonexistent
+58 Rue Saint Placide;5;5;0;0;0;operational;Paris;;paris-saintplacide-58;STATION;48.8473613, 2.3263246;75006;Paris/Saint Placide/58;operational;;0;station;ok;nonexistent
+7 Avenue Audra;5;5;0;1;0;nonexistent;Colombes;;colombes-audra-7;STATION;48.9278206, 2.2530496;92700;Colombes/Audra/7;operational;;0;station;ok;nonexistent
+1 Rue Georges Corete;0;0;0;0;0;nonexistent;Gennevilliers;;gennevilliers-georgescorete-1;SPACE;48.91757, 2.307151;92230;Gennevilliers/Georges Corete/1;broken;;0;full_station;closed;broken
+150 rue Marcadet;0;0;0;0;2;operational;Paris;;paris-marcadet-150;STATION;48.8913286, 2.3385496;75018;Paris/Marcadet/150;operational;;6;station;ok;nonexistent
+29 avenue des Champs Pierreux;2;2;0;1;0;nonexistent;Nanterre;;nanterre-champspierreux-29;SPACE;48.8886703, 2.213053;92000;Nanterre/Champs Pierreux/29;operational;;1;full_station;ok;operational
+7 rue Paul Painlevé;3;3;0;0;0;operational;Paris;;paris-paulpainleve-7;STATION;48.8499024, 2.3444286;75005;Paris/Paul Painlevé/7;operational;;0;station;ok;nonexistent
+62 rue Pierre Charron;2;2;0;0;0;nonexistent;Paris;;paris-pierrecharron-62;STATION;48.8696448, 2.3036203;75008;Paris/Pierre Charron/62;operational;;1;station;ok;nonexistent
+6 rue de Paris;5;5;0;0;0;nonexistent;Meudon;;meudon-paris-6;STATION;48.8169462, 2.2480148;92190;Meudon/Paris/6;operational;;1;station;ok;nonexistent
+65 cours de Vincennes;0;0;0;0;2;operational;Paris;;paris-vincennes-65;STATION;48.8477968, 2.4060203;75020;Paris/Vincennes/65;operational;;5;station;ok;nonexistent
+9 rue Ernest Renan;5;5;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-ernestrenan-9;STATION;48.8295855, 2.2836035;92130;Issy-les-Moulineaux/Ernest Renan/9;operational;;0;station;ok;nonexistent
+113 boulevard Malesherbes;3;3;0;0;0;operational;Paris;;paris-malesherbes-113;STATION;48.8800947, 2.3134453;75008;Paris/Malesherbes/113;operational;;1;station;ok;nonexistent
+1 rue des Nonnains d'Hyères;1;1;0;0;0;operational;Paris;;paris-nonnainsdhyeres-1;STATION;48.85378, 2.358089;75004;Paris/Nonnains d'Hyères/1;operational;;3;station;ok;nonexistent
+86 avenue de la République;0;0;0;0;2;operational;Paris;;paris-republique-86;STATION;48.8641096, 2.3799691;75011;Paris/République/86;operational;;5;station;ok;nonexistent
+54 rue Héricart;2;2;1;0;0;nonexistent;Paris;;paris-hericart-54;STATION;48.8490157, 2.2874011;75015;Paris/Héricart/54;operational;;0;station;ok;nonexistent
+22 rue de Normandie;0;0;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-normandie-22;STATION;48.9059332, 2.2852074;92600;Asnières-sur-Seine/Normandie/22;operational;;4;station;ok;nonexistent
+1 avenue de Bois Préau;6;6;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-boispreau-1;STATION;48.87681, 2.173765;92500;Rueil-Malmaison/Bois Préau/1;operational;;0;station;ok;nonexistent
+63 avenue du 18 juin 1940;5;5;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-18juin1940-63;STATION;48.8680715, 2.1930392;92500;Rueil-Malmaison/18 juin 1940/63;operational;;0;station;ok;nonexistent
+10 avenue Élise Deroche;1;1;0;0;0;nonexistent;Le Bourget;;lebourget-elisederoche-10;STATION;48.93211, 2.426913;93350;Le Bourget/Élise Deroche/10;operational;;5;station;ok;nonexistent
+133 rue Saint Jacques;4;4;1;1;0;operational;Paris;;paris-saintjacques-133;STATION;48.8469, 2.343399;75005;Paris/Saint Jacques/133;operational;;0;station;ok;nonexistent
+42 rue Charles Moureu;0;0;0;0;1;operational;Paris;;paris-charlesmoureu-42;STATION;48.82847, 2.361255;75013;Paris/Charles Moureu/42;operational;;5;station;ok;nonexistent
+14 rue Jouffroy d'Abbans;0;0;0;0;0;operational;Paris;;paris-jouffroydabbans-14;STATION;48.88676, 2.311893;75017;Paris/Jouffroy d'Abbans/14;operational;;1;station;ok;nonexistent
+15 avenue du Général Laperrine;3;3;0;0;0;operational;Paris;;paris-generallaperrine-15;STATION;48.8345778, 2.4076458;75012;Paris/Laperrine/15;operational;;3;station;ok;nonexistent
+1 avenue Dutuit;5;5;0;0;0;operational;Paris;;paris-dutuit-1;STATION;48.8662011, 2.3156932;75008;Paris/Dutuit/1;operational;;0;station;ok;nonexistent
+47 rue de la Grange aux Belles;1;1;1;0;1;operational;Paris;;paris-grangeauxbelles-47;STATION;48.87569, 2.36801;75010;Paris/Grange aux Belles/47;operational;;2;station;ok;nonexistent
+44 rue Paul Barruel;1;1;0;0;2;operational;Paris;;paris-paulbarruel-44;STATION;48.8373656, 2.3059905;75015;Paris/Paul Barruel/44;operational;;4;station;ok;nonexistent
+98 avenue Albert 1er;4;4;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-albert1er-98;STATION;48.8855277, 2.1719487;92500;Rueil-Malmaison/Albert 1er/98;operational;;1;station;ok;nonexistent
+2 rue des Mathurins;3;3;0;0;0;nonexistent;Bagneux;;bagneux-mathurins-2;STATION;48.7920857, 2.3065992;92220;Bagneux/Mathurins/2;operational;;1;station;ok;nonexistent
+3 avenue Paul Doumer;1;1;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-pauldoumer-3;STATION;48.8839089, 2.1919207;92500;Rueil-Malmaison/Paul Doumer/3;operational;;5;station;ok;nonexistent
+67 rue Mademoiselle;1;1;0;0;1;operational;Paris;;paris-mademoiselle-67;STATION;48.8434786, 2.2994811;75015;Paris/Mademoiselle/67;operational;;3;station;ok;nonexistent
+130 rue de la Porte de Trivaux;3;3;0;0;0;nonexistent;Clamart;;clamart-portedetrivaux-130;STATION;48.784687, 2.236861;92140;Clamart/Porte de Trivaux/130;operational;;1;station;ok;nonexistent
+15 boulevard Mortier;4;4;0;0;0;operational;Paris;;paris-mortier-15;STATION;48.8657, 2.408668;75020;Paris/Mortier/15;operational;;1;station;ok;nonexistent
+188 boulevard Saint-Germain;2;2;0;0;0;operational;Paris;;paris-saintgermain-188;STATION;48.85461, 2.329982;75007;Paris/Saint-Germain/188;operational;;0;station;ok;nonexistent
+77 rue Jules Michelet;0;0;0;0;0;nonexistent;Colombes;;colombes-julesmichelet-77;STATION;48.93237, 2.270769;92700;Colombes/Jules Michelet/77;broken;;0;station;closed;nonexistent
+7 rue Nouvelle;3;3;0;0;1;operational;Drancy;;drancy-nouvelle-7;STATION;48.9241686, 2.4358951;93700;Drancy/Nouvelle/7;operational;;3;station;ok;nonexistent
+18 rue Madame;0;0;0;0;0;nonexistent;Paris;;paris-madame-18;STATION;48.8507628, 2.3319002;75006;Paris/Madame/18;operational;;0;station;ok;nonexistent
+14 rue Lavoisier;7;7;0;0;0;nonexistent;Nanterre;;nanterre-lavoisier-14;STATION;48.8951698, 2.1743332;92000;Nanterre/Lavoisier/14;operational;;0;station;ok;nonexistent
+34 avenue du Cimetière Parisien;0;0;0;0;0;nonexistent;Pantin;;pantin-cimetiereparisien-34;STATION;48.9092769, 2.3988432;93500;Pantin/Cimetière Parisien/34;broken;;0;station;closed;nonexistent
+10 rue Jean Nicot;0;0;0;0;0;nonexistent;Paris;;paris-jeannicot-10;STATION;48.8611286, 2.3069867;75007;Paris/Jean Nicot/10;operational;;3;station;ok;nonexistent
+68 rue Paul Vaillant Couturier;5;5;0;0;0;nonexistent;Clamart;;clamart-paulvaillantcouturier-68;STATION;48.80476, 2.260038;92140;Clamart/Paul Vaillant Couturier/68;operational;;1;station;ok;nonexistent
+36 rue du Temple;2;2;0;0;0;nonexistent;Paris;;paris-temple-36;STATION;48.8596689, 2.3542653;75004;Paris/Temple/36;operational;;1;station;ok;nonexistent
+87 boulevard Beaumarchais;5;5;0;0;0;operational;Paris;;paris-beaumarchais-87;STATION;48.8589682, 2.3673798;75003;Paris/Beaumarchais/87;operational;;0;station;ok;nonexistent
+118 avenue du Général De Gaulle;4;4;0;0;0;nonexistent;Clamart;;clamart-generaldegaulle-118;STATION;48.7905884, 2.2639525;92140;Clamart/De Gaulle/118;operational;;2;station;ok;nonexistent
+4 rue de Colombes;4;4;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-colombes-4;STATION;48.9120069, 2.2863503;92600;Asnières-sur-Seine/Colombes/4;operational;;1;station;ok;nonexistent
+86 rue Pelleport;1;1;0;0;0;nonexistent;Paris;;paris-pelleport-86;STATION;48.8676044, 2.4021436;75020;Paris/Pelleport/86;operational;;3;station;ok;nonexistent
+21 boulevard Bonne Nouvelle;3;3;0;0;0;nonexistent;Paris;;paris-bonnenouvelle-21;STATION;48.8703, 2.349722;75002;Paris/Bonne Nouvelle/21;operational;;0;station;ok;nonexistent
+24 rue de Liège;0;0;0;0;1;operational;Paris;;paris-liege-24;STATION;48.8795963, 2.3263307;75008;Paris/Liège/24;operational;;2;station;ok;nonexistent
+97 boulevard de Port-Royal;1;1;0;0;0;nonexistent;Paris;;paris-portroyal-97;STATION;48.8383124, 2.3408664;75014;Paris/Port-Royal/97;operational;;5;station;ok;nonexistent
+6 rue Charles et Robert;2;2;0;0;1;operational;Paris;;paris-charlesetrobert-6;STATION;48.85317, 2.412055;75020;Paris/Charles et Robert/6;operational;;4;station;ok;nonexistent
+1 rue du Pré Saint Gervais;0;0;0;0;0;nonexistent;Pantin;;pantin-presaintgervais-1;SPACE;48.890711, 2.4030061;93500;Pantin/Pré Saint Gervais/1;broken;;0;full_station;closed;nonexistent
+47 rue Navier;1;1;0;0;2;operational;Paris;;paris-navier-47;STATION;48.8957574, 2.3242009;75017;Paris/Navier/47;operational;;4;station;ok;nonexistent
+139 boulevard de Grenelle;4;4;0;0;0;operational;Paris;;paris-grenelle-139;STATION;48.8483434, 2.3010296;75015;Paris/Grenelle/139;operational;;0;station;ok;nonexistent
+1 allée Parc Lagravère;6;6;0;0;0;nonexistent;Colombes;;colombes-parclagravere-1;STATION;48.92648, 2.234716;92700;Colombes/Parc Lagravère/1;operational;;1;station;ok;nonexistent
+1 rue Pierre Chausson;0;0;0;0;0;nonexistent;Paris;;paris-pierrechausson-1;STATION;48.8702567, 2.3600462;75010;Paris/Pierre Chausson/1;operational;;3;station;ok;nonexistent
+3 Rue Saint Roch;2;2;0;0;0;nonexistent;Paris;;paris-saintroch-3;STATION;48.8642939, 2.3314856;75001;Paris/Saint Roch/3;operational;;0;station;ok;nonexistent
+44 avenue du Capitaine Glarner;1;1;0;0;0;nonexistent;Saint-Ouen;;saintouen-capitaineglarner-44;STATION;48.90368, 2.329361;93400;Saint-Ouen/Capitaine Glarner/44;operational;;5;station;ok;nonexistent
+1 avenue Émile Laurent;1;1;0;0;2;operational;Paris;;paris-emilelaurent-1;STATION;48.84071, 2.409631;75012;Paris/Émile Laurent/1;operational;;3;station;ok;nonexistent
+2 rue Ponceau;2;2;0;0;0;nonexistent;Meudon;;meudon-ponceau-2;STATION;48.8124566, 2.2378816;92190;Meudon/Ponceau/2;operational;;2;station;ok;nonexistent
+1 place de Finlande;2;2;0;0;0;nonexistent;Colombes;;colombes-finlande-1;STATION;48.93164, 2.260197;92700;Colombes/Finlande/1;operational;;4;station;ok;nonexistent
+21 rue Pierre Brossolette;0;0;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -1), accès rue Marjolin;levalloisperret-marjolin-parking;PARKING;48.89545, 2.29222;92300;Levallois-Perret/Marjolin/Parking;operational;;5;station;ok;nonexistent
+55 avenue de Valenton;0;0;0;0;0;nonexistent;Limeil-Brévannes;;limeilbrevannes-valenton-55;STATION;48.74356, 2.504422;94450;Limeil-Brévannes/Valenton/55;operational;;4;station;ok;nonexistent
+12 rue Lavoisier;4;4;0;0;0;nonexistent;Limeil-Brévannes;;limeilbrevannes-lavoisier-12;STATION;48.73963, 2.490184;94450;Limeil-Brévannes/Lavoisier/12;operational;;1;station;ok;nonexistent
+1 rue Boulard;1;1;0;0;0;operational;Paris;;paris-boulard-1;STATION;48.8348549, 2.3297831;75014;Paris/Boulard/1;operational;;2;station;ok;nonexistent
+178 avenue de Versailles;6;6;0;0;0;nonexistent;Paris;Station en parking (niv -1), accès av. de Versailles;paris-versaillesreynaud-parking;PARKING;48.83964, 2.2625;75016;Paris/Versailles Reynaud/Parking;operational;;0;station;ok;nonexistent
+29 quai Austerlitz;0;0;0;1;0;nonexistent;Paris;Station en parking (niv -1), accès 29 quai d'Austerlitz;paris-quaidausterlitz-parking;PARKING;48.83943, 2.37111;75013;Paris/Quai d'Austerlitz/Parking;operational;;3;station;ok;nonexistent
+38 avenue des Ternes;2;2;0;0;0;nonexistent;Paris;Station en parking (niv -1), accès 4 av. des Ternes;paris-ternes-parking;PARKING;48.87897, 2.29329;75017;Paris/Ternes/Parking;operational;;4;station;ok;nonexistent
+15 rue du Commandant René Mouchotte;0;0;0;0;0;nonexistent;Paris;;paris-montparnassegaite-parking;PARKING;48.83881, 2.32059;75014;Paris/Montparnasse Gaîté/Parking;broken;;0;station;closed;nonexistent
+15 rue des Pyramides;0;0;0;0;0;nonexistent;Paris;;paris-pyramides-parking;PARKING;48.86514, 2.33316;75001;Paris/Pyramides/Parking;broken;;0;station;closed;nonexistent
+69 boulevard Pasteur;0;0;0;0;0;nonexistent;Paris;;paris-pasteur2-parking;PARKING;48.84064, 2.3148;75015;Paris/Pasteur 2/Parking;broken;;0;station;closed;nonexistent
+41 boulevard de Rochechouart;1;1;0;0;0;nonexistent;Paris;;paris-anvers-parking;PARKING;48.88267, 2.34405;75009;Paris/Anvers/Parking;operational;;4;station;ok;nonexistent
+100 boulevard de la LIberté;5;5;1;0;0;nonexistent;Châtillon;;chatillon-liberte-100;STATION;48.798768, 2.294377;92320;Châtillon/Liberté/100;operational;;1;station;ok;nonexistent
+7 Rue Francois 1er;4;4;0;0;1;operational;Paris;;paris-francois1er-7;STATION;48.8657733, 2.3084191;75008;Paris/Francois 1er/7;operational;;1;station;ok;nonexistent
+61 Boulevard Jean Jaurès;0;0;0;2;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-jeanjaures-61;STATION;48.83975, 2.2400622;92100;Boulogne-Billancourt/Jean Jaurès/61;operational;;1;station;ok;nonexistent
+1 Rue de Wolfenbüttel;4;4;0;1;0;nonexistent;Sèvres;;sevres-wolfenbuttel-1;STATION;48.812502, 2.213332;92310;Sèvres/Wolfenbüttel/1;operational;;0;station;ok;nonexistent
+39 Rue de Verdun;0;0;0;0;0;nonexistent;Alfortville;;alfortville-verdun-39;STATION;48.79611, 2.427023;94140;Alfortville/Verdun/39;broken;;0;station;closed;nonexistent
+1bis Avenue Joseph Franceschi;3;3;0;0;0;nonexistent;Alfortville;;alfortville-josephfranceschi-1;STATION;48.80542, 2.421282;94140;Alfortville/Joseph Franceschi/1;operational;;2;station;ok;nonexistent
+2 Rue Jean-Jacques Rousseau;3;3;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-jeanjacquesrousseau-2;STATION;48.9125949, 2.2948209;92600;Asnières-sur-Seine/Jean-Jacques Rousseau/2;operational;;3;station;ok;nonexistent
+12 Rue Francis de Pressensé;0;0;0;0;0;nonexistent;Puteaux;;puteaux-francisdepressense-12;STATION;48.8761876, 2.2361346;92800;Puteaux/Francis de Pressensé/12;operational;;5;station;ok;nonexistent
+144 boulevard Maxime Gorki;5;5;0;0;0;nonexistent;Villejuif;;villejuif-maximegorki-144;STATION;48.7893752, 2.3685212;94800;Villejuif/Maxime Gorki/144;operational;;1;station;ok;nonexistent
+114 rue Gallieni;0;0;0;0;0;broken;Boulogne-Billancourt;;boulognebillancourt-gallieni-114;SPACE;48.836581, 2.239424;92100;Boulogne-Billancourt/Gallieni/114;broken;;0;full_station;ok;operational
+11 Avenue Richerand;0;0;0;0;2;operational;Paris;;paris-richerand-11;STATION;48.87237, 2.366288;75010;Paris/Richerand/11;operational;;6;station;ok;nonexistent
+109 chaussée de l'Etang;4;4;0;0;0;nonexistent;Le Plessis-Robinson;;leplessisrobinson-chausseedeletang-109;STATION;48.783727, 2.271436;92350;Le Plessis-Robinson/Chaussée de l'Etang/109;operational;;1;station;ok;nonexistent
+2 avenue François Mauriac;2;2;0;0;0;nonexistent;Créteil;;creteil-francoismauriac-2;STATION;48.785363, 2.4528354;94000;Créteil/François Mauriac/2;operational;;4;station;ok;nonexistent
+6 avenue de Verdun;0;0;0;1;0;nonexistent;Montrouge;;montrouge-verdun-6;STATION;48.8115861, 2.3158755;92120;Montrouge/Verdun/6;operational;;4;station;ok;nonexistent
+6 avenue du Mahatma Gandhi;3;3;0;1;0;nonexistent;Paris;;paris-mahatmagandhi-6;STATION;48.876733, 2.265867;75016;Paris/Mahatma Gandhi/6;operational;;0;station;ok;nonexistent
+19 rue Brémontier;1;1;0;0;0;operational;Paris;;paris-bremontier-19;STATION;48.8849507, 2.3035012;75017;Paris/Brémontier/19;operational;;3;station;ok;nonexistent
+171 boulevard Saint-Germain;0;0;0;0;0;nonexistent;Paris;;paris-saintgermaindespres-parking;PARKING;48.85421, 2.33117;75006;Paris/Saint-Germain des Prés/Parking;broken;;0;station;closed;nonexistent
+15 avenue Émile Deschanel;2;2;0;0;0;operational;Paris;;paris-emiledeschanel-15;STATION;48.8556902, 2.3022442;75007;Paris/Émile Deschanel/15;operational;;2;station;ok;nonexistent
+19 place de la Madeleine;2;2;0;0;0;nonexistent;Paris;;paris-madeleinetronchet-parking;PARKING;48.87086, 2.32441;75008;Paris/Madeleine Tronchet/Parking;operational;;4;station;ok;nonexistent
+20 avenue Ledru Rollin;3;3;0;0;0;operational;Paris;;paris-ledrurollin-20;STATION;48.8465185, 2.3692152;75012;Paris/Ledru Rollin/20;operational;;0;station;ok;nonexistent
+2 square Tolstoï;1;1;0;0;1;operational;Paris;;paris-squaretolstoi-2;STATION;48.8531, 2.2616981;75016;Paris/Square Tolstoï/2;operational;;4;station;ok;nonexistent
+35 rue Vauvenargues;0;0;0;0;0;operational;Paris;;paris-vauvenargues-35;STATION;48.8945095, 2.3320844;75018;Paris/Vauvenargues/35;operational;;2;station;ok;nonexistent
+1 allée de Gascogne;0;0;1;0;0;nonexistent;Nanterre;;nanterre-gascogne-1;STATION;48.8998, 2.214586;92000;Nanterre/Gascogne/1;operational;;5;station;ok;nonexistent
+16 avenue du Général Malleret;3;3;0;0;0;nonexistent;Alfortville;;alfortville-malleret-16;SPACE;48.802512, 2.425589;94140;Alfortville/Malleret/16;operational;;2;full_station;ok;operational
+3 avenue Lavoisier;2;2;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-lavoisier-3;STATION;48.8832165, 2.1713037;92500;Rueil-Malmaison/Lavoisier/3;operational;;0;station;ok;nonexistent
+23 avenue du Général de Gaulle;3;3;0;0;0;nonexistent;Gennevilliers;;gennevilliers-degaulle-23;STATION;48.93368, 2.306482;92230;Gennevilliers/De Gaulle/23;operational;;3;station;ok;nonexistent
+3 rue Olivier de Serres;0;0;0;0;1;operational;Paris;;paris-olivierdeserres-3;STATION;48.8370178, 2.2986736;75015;Paris/Olivier de Serres/3;operational;;6;station;ok;nonexistent
+45 rue du Général Leclerc;1;1;0;0;0;nonexistent;Bois-Colombes;;boiscolombes-leclerc-45;STATION;48.9151496, 2.2692674;92270;Bois-Colombes/Leclerc/45;operational;;3;station;ok;nonexistent
+161 boulevard Bineau;0;0;0;0;0;nonexistent;Neuilly-sur-Seine;;neuillysurseine-bineau-161;STATION;48.8908845, 2.270197;92200;Neuilly-sur-Seine/Bineau/161;broken;;0;station;closed;nonexistent
+2 avenue Charles de Gaulle;5;5;0;0;0;nonexistent;Le Chesnay;;lechesnay-charlesdegaulle-2;STATION;48.8291166, 2.1165247;78150;Le Chesnay/Charles de Gaulle/2;operational;;0;station;ok;broken
+7 rue Pottier;0;0;0;0;0;nonexistent;Le Chesnay;;lechesnay-pottier-7;STATION;48.8259744, 2.1259591;78150;Le Chesnay/Pottier/7;operational;;6;station;ok;nonexistent
+18 rue Pasteur;7;7;0;0;0;nonexistent;Saint-Cloud;;saintcloud-pasteur-18;STATION;48.84203, 2.203811;92210;Saint-Cloud/Pasteur/18;operational;;0;station;ok;nonexistent
+44 rue de Fontenay;1;1;0;0;0;nonexistent;Vincennes;;vincennes-fontenay-44;STATION;48.84779, 2.44345;94300;Vincennes/Fontenay/44;operational;;2;station;ok;nonexistent
+111 rue Buzenval;4;4;0;0;0;nonexistent;Garches;;garches-buzenval-111;STATION;48.8519609, 2.2044093;92380;Garches/Buzenval/111;operational;;1;station;ok;nonexistent
+5 boulevard de Bercy;4;4;0;0;0;operational;Paris;;paris-bercy-5;STATION;48.8403578, 2.378739;75112;Paris/Bercy/5;operational;;0;station;ok;nonexistent
+202 avenue des Forgerons;4;4;0;0;0;nonexistent;Aubervilliers;;aubervilliers-forgerons-202;STATION;48.903407, 2.368173;93300;Aubervilliers/Forgerons/202;operational;;2;station;ok;nonexistent
+45 rue Worth;3;3;0;0;0;nonexistent;Suresnes;;suresnes-worth-45;STATION;48.8713036, 2.22119451;92150;Suresnes/Worth/45;operational;;3;station;ok;nonexistent
+16 rue du Télégraphe;0;0;0;0;1;operational;Paris;;paris-telegraphe-16;STATION;48.8723314, 2.3995098;75020;Paris/Télégraphe/16;operational;;5;station;ok;nonexistent
+1 rue Henry Espaullard;4;4;0;0;0;nonexistent;Noisy-le-Sec;;noisylesec-henryespaullard-1;STATION;48.9022488, 2.4676334;93130;Noisy-le-Sec/Henry Espaullard/1;operational;;2;station;ok;nonexistent
+25 avenue Georges Clémenceau;4;4;0;1;0;nonexistent;Neuilly-Plaisance;;neuillyplaisance-georgesclemenceau-25;STATION;48.8618674, 2.5037509;93360;Neuilly-Plaisance/Georges Clémenceau/25;operational;;0;station;ok;nonexistent
+6 place du Président Mithouard;1;1;0;0;0;operational;Paris;;paris-mithouard-6;STATION;48.8512827, 2.3129161;75007;Paris/Mithouard/6;operational;;5;station;ok;nonexistent
+135 avenue de Verdun;0;0;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-verdun-135;STATION;48.81855, 2.25291;92130;Issy-les-Moulineaux/Verdun/135;operational;;4;station;ok;nonexistent
+42 rue Gardenat Lapostol;4;4;0;0;0;nonexistent;Suresnes;;suresnes-gardenatlapostol-42;STATION;48.87394, 2.224003;92150;Suresnes/Gardenat Lapostol/42;operational;;0;station;ok;nonexistent
+20 boulevard de la Bastille;4;4;0;0;0;operational;Paris;;paris-bastille-20;STATION;48.84837, 2.367915;75012;Paris/Bastille/20;operational;;0;station;ok;nonexistent
+1 rue Françoise Dolto;2;2;0;0;1;operational;Paris;;paris-francoisedolto-1;STATION;48.82934, 2.382635;75013;Paris/Françoise Dolto/1;operational;;1;station;ok;nonexistent
+127 rue de Verdun;0;0;0;0;0;nonexistent;Bagneux;;bagneux-verdun-127;STATION;48.8019167, 2.321829;92220;Bagneux/Verdun/127;operational;;6;station;ok;nonexistent
+55 avenue de Ségur;3;3;0;0;2;operational;Paris;;paris-segur-55;STATION;48.8492973, 2.3077697;75007;Paris/Ségur/55;operational;;3;station;ok;nonexistent
+26 rue Berbier du Mets;0;0;0;0;0;nonexistent;Paris;;paris-berbierdumets-26;STATION;48.8356, 2.350015;75013;Paris/Berbier du Mets/26;operational;;3;station;ok;nonexistent
+52 boulevard de Charonne;4;4;0;0;1;operational;Paris;;paris-charonne-52;STATION;48.8518536, 2.3982137;75020;Paris/Charonne/52;operational;;2;station;ok;nonexistent
+33 route du Pavé des Gardes;4;4;0;0;0;nonexistent;Chaville;;chaville-pavedesgardes-33;STATION;48.80551, 2.184925;92370;Chaville/Pavé des Gardes/33;operational;;2;station;ok;nonexistent
+3 bis rue Terre Neuve;2;2;0;0;0;nonexistent;Meudon;;meudon-terreneuve-3;STATION;48.8077664, 2.2350182;92190;Meudon/Terre Neuve/3;operational;;4;station;ok;nonexistent
+30 avenue de Verdun;4;4;0;0;0;nonexistent;Villeneuve-la-Garenne;;villeneuvelagarenne-verdun-30;STATION;48.935552, 2.332598;92390;Villeneuve-la-Garenne/Verdun/30;operational;;2;station;ok;operational
+71 rue Marx Dormoy;4;4;0;0;0;nonexistent;Fontenay-aux-Roses;;fontenayauxroses-marxdormoy-71;STATION;48.794247, 2.297986;92260;Fontenay-aux-Roses/Marx Dormoy/71;operational;;2;station;ok;nonexistent
+3 rue Jean Veber;3;3;0;0;0;operational;Paris;;paris-jeanveber-3;STATION;48.8624944, 2.4096676;75020;Paris/Jean Veber/3;operational;;2;station;ok;nonexistent
+32 boulevard des Invalides;0;0;0;0;0;nonexistent;Paris;;paris-invalides-32;STATION;48.85206, 2.314345;75007;Paris/Invalides/32;operational;;3;station;ok;nonexistent
+116 rue de Reuilly;0;0;0;0;0;operational;Paris;;paris-reuilly-116;STATION;48.840277, 2.3946269;75012;Paris/Reuilly/116;operational;;1;station;ok;nonexistent
+3 place Richelieu;5;5;0;1;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-richelieu-3;STATION;48.87339, 2.182237;92500;Rueil-Malmaison/Richelieu/3;operational;;0;station;ok;nonexistent
+2 rue de Martignac;4;4;0;0;0;operational;Paris;;paris-martignac-2;STATION;48.8593659, 2.3195393;75007;Paris/Martignac/2;operational;;0;station;ok;nonexistent
+120 boulevard Auguste Blanqui;2;2;0;0;1;operational;Paris;;paris-augusteblanqui-120;STATION;48.83164, 2.342243;75013;Paris/Auguste Blanqui/120;operational;;3;station;ok;nonexistent
+22 rue de Lorraine;2;2;0;0;0;nonexistent;Paris;;paris-lorraine-22;STATION;48.8857, 2.3833508;75019;Paris/Lorraine/22;operational;;2;station;ok;nonexistent
+3 rue Jean Jaurès;1;1;0;0;0;nonexistent;Fontenay-aux-Roses;;fontenayauxroses-jeanjaures-3;SPACE;48.7906824, 2.28727;92260;Fontenay-aux-Roses/Jean Jaurès/3;operational;;3;full_station;ok;operational
+95 rue des Morillons;1;1;0;0;2;operational;Paris;;paris-morillons-95;STATION;48.8319972, 2.3048474;75015;Paris/Morillons/95;operational;;5;station;ok;nonexistent
+7 rue du Colonel Driant;1;1;0;1;0;nonexistent;Paris;;paris-coloneldriant-7;STATION;48.8633915, 2.3403966;75001;Paris/Colonel Driant/7;operational;;1;station;ok;nonexistent
+1 place Saint Gervais;5;5;0;0;0;operational;Paris;;paris-saintgervais-1;STATION;48.855842, 2.354055;75004;Paris/Saint Gervais/1;operational;;0;station;ok;nonexistent
+76 rue de la Victoire;1;1;0;0;1;operational;Paris;;paris-victoire-76;STATION;48.8753135, 2.332521;75009;Paris/Victoire/76;operational;;3;station;ok;nonexistent
+3 rue de Bérite;4;4;0;0;0;nonexistent;Paris;;paris-berite-3;STATION;48.847875, 2.3239783;75006;Paris/Bérite/3;operational;;0;station;ok;nonexistent
+1 avenue Anatole France;2;2;0;0;0;nonexistent;Pantin;;pantin-anatolefrance-1;STATION;48.8946957, 2.4254593;93500;Pantin/Anatole France/1;operational;;3;station;ok;nonexistent
+79 rue de Lourmel;3;3;0;0;0;nonexistent;Paris;;paris-lourmel-79;STATION;48.8451076, 2.287503;75015;Paris/Lourmel/79;operational;;1;station;ok;nonexistent
+6 rue Rochambeau;1;1;0;0;0;broken;Paris;;paris-rochambeau-6;STATION;48.8774174, 2.3465915;75009;Paris/Rochambeau/6;operational;;3;station;ok;nonexistent
+37 rue de Dantzig;0;0;0;0;0;operational;Paris;;paris-dantzig-37;STATION;48.8335103, 2.2987201;75015;Paris/Dantzig/37;operational;;5;station;ok;nonexistent
+44 avenue de la Marne;2;2;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-marne-44;STATION;48.9073637, 2.2830507;92600;Asnières-sur-Seine/Marne/44;operational;;3;station;ok;nonexistent
+74 rue Vasco de Gama;0;0;0;1;0;nonexistent;Paris;;paris-vascodegama-74;STATION;48.835427, 2.2851648;75015;Paris/Vasco de Gama/74;operational;;0;station;ok;nonexistent
+1 rue Fernand Labori;0;0;0;0;2;operational;Paris;;paris-fernandlabori-1;STATION;48.898303, 2.3423252;75018;Paris/Fernand Labori/1;operational;;6;station;ok;nonexistent
+80 rue Didot;0;0;0;0;0;nonexistent;Paris;;paris-didot-80;STATION;48.8287242, 2.3165845;75014;Paris/Didot/80;operational;;1;station;ok;nonexistent
+23 rue du Départ;2;2;0;0;1;operational;Paris;;paris-depart-23;STATION;48.842173, 2.323305;75014;Paris/Départ/23;operational;;3;station;ok;nonexistent
+55 boulevard de la Villette;2;2;0;0;0;operational;Paris;;paris-villette-55;STATION;48.87565, 2.372715;75010;Paris/Villette/55;operational;;2;station;ok;nonexistent
+80 rue François Miron;0;0;0;0;0;operational;Paris;;paris-francoismiron-80;STATION;48.8553672, 2.3591939;75004;Paris/François Miron/80;operational;;4;station;ok;nonexistent
+8 rue Danton;4;4;0;0;0;operational;Paris;;paris-danton-8;STATION;48.85262, 2.342107;75006;Paris/Danton/8;operational;;0;station;ok;nonexistent
+21 rue Paul Bert;0;0;0;0;0;nonexistent;Arcueil;;arcueil-paulbert-21;STATION;48.8042795, 2.3288429;94110;Arcueil/Paul Bert/21;operational;;5;station;ok;nonexistent
+7 boulevard d'Algérie;2;2;0;0;0;nonexistent;Paris;;paris-algerie-7;STATION;48.8799263, 2.4004487;75019;Paris/Algérie/7;operational;;2;station;ok;nonexistent
+41 avenue de Verdun;3;3;0;0;0;nonexistent;La Garenne-Colombes;;lagarennecolombes-verdun-41;STATION;48.90387, 2.230934;92250;La Garenne-Colombes/Verdun/41;operational;;2;station;ok;nonexistent
+175 avenue du 18 Juin 1940;5;5;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-18juin1940-175;STATION;48.8650741, 2.2053436;92500;Rueil-Malmaison/18 Juin 1940/175;operational;;0;station;ok;nonexistent
+21 bis rue Notre-Dame des Victoires;2;2;0;0;0;nonexistent;Paris;;paris-notredamedesvictoires-21;STATION;48.8696994, 2.3423247;75002;Paris/Notre-Dame des Victoires/21;operational;;2;station;ok;nonexistent
+11 rue Eugène Varlin;0;0;0;0;0;nonexistent;Villejuif;;villejuif-eugenevarlin-11;STATION;48.794223, 2.363047;94800;Villejuif/Eugène Varlin/11;operational;;6;station;ok;nonexistent
+192 avenue Pierre Brossolette;1;1;0;0;0;nonexistent;Malakoff;;malakoff-pierrebrossolette-192;STATION;48.8139, 2.302489;92240;Malakoff/Pierre Brossolette/192;operational;;3;station;ok;nonexistent
+2 boulevard Pesaro;3;3;0;0;0;nonexistent;Nanterre;;nanterre-pesaro-2;STATION;48.89709, 2.220012;92000;Nanterre/Pesaro/2;operational;;3;station;ok;nonexistent
+4 rue Claude-Nicolas Ledoux;5;5;0;0;0;nonexistent;Créteil;;creteil-claudenicolasledoux-4;STATION;48.766, 2.470911;94000;Créteil/Claude-Nicolas Ledoux/4;operational;;0;station;ok;nonexistent
+1 rue Claude Pernès;3;3;0;1;0;nonexistent;Rosny-sous-Bois;;rosnysousbois-claudepernes-1;SPACE;48.8728916, 2.4872191;93110;Rosny-sous-Bois/Claude Pernès/1;operational;;1;full_station;ok;operational
+2 rue Henri Martin;2;2;0;1;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-henrimartin-2;STATION;48.8365078, 2.2524132;92100;Boulogne-Billancourt/Henri Martin/2;operational;;0;station;ok;nonexistent
+6 rue de Londres;0;0;0;0;0;nonexistent;Paris;;paris-londres-6;STATION;48.8768536, 2.3302084;75009;Paris/Londres/6;broken;;0;station;closed;nonexistent
+41 rue Didot;1;1;0;0;0;nonexistent;Paris;;paris-didot-41;STATION;48.8318566, 2.3202972;75014;Paris/Didot/41;operational;;2;station;ok;nonexistent
+1 avenue du Général Sarrail;1;1;1;1;0;nonexistent;Paris;Station en parking (niv -1), accès av. gén Sarrail;paris-portedauteuil-parking;PARKING;48.84655, 2.25625;75016;Paris/Porte d'Auteuil/Parking;operational;;0;station;ok;nonexistent
+61 boulevard Saint-Jacques;0;0;0;0;0;nonexistent;Paris;;paris-saintjacques1-parking;PARKING;48.83377, 2.33369;75014;Paris/Saint-Jacques 1/Parking;broken;;0;station;closed;nonexistent
+2 place Joffre;0;0;0;0;0;nonexistent;Paris;;paris-joffreecolemilitaire-parking;PARKING;48.85425, 2.30503;75007;Paris/Joffre Ecole Militaire/Parking;operational;;6;station;ok;nonexistent
+27 boulevard Gallieni;4;4;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-gallieni-27;STATION;48.8272976, 2.2678365;92130;Issy-les-Moulineaux/Gallieni/27;operational;;2;station;ok;nonexistent
+152 avenue d'Argenteuil;1;1;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-argenteuil-152;STATION;48.9175117, 2.281802;92600;Asnières-sur-Seine/Argenteuil/152;operational;;4;station;ok;nonexistent
+56 Rue Lacordaire;0;0;0;0;0;nonexistent;Paris;;paris-lacordaire-56;STATION;48.8412857, 2.2813956;75015;Paris/Lacordaire/56;broken;;0;station;closed;nonexistent
+16 Rue Sofia;0;0;0;0;1;operational;Paris;;paris-sofia-16;STATION;48.8850068, 2.3475914;75018;Paris/Sofia/16;operational;;3;station;ok;nonexistent
+205 Avenue Georges Clémenceau;5;5;0;0;0;nonexistent;Nanterre;;nanterre-georgesclemenceau-205;STATION;48.886018, 2.215877;92000;Nanterre/Georges Clémenceau/205;operational;;2;station;ok;nonexistent
+81 Avenue de la Division Leclerc;0;0;0;0;0;nonexistent;Châtenay-Malabry;;chatenaymalabry-divisionleclerc-81;STATION;48.7622887, 2.2838864;92290;Châtenay-Malabry/Division Leclerc/81;broken;;0;station;closed;nonexistent
+21 Rue Charles Drot;1;1;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-charlesdrot-21;STATION;48.876218, 2.187679;92500;Rueil-Malmaison/Charles Drot/21;operational;;2;station;ok;nonexistent
+11 Rue du Lieutenant Colonel Driant;1;1;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-lieutenantcoloneldriant-11;STATION;48.87651, 2.200921;92500;Rueil-Malmaison/Lieutenant Colonel Driant/11;operational;;1;station;ok;nonexistent
+149 Avenue de Paris;3;3;0;0;0;nonexistent;Villejuif;;villejuif-paris-149;STATION;48.79917, 2.3657254;94800;Villejuif/Paris/149;operational;;2;station;ok;nonexistent
+215 Avenue des Grésillons;4;4;0;1;0;nonexistent;Gennevilliers;;gennevilliers-gresillons-215;STATION;48.91985, 2.314065;92230;Gennevilliers/Grésillons/215;operational;;0;station;ok;nonexistent
+705 Avenue Roger Salengro;0;0;0;0;0;nonexistent;Chaville;;chaville-rogersalengro-705;STATION;48.8149125, 2.1935315;92370;Chaville/Roger Salengro/705;operational;;2;station;ok;nonexistent
+1 Rue Riocreux;2;2;0;1;0;nonexistent;Sèvres;;sevres-riocreux-1;STATION;48.8261, 2.20015;92310;Sèvres/Riocreux/1;operational;;3;station;ok;nonexistent
+126 Rue Legendre;0;0;0;0;0;operational;Paris;;paris-legendre-126;STATION;48.88879, 2.32219;75017;Paris/Legendre/126;operational;;3;station;ok;nonexistent
+20 Rue Saint John Perse;1;1;0;0;0;nonexistent;Limeil-Brévannes;;limeilbrevannes-saintjohnperse-20;STATION;48.7508, 2.473075;94450;Limeil-Brévannes/Saint John Perse/20;operational;;5;station;ok;nonexistent
+4 Rue Lobau;2;2;0;0;0;nonexistent;Paris;Borne d'abonnement en sous-sol (niv -1), accès 4 rue Lobau;paris-lobau-parking;PARKING;48.85608, 2.35342;75004;Paris/Lobau/Parking;operational;;2;station;ok;operational
+25 rue de Galvani;2;2;0;0;1;operational;Paris;;paris-galvani-25;STATION;48.8840365, 2.2896705;75017;Paris/Galvani/25;operational;;3;station;ok;nonexistent
+56 avenue du Maréchal de Lattre de Tassigny;6;6;0;0;0;nonexistent;Créteil;;creteil-marechaldelattredetassigny-56;STATION;48.79834, 2.455145;94000;Créteil/Maréchal de Lattre de Tassigny/56;operational;;0;station;ok;nonexistent
+4 rue Beaugrenelle;0;0;0;0;0;operational;Paris;;paris-beaugrenelle-4;STATION;48.8478735, 2.2847016;75015;Paris/Beaugrenelle/4;operational;;1;station;ok;nonexistent
+43 rue Vivienne;0;0;0;0;0;nonexistent;Paris;;paris-vivienne-43;STATION;48.8705626, 2.3408933;75002;Paris/Vivienne/43;broken;;0;station;closed;nonexistent
+99 rue Charles-de-Gaulle;5;5;0;0;0;operational;Yerres;;yerres-charlesdegaulle-99;STATION;48.7164252, 2.4860044;91330;Yerres/Charles-de-Gaulle/99;operational;;1;station;ok;nonexistent
+1 rue Claude Terrasse;3;3;0;1;0;operational;Le Blanc-Mesnil;;leblancmesnil-claudeterrasse-1;STATION;48.9376981, 2.462453;93150;Le Blanc-Mesnil/Claude Terrasse/1;operational;;2;station;ok;nonexistent
+16 avenue Galilée;3;3;0;0;0;nonexistent;Le Plessis-Robinson;;leplessisrobinson-galilee-16;STATION;48.77758, 2.24625349;92350;Le Plessis-Robinson/Galilée/16;operational;;3;station;ok;nonexistent
+39 rue du Port à l'Anglais;6;6;0;0;0;nonexistent;Alfortville;;alfortville-portalanglais-39;STATION;48.8056173, 2.4144555;94140;Alfortville/Port à l'Anglais/39;operational;;0;station;ok;nonexistent
+1 rue Emile Raspail;0;0;0;0;0;nonexistent;Arcueil;;arcueil-emileraspail-1;STATION;48.7998263, 2.3312852;94110;Arcueil/Emile Raspail/1;operational;;3;station;ok;nonexistent
+11 avenue Pasteur;4;4;0;0;0;nonexistent;Saint-Mandé;;saintmande-pasteur-11;STATION;48.8454583, 2.4235655;94160;Saint-Mandé/Pasteur/11;operational;;1;station;ok;nonexistent
+103 avenue Charles de Gaulle;4;4;0;0;0;nonexistent;Le Chesnay;;lechesnay-charlesdegaulle-103;STATION;48.829499, 2.1275746;78150;Le Chesnay/Charles de Gaulle/103;operational;;0;station;ok;nonexistent
+2 avenue du Général Leclerc;3;3;0;0;0;nonexistent;Le Chesnay;;lechesnay-leclerc-2;STATION;48.81562, 2.129228;78150;Le Chesnay/Leclerc/2;operational;;0;station;ok;nonexistent
+2 rue Maurice Berteaux;1;1;0;0;0;nonexistent;Paris;;paris-mauriceberteaux-2;STATION;48.8679083, 2.4100481;75020;Paris/Maurice Berteaux/2;operational;;2;station;ok;nonexistent
+59 boulevard Saint-Jacques;0;0;0;0;1;operational;Paris;;paris-saintjacques-59;STATION;48.83293, 2.336582;75014;Paris/Saint-Jacques/59;operational;;5;station;ok;nonexistent
+35 rue Victor Massé;2;2;0;0;0;operational;Paris;;paris-victormasse-35;STATION;48.88109, 2.336666;75009;Paris/Victor Massé/35;operational;;2;station;ok;nonexistent
+76 Boulevard de la Tour-Maubourg;3;3;0;0;0;nonexistent;Paris;;paris-tourmaubourg-76;STATION;48.8560129, 2.3097645;75007;Paris/Tour-Maubourg/76;operational;;2;station;ok;nonexistent
+1 rue Jean Monnet;4;4;0;0;0;nonexistent;Nogent-sur-Marne;;nogentsurmarne-jeanmonnet-1;SPACE;48.8383861, 2.4934423;94130;Nogent-sur-Marne/Jean Monnet/1;operational;;0;full_station;ok;broken
+2 rue Paul Dautier;7;7;0;0;0;nonexistent;Vélizy-Villacoublay;;velizyvillacoublay-pauldautier-2;STATION;48.7805519, 2.20984769;78140;Vélizy-Villacoublay/Paul Dautier/2;operational;;0;station;ok;nonexistent
+46 rue Edgard Quinet;6;6;0;0;0;nonexistent;Neuilly-Plaisance;;neuillyplaisance-edgardquinet-46;STATION;48.8558528, 2.5112935;93360;Neuilly-Plaisance/Edgard Quinet/46;operational;;0;station;ok;nonexistent
+1 allée des recoudés;5;5;0;0;0;nonexistent;Gennevilliers;;gennevilliers-recoudes-1;STATION;48.94115, 2.304834;92230;Gennevilliers/Recoudés/1;operational;;1;station;ok;nonexistent
+1 rue de la Poste Prolongée;1;1;0;0;0;nonexistent;Argenteuil;;argenteuil-posteprolongee-1;STATION;48.945768, 2.250221;95100;Argenteuil/Poste Prolongée/1;operational;;5;station;ok;nonexistent
+28 rue Darcet;0;0;0;0;1;operational;Paris;;paris-darcet-28;STATION;48.8845364, 2.3246579;75017;Paris/Darcet/28;operational;;3;station;ok;nonexistent
+20 bis rue du Sergent Godefroy;6;6;0;0;0;nonexistent;Montreuil;;montreuil-sergentgodefroy-20;STATION;48.8542461, 2.4312421;93100;Montreuil/Sergent Godefroy/20;operational;;0;station;ok;nonexistent
+59 avenue Marceau;1;1;0;0;1;operational;Paris;;paris-marceau-59;STATION;48.8698929, 2.2976445;75016;Paris/Marceau/59;operational;;1;station;ok;nonexistent
+7 rue Arthur Chevalier;4;4;0;2;0;nonexistent;Aulnay-sous-bois;;aulnaysousbois-arthurchevalier-7;STATION;48.9305794, 2.5063639;93600;Aulnay-sous-bois/Arthur Chevalier/7;operational;;0;station;ok;nonexistent
+22 boulevard Félix Faure;4;4;0;0;0;nonexistent;Aulnay-sous-bois;;aulnaysousbois-felixfaure-22;SPACE;48.9336577, 2.4994113;93600;Aulnay-sous-bois/Félix Faure/22;operational;;2;full_station;ok;broken
+1 rue Jacques Duchesne;0;0;0;0;0;operational;Paris;;paris-jacquesduchesne-1;STATION;48.8989321, 2.3740363;75019;Paris/Jacques Duchesne/1;operational;;0;station;ok;nonexistent
+1 rue Manin;1;1;0;0;0;nonexistent;Paris;;paris-manin-1;STATION;48.8765968, 2.3790176;75019;Paris/Manin/1;operational;;1;station;ok;nonexistent
+2 rue Joseph Marie Jacquard;0;0;0;0;0;nonexistent;Aulnay-sous-bois;;aulnaysousbois-josephmariejacquard-2;STATION;48.949062, 2.488596;93600;Aulnay-sous-bois/Joseph Marie Jacquard/2;broken;;0;station;closed;nonexistent
+20 rue Clovis;0;0;0;0;1;operational;Paris;;paris-clovis-20;STATION;48.8463237, 2.3484148;75005;Paris/Clovis/20;operational;;5;station;ok;nonexistent
+29 rue Galilée;5;5;1;0;0;nonexistent;Montreuil;;montreuil-galilee-29;STATION;48.8601571, 2.4492331;93100;Montreuil/Galilée/29;operational;;0;station;ok;nonexistent
+64 Rue de Fitzelin;5;5;0;0;0;nonexistent;Épinay-sur-Seine;;epinaysurseine-fitzelin-64;STATION;48.960565, 2.3068329;93800;Épinay-sur-Seine/Fitzelin/64;operational;;0;station;ok;nonexistent
+6 avenue de Flandre;3;3;0;0;0;operational;Paris;;paris-flandre-6;STATION;48.8846108, 2.3697594;75019;Paris/Flandre/6;operational;;1;station;ok;nonexistent
+7 rue Félix Faure;0;0;0;0;0;nonexistent;Colombes;;colombes-felixfaure-7;STATION;48.914886, 2.2535759;92700;Colombes/Félix Faure/7;operational;;5;station;ok;nonexistent
+42 rue Pierre Brossolette;6;6;0;0;0;nonexistent;Colombes;;colombes-pierrebrossolette-42;STATION;48.9095967, 2.2387915;92700;Colombes/Pierre Brossolette/42;operational;;0;station;ok;nonexistent
+32 boulevard Jean-Baptiste Oudry;5;5;0;0;0;nonexistent;Créteil;;creteil-jeanbaptisteoudry-32;STATION;48.7738474, 2.4600815;94000;Créteil/Jean-Baptiste Oudry/32;operational;;1;station;ok;nonexistent
+243 rue Saint-Martin;2;2;0;1;0;operational;Paris;;paris-saintmartin-243;STATION;48.8657616, 2.3530583;75003;Paris/Saint-Martin/243;operational;;2;station;ok;nonexistent
+2 bis rue Valette;1;1;0;0;2;operational;Paris;;paris-valette-2;STATION;48.8479993, 2.3469365;75005;Paris/Valette/2;operational;;4;station;ok;nonexistent
+38 rue du Four;0;0;0;0;0;broken;Paris;;paris-four-38;STATION;48.8524509, 2.3314662;75006;Paris/Four/38;broken;;0;station;closed;nonexistent
+78 avenue de Suffren;2;2;0;0;0;operational;Paris;;paris-suffren-78;STATION;48.851832, 2.2997986;75015;Paris/Suffren/78;operational;;1;station;ok;nonexistent
+68 avenue Mozart;5;5;0;0;0;operational;Paris;;paris-mozart-68;STATION;48.8534164, 2.2685249;75016;Paris/Mozart/68;operational;;1;station;ok;nonexistent
+12 place du Général Koënig;0;0;0;0;1;operational;Paris;;paris-generalkoenig-12;STATION;48.88112, 2.284095;75017;Paris/Koënig/12;operational;;2;station;ok;nonexistent
+120 boulevard Gabriel Péri;1;1;0;0;0;nonexistent;Malakoff;;malakoff-gabrielperi-120;STATION;48.8192396, 2.3040697;92240;Malakoff/Gabriel Péri/120;operational;;6;station;ok;nonexistent
+123 Rue Salvador Allende;6;6;0;1;0;nonexistent;Nanterre;;nanterre-salvadorallende-123;STATION;48.89406, 2.22547;92000;Nanterre/Salvador Allende/123;operational;;0;station;ok;nonexistent
+60 rue Edouard Vaillant;4;4;0;0;0;nonexistent;Bagnolet;;bagnolet-edouardvaillant-60;STATION;48.85764, 2.415732;93170;Bagnolet/Edouard Vaillant/60;operational;;2;station;ok;nonexistent
+2 boulevard Edgar Quinet;2;2;0;0;0;operational;Paris;;paris-edgarquinet-2;STATION;48.8395108, 2.3301676;75014;Paris/Edgar Quinet/2;operational;;0;station;ok;nonexistent
+16 rue de Botzaris;2;2;1;0;0;operational;Paris;;paris-botzaris-16;STATION;48.8768667, 2.3811899;75019;Paris/Botzaris/16;operational;;3;station;ok;nonexistent
+70 avenue du Général de Gaulle;0;0;0;0;0;nonexistent;Créteil;;creteil-generaldegaulle-70;STATION;48.79699, 2.447968;94000;Créteil/De Gaulle/70;broken;;0;station;closed;nonexistent
+12 rue Denfert Rochereau;1;1;0;0;0;nonexistent;Créteil;;creteil-denfertrochereau-12;STATION;48.7912032, 2.4504989;94000;Créteil/Denfert Rochereau/12;operational;;3;station;ok;nonexistent
+2 avenue de l'Épi d’Or;5;5;1;0;0;nonexistent;Villejuif;;villejuif-epidor-2;STATION;48.78148, 2.354342;94800;Villejuif/Épi d'Or/2;operational;;0;station;ok;nonexistent
+11 avenue René Coty;5;5;0;0;0;operational;Paris;;paris-renecoty-11;STATION;48.8308657, 2.3339608;75014;Paris/René Coty/11;operational;;0;station;ok;nonexistent
+136 boulevard Raspail;0;0;0;0;0;broken;Paris;;paris-raspail-136;STATION;48.8425101, 2.3292257;75006;Paris/Raspail/136;broken;;0;station;closed;nonexistent
+125 bis avenue Parmentier;0;0;0;0;2;operational;Paris;;paris-parmentier-125;STATION;48.8690795, 2.371679;75011;Paris/Parmentier/125;operational;;6;station;ok;nonexistent
+21 rue Miollis;4;4;0;0;1;operational;Paris;;paris-miollis-21;STATION;48.8458068, 2.3038076;75015;Paris/Miollis/21;operational;;1;station;ok;nonexistent
+40 avenue Pierre Kerautret;4;4;0;0;0;nonexistent;Romainville;;romainville-pierrekerautret-40;SPACE;48.8826947, 2.4435891;93230;Romainville/Pierre Kerautret/40;operational;;2;full_station;ok;operational
+1 avenue Rachel;0;0;0;0;1;operational;Paris;;paris-rachel-1;STATION;48.8844148, 2.3305461;75018;Paris/Rachel/1;operational;;5;station;ok;nonexistent
+188 avenue de Paris;1;1;0;0;0;nonexistent;Châtillon;;chatillon-stalingrad-5;STATION;48.8102855, 2.2995297;92320;Châtillon/Stalingrad/5;operational;;4;station;ok;nonexistent
+50 boulevard de la Bastille;0;0;0;0;0;broken;Paris;;paris-bastille-50;STATION;48.8515769, 2.369445;75012;Paris/Bastille/50;broken;;0;station;closed;nonexistent
+233 avenue Général De Gaulle;2;2;0;0;0;nonexistent;Clamart;;clamart-generaldegaulle-233;STATION;48.7870782, 2.255763;92140;Clamart/De Gaulle/233;operational;;4;station;ok;nonexistent
+26 rue Huché;1;1;0;1;0;operational;Suresnes;;suresnes-huche-26;STATION;48.8766119, 2.2218839;92150;Suresnes/Huché/26;operational;;2;station;ok;nonexistent
+4 rue Pouchet;0;0;0;0;1;operational;Paris;;paris-pouchet-4;STATION;48.8916817, 2.318781;75017;Paris/Pouchet/4;operational;;4;station;ok;nonexistent
+90 boulevard National;5;5;0;0;0;nonexistent;La Garenne-Colombes;;lagarennecolombes-national-90;STATION;48.9086393, 2.2374151;92250;La Garenne-Colombes/National/90;operational;;1;station;ok;nonexistent
+16 rue Claude Bernard;1;1;0;0;2;operational;Paris;;paris-claudebernard-16;STATION;48.8397733, 2.3476575;75005;Paris/Claude Bernard/16;operational;;3;station;ok;nonexistent
+204 rue Saint-Martin;1;1;0;0;0;nonexistent;Paris;;paris-saintmartin-204;STATION;48.8633367, 2.3526978;75003;Paris/Saint-Martin/204;operational;;0;station;ok;nonexistent
+1 rue d'Uzès;1;1;0;0;0;operational;Paris;;paris-uzes-1;STATION;48.8704209, 2.3454538;75002;Paris/Uzès/1;operational;;2;station;ok;nonexistent
+5 rue Jacques Callot;3;3;0;0;0;nonexistent;Paris;;paris-jacquescallot-5;STATION;48.8552045, 2.3371078;75006;Paris/Jacques Callot/5;operational;;0;station;ok;nonexistent
+160 avenue Léon Blum;2;2;0;1;0;nonexistent;Maisons-Alfort;;maisonsalfort-leonblum-160;STATION;48.79881, 2.43370175;94700;Maisons-Alfort/Léon Blum/160;operational;;2;station;ok;nonexistent
+27 avenue Magellan;4;4;0;1;0;nonexistent;Créteil;;creteil-magellan-27;STATION;48.76895, 2.456477;94000;Créteil/Magellan/27;operational;;1;station;ok;nonexistent
+221 rue Saint-Jacques;1;1;0;0;0;nonexistent;Paris;;paris-saintjacques-221;STATION;48.8438007, 2.341924;75005;Paris/Saint-Jacques/221;operational;;2;station;ok;nonexistent
+31 boulevard National;2;2;0;0;0;nonexistent;La Garenne-Colombes;;lagarennecolombes-national-31;STATION;48.90347, 2.239274;92250;La Garenne-Colombes/National/31;operational;;1;station;ok;nonexistent
+49 avenue de Stalingrad;0;0;0;0;0;nonexistent;Bagnolet;;bagnolet-stalingrad-49;STATION;48.87215, 2.43015;93170;Bagnolet/Stalingrad/49;broken;;0;station;closed;nonexistent
+1 rue de Schomberg;0;0;0;0;2;operational;Paris;;paris-schomberg-1;STATION;48.84925, 2.362993;75004;Paris/Schomberg/1;operational;;6;station;ok;nonexistent
+2 rue Paul Escudier;1;1;0;0;1;operational;Paris;;paris-paulescudier-2;STATION;48.8805732, 2.3317546;75009;Paris/Paul Escudier/2;operational;;5;station;ok;nonexistent
+22 bis rue Legendre;1;1;0;0;0;nonexistent;Paris;;paris-legendre-22;STATION;48.8832659, 2.3127515;75017;Paris/Legendre/22;operational;;3;station;ok;nonexistent
+36 Boulevard Richard Lenoir;1;1;0;0;0;nonexistent;Paris;;paris-richardlenoir-36;STATION;48.857259, 2.37139;75011;Paris/Richard Lenoir/36;operational;;2;station;ok;nonexistent
+52 boulevard Arago;1;1;0;0;1;operational;Paris;;paris-arago-52;STATION;48.8351639, 2.3446053;75013;Paris/Arago/52;operational;;2;station;ok;nonexistent
+37 rue la Boétie;1;1;0;0;0;broken;Paris;;paris-laboetie-37;STATION;48.8737, 2.314663;75008;Paris/La Boétie/37;operational;;0;station;ok;nonexistent
+2 avenue Matignon;4;4;0;1;0;operational;Paris;;paris-matignon-2;STATION;48.87006, 2.312597;75008;Paris/Matignon/2;operational;;1;station;ok;nonexistent
+38 rue François 1er;3;3;0;0;1;operational;Paris;;paris-francois1er-38;STATION;48.8682112, 2.3046348;75008;Paris/François 1er/38;operational;;1;station;ok;nonexistent
+126 rue de Colombes;4;4;0;0;0;nonexistent;La Garenne-Colombes;;lagarennecolombes-colombes-126;STATION;48.9047803, 2.2558349;92250;La Garenne-Colombes/Colombes/126;operational;;1;station;ok;nonexistent
+116 rue Réaumur;2;2;0;0;0;operational;Paris;;paris-reaumur-116;STATION;48.86781, 2.34525;75002;Paris/Réaumur/116;operational;;1;station;ok;nonexistent
+137 avenue Jean Jaurès;0;0;0;0;0;nonexistent;Clamart;;clamart-jeanjaures-137;STATION;48.8080853, 2.2679023;92140;Clamart/Jean Jaurès/137;operational;;4;station;ok;nonexistent
+24 rue Monte Cristo;3;3;0;0;1;operational;Paris;;paris-montecristo-24;STATION;48.8552253, 2.3984912;75020;Paris/Monte Cristo/24;operational;;3;station;ok;nonexistent
+25 rue de la Plaine;2;2;0;0;0;operational;Paris;;paris-plaine-25;STATION;48.8500605, 2.4019645;75020;Paris/Plaine/25;operational;;2;station;ok;nonexistent
+1 rue Charles Péguy;1;1;0;0;0;nonexistent;Suresnes;;suresnes-charlespeguy-1;STATION;48.8683519, 2.2255443;92150;Suresnes/Charles Péguy/1;operational;;5;station;ok;nonexistent
+11 rue d'Artois;2;2;2;0;0;operational;Paris;;paris-artois-11;STATION;48.872759, 2.3080661;75008;Paris/Artois/11;operational;;1;station;ok;nonexistent
+166 promenade du Verger;0;0;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-promenadeduverger-166;STATION;48.81731, 2.27009;92130;Issy-les-Moulineaux/Promenade du Verger/166;operational;;4;station;ok;nonexistent
+26 villa Croix-Nivert;6;6;0;0;0;nonexistent;Paris;Station en parking (niv 0), accès 26 villa Croix Nivert;paris-cambronne-parking;PARKING;48.84547, 2.30117;75015;Paris/Cambronne/Parking;operational;;0;station;ok;nonexistent
+1 Place Georges Pompidou;3;3;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -1), accès Place Georges Pompidou;levalloisperret-pompidou-parking;PARKING;48.89851, 2.28102;92300;Levallois-Perret/Pompidou/Parking;operational;;2;station;ok;nonexistent
+26 boulevard Gouvion Saint-Cyr;4;4;0;0;0;nonexistent;Paris;Station en parking (niv -1), accès 26 bvd Gouvion Saint-Cyr;paris-gouvionmaillot-parking;PARKING;48.8836, 2.28807;75017;Paris/Gouvion Maillot/Parking;operational;;2;station;ok;nonexistent
+81 avenue Édouard Vaillant;3;3;1;0;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-edouardvaillant-81;STATION;48.8344135, 2.2464756;92100;Boulogne-Billancourt/Édouard Vaillant/81;operational;;0;station;ok;nonexistent
+21 Rue Abel Gance;2;2;0;0;0;nonexistent;Paris;Station en parking (niv -1), accès rue Abel Gance;paris-vincentauriol-parking;PARKING;48.83516, 2.37305;75013;Paris/Vincent Auriol/Parking;operational;;4;station;ok;nonexistent
+120 boulevard du Montparnasse;0;0;0;0;0;nonexistent;Paris;Station en parking (niv -2), accès 125 bvd du Montparnasse;paris-montparnasseraspail-parking;PARKING;48.84147, 2.33078;75014;Paris/Montparnasse Raspail/Parking;broken;;0;station;closed;nonexistent
+2 avenue de la Porte Saint-Cloud;6;6;0;0;0;nonexistent;Paris;;paris-portesaintcloud-parking;PARKING;48.83882, 2.2537;75016;Paris/Porte Saint-Cloud/Parking;operational;;0;station;ok;nonexistent
+31 boulevard de Grenelle;0;0;0;0;0;nonexistent;Paris;;paris-grenelle31-parking;PARKING;48.85255, 2.29071;75015;Paris/Grenelle 31/Parking;broken;;0;station;closed;nonexistent
+1 boulevard Garibaldi;0;0;0;0;0;nonexistent;Paris;;paris-garibaldicambronne-parking;PARKING;48.84754, 2.30291;75015;Paris/Garibaldi Cambronne/Parking;broken;;0;station;closed;nonexistent
+2 avenue de la République;2;2;0;0;0;nonexistent;Clamart;;clamart-republique-2;STATION;48.78123, 2.238153;92140;Clamart/République/2;operational;;4;station;ok;nonexistent
+14 rue Bertin Poirée;0;0;0;0;1;operational;Paris;;paris-bertinpoiree-14;STATION;48.8588109, 2.3449501;75001;Paris/Bertin Poirée/14;operational;;5;station;ok;nonexistent
+51 avenue Jean Jaurès;3;3;0;0;0;nonexistent;Montrouge;;montrouge-jeanjaures-51;STATION;48.81637, 2.312146;92120;Montrouge/Jean Jaurès/51;operational;;2;station;ok;nonexistent
+1 rue Olympe de Gouge;5;5;1;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-olympedegouge-1;STATION;48.9179468, 2.3189865;92600;Asnières-sur-Seine/Olympe de Gouge/1;operational;;0;station;ok;nonexistent
+11 rue Robert Lavergne;4;4;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-robertlavergne-11;STATION;48.92852, 2.27253;92600;Asnières-sur-Seine/Robert Lavergne/11;operational;;2;station;ok;nonexistent
+21 avenue de Paris;0;0;0;0;0;nonexistent;Châtillon;;chatillon-paris-21;STATION;48.8048765, 2.2898962;92320;Châtillon/Paris/21;operational;;4;station;ok;nonexistent
+10 Rue des Bruyères;5;5;0;2;0;operational;Les Lilas;;leslilas-bruyeres-10;STATION;48.8783253, 2.413255;93260;Les Lilas/Bruyères/10;operational;;0;station;ok;nonexistent
+13 Rue Léon Blum;3;3;0;1;0;nonexistent;Bagneux;;bagneux-leonblum-13;STATION;48.7941792, 2.3017033;92220;Bagneux/Léon Blum/13;operational;;1;station;ok;nonexistent
+153 Rue Jean Jaurès;4;4;0;0;0;nonexistent;Villejuif;;villejuif-jeanjaures-153;STATION;48.7891489, 2.3670245;94800;Villejuif/Jean Jaurès/153;operational;;1;station;ok;nonexistent
+236 Avenue Henri Barbusse;1;1;0;0;0;nonexistent;Drancy;;drancy-henribarbusse-236;STATION;48.92347, 2.460301;93700;Drancy/Henri Barbusse/236;operational;;3;station;ok;nonexistent
+52 Rue des Bons Raisins;1;1;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-bonsraisins-52;STATION;48.87265, 2.19527;92500;Rueil-Malmaison/Bons Raisins/52;operational;;5;station;ok;nonexistent
+40 Avenue Victor Hugo;0;0;0;0;0;nonexistent;Clamart;;clamart-victorhugo-40;STATION;48.804098, 2.2673976;92140;Clamart/Victor Hugo/40;operational;;6;station;ok;nonexistent
+10 Rue Sadi Carnot;0;0;1;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-sadicarnot-10;STATION;48.9100165, 2.2897023;92600;Asnières-sur-Seine/Sadi Carnot/10;operational;;3;station;ok;nonexistent
+10 Rue Anizan Cavillon;0;0;0;0;0;nonexistent;Le Bourget;;lebourget-anizancavillon-10;SPACE;48.9350451, 2.424831;93350;Le Bourget/Anizan Cavillon/10;operational;;3;full_station;ok;broken
+156 Boulevard Charles de Gaulle;6;6;0;0;0;nonexistent;Colombes;;colombes-charlesdegaulle-156;STATION;48.9151379, 2.2284904;92700;Colombes/Charles de Gaulle/156;operational;;0;station;ok;nonexistent
+107 Quai de Valmy;4;4;0;1;0;operational;Paris;;paris-valmy-107;STATION;48.87484, 2.36289;75010;Paris/Valmy/107;operational;;1;station;ok;nonexistent
+41 avenue Bosquet;0;0;0;0;1;operational;Paris;;paris-bosquet-41;STATION;48.8580816, 2.3040495;75007;Paris/Bosquet/41;operational;;3;station;ok;nonexistent
+61 quai Blanqui;0;0;0;0;0;nonexistent;Alfortville;;alfortville-blanqui-61;STATION;48.80188, 2.415843;94140;Alfortville/Blanqui/61;broken;;0;station;closed;nonexistent
+216 avenue du Général Leclerc;4;4;0;2;0;nonexistent;Créteil;;creteil-leclerc-216;STATION;48.7818714, 2.4739148;94000;Créteil/Leclerc/216;operational;;0;station;ok;nonexistent
+7 rue Vaudetard;6;6;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-vaudetard-7;STATION;48.8271, 2.27659;92130;Issy-les-Moulineaux/Vaudetard/7;operational;;1;station;ok;nonexistent
+220 rue Marcadet;0;0;0;0;1;operational;Paris;;paris-marcadet-220;STATION;48.8920824, 2.3331353;75018;Paris/Marcadet/220;operational;;6;station;ok;nonexistent
+251 rue de Charenton;4;4;0;0;0;operational;Paris;;paris-charenton-251;STATION;48.8364094, 2.3922556;75012;Paris/Charenton/251;operational;;1;station;ok;nonexistent
+1 Place des Pré-Hauts;0;0;0;0;0;nonexistent;Verrières-le-Buisson;;verriereslebuisson-prehauts-1;SPACE;48.75219, 2.271931;91370;Verrières-le-Buisson/Pré-Hauts/1;operational;;6;full_station;ok;operational
+174 rue Etienne Dolet;3;3;1;0;0;nonexistent;Alfortville;;alfortville-etiennedolet-174;STATION;48.78413, 2.427832;94140;Alfortville/Etienne Dolet/174;operational;;0;station;ok;nonexistent
+32 rue Broussais;4;4;0;0;1;operational;Paris;;paris-broussais-32;STATION;48.82844, 2.336613;75014;Paris/Broussais/32;operational;;1;station;ok;nonexistent
+22 rue François Delage;0;0;0;0;0;nonexistent;Cachan;;cachan-francoisdelage-22;STATION;48.79263, 2.337104;94230;Cachan/François Delage/22;broken;;0;station;closed;nonexistent
+10 avenue Georges Clémenceau;7;7;0;0;0;nonexistent;Nogent-sur-Marne;;nogentsurmarne-georgesclemenceau-10;STATION;48.835662, 2.4723332;94130;Nogent-sur-Marne/Georges Clémenceau/10;operational;;0;station;ok;nonexistent
+157 boulevard Murat;4;4;0;1;1;operational;Paris;;paris-murat-157;STATION;48.83791, 2.262842;75016;Paris/Murat/157;operational;;1;station;ok;nonexistent
+16 rue Raoul Nordling;2;2;0;0;0;nonexistent;Bois-Colombes;;boiscolombes-raoulnordling-16;STATION;48.90487, 2.264084;92270;Bois-Colombes/Raoul Nordling/16;operational;;4;station;ok;nonexistent
+1 rue Léon Frot;0;0;0;0;0;nonexistent;Paris;;paris-leonfrot-1;STATION;48.8533715, 2.3882044;75011;Paris/Léon Frot/1;operational;;4;station;ok;nonexistent
+40 rue de Courcelles;3;3;0;0;1;operational;Paris;;paris-courcelles-40;STATION;48.8761878, 2.3082976;75008;Paris/Courcelles/40;operational;;3;station;ok;nonexistent
+14 rue Velpeau;4;4;0;0;0;nonexistent;Antony;;antony-velpeau-14;STATION;48.7549117, 2.301541;92160;Antony/Velpeau/14;operational;;0;station;ok;nonexistent
+106 rue Vercingétorix;0;0;0;0;0;broken;Paris;;paris-vercingetorix-106;STATION;48.8344374, 2.3137055;75014;Paris/Vercingétorix/106;broken;;0;station;closed;nonexistent
+34 avenue Jean Moulin;3;3;0;0;0;nonexistent;Paris;;paris-jeanmoulin-34;STATION;48.8266807, 2.3237355;75014;Paris/Jean Moulin/34;operational;;2;station;ok;nonexistent
+64 Boulevard Maurice Barres;6;6;0;0;0;nonexistent;Neuilly-sur-Seine;;neuillysurseine-mauricebarres-64;STATION;48.8790938, 2.2703186;92200;Neuilly-sur-Seine/Maurice Barres/64;operational;;0;station;ok;nonexistent
+16 avenue de la république;4;4;0;0;0;nonexistent;Gennevilliers;;gennevilliers-republique-16;STATION;48.9200472, 2.2971486;92230;Gennevilliers/République/16;operational;;1;station;ok;nonexistent
+66 rue Henri Barbusse;2;2;0;0;0;operational;Paris;;paris-henribarbusse-66;STATION;48.83912, 2.337229;75014;Paris/Henri Barbusse/66;operational;;3;station;ok;nonexistent
+4 rue Émile Reynaud;1;1;0;0;1;operational;Paris;;paris-emilereynaud-4;STATION;48.90176, 2.38589;75019;Paris/Émile Reynaud/4;operational;;3;station;ok;nonexistent
+8 rue Adolphe Mille;5;5;0;0;0;operational;Paris;;paris-adolphemille-8;STATION;48.888588, 2.3888175;75019;Paris/Adolphe Mille/8;operational;;0;station;ok;nonexistent
+31 avenue de la Division Leclerc;7;7;0;0;0;nonexistent;Fontenay-aux-Roses;;fontenayauxroses-divisionleclerc-31;STATION;48.795005, 2.274407;92260;Fontenay-aux-Roses/Division Leclerc/31;operational;;0;station;ok;nonexistent
+27 boulevard de Stalingrad;6;6;0;1;0;nonexistent;Malakoff;;malakoff-stalingrad-27;STATION;48.8142269, 2.2878426;92240;Malakoff/Stalingrad/27;operational;;0;station;ok;nonexistent
+5 boulevard Vincent Raspail;4;4;0;0;0;nonexistent;Nanterre;;nanterre-vincentraspail-5;STATION;48.8963559, 2.2076635;92000;Nanterre/Vincent Raspail/5;operational;;1;station;ok;nonexistent
+43 avenue de la République;1;1;0;0;0;nonexistent;Montrouge;;montrouge-republique-43;SPACE;48.81909, 2.319941;92120;Montrouge/République/43;operational;;4;full_station;ok;operational
+28 rue d'Aumale;2;2;0;0;0;nonexistent;Paris;;paris-aumale-28;STATION;48.878643, 2.3347774;75009;Paris/Aumale/28;operational;;1;station;ok;nonexistent
+249 avenue Gambetta;0;0;0;0;0;broken;Paris;;paris-gambetta-249;STATION;48.8757323, 2.4060008;75020;Paris/Gambetta/249;broken;;0;station;closed;nonexistent
+3 rue Roger Salengro;2;2;0;2;0;nonexistent;Drancy;;drancy-rogersalengro-3;STATION;48.9216032, 2.4411713;93700;Drancy/Roger Salengro/3;operational;;0;station;ok;nonexistent
+5 avenue de l'Europe;0;0;0;0;0;nonexistent;Colombes;;colombes-europe-5;STATION;48.92701, 2.2457526;92700;Colombes/Europe/5;broken;;0;station;closed;nonexistent
+63 avenue d'Iéna;5;5;0;0;0;nonexistent;Paris;;paris-iena-63;STATION;48.8713288, 2.295196;75016;Paris/Iéna/63;operational;;0;station;ok;nonexistent
+9 boulevard Paul Vaillant Couturier;2;2;0;1;0;nonexistent;Villejuif;;villejuif-paulvaillantcouturier-9;SPACE;48.795504, 2.367414;94800;Villejuif/Paul Vaillant Couturier/9;operational;;3;full_station;ok;operational
+185 avenue du Maine;0;0;0;0;1;operational;Paris;;paris-maine-185;STATION;48.83072, 2.325855;75014;Paris/Maine/185;operational;;4;station;ok;nonexistent
+2 rue du Commandant Lamy;1;1;0;0;0;nonexistent;Paris;;paris-commandantlamy-2;STATION;48.85579, 2.374203;75011;Paris/Commandant Lamy/2;operational;;2;station;ok;nonexistent
+31 rue du Louvre;2;2;0;0;0;nonexistent;Paris;;paris-louvre-31;STATION;48.8660947, 2.3433342;75002;Paris/Louvre/31;operational;;1;station;ok;nonexistent
+5 avenue de la République;0;0;0;0;1;operational;Paris;;paris-republique-5;STATION;48.86661, 2.36784;75011;Paris/République/5;operational;;5;station;ok;nonexistent
+11 avenue Daumesnil;4;4;0;0;0;nonexistent;Saint-Mandé;;saintmande-daumesnil-11;STATION;48.83369, 2.414124;94160;Saint-Mandé/Daumesnil/11;operational;;1;station;ok;nonexistent
+1 rue Jean-François Lépine;0;0;0;0;0;broken;Paris;;paris-jeanfrancoislepine-1;STATION;48.88608, 2.359072;75018;Paris/Jean-François Lépine/1;broken;;0;station;closed;nonexistent
+52 rue Charles Hermite;0;0;0;0;0;broken;Paris;;paris-charleshermite-52;STATION;48.8990509, 2.3649827;75018;Paris/Charles Hermite/52;broken;;0;station;closed;nonexistent
+73 rue Marcelin Berthelot;3;3;0;0;0;nonexistent;Drancy;;drancy-marcelinberthelot-73;STATION;48.9177255, 2.4464355;93700;Drancy/Marcelin Berthelot/73;operational;;0;station;ok;nonexistent
+52 rue Arago;4;4;0;1;0;nonexistent;Puteaux;;puteaux-arago-52;STATION;48.8860877, 2.2478443;92800;Puteaux/Arago/52;operational;;0;station;ok;nonexistent
+50 rue Botzaris;3;3;0;0;2;operational;Paris;;paris-botzaris-50;STATION;48.8792228, 2.3839164;75019;Paris/Botzaris/50;operational;;3;station;ok;nonexistent
+18 avenue du Maréchal Juin;4;4;0;1;0;nonexistent;Meudon-la-Forêt;;meudon-marechaljuin-18;STATION;48.788083, 2.216266;92360;Meudon/Maréchal Juin/18;operational;;0;station;ok;nonexistent
+39 rue Julien Lacroix;4;4;0;0;1;operational;Paris;;paris-julienlacroix-39;STATION;48.8698372, 2.3850271;75020;Paris/Julien Lacroix/39;operational;;2;station;ok;nonexistent
+143 boulevard Vincent Auriol;2;2;0;0;0;operational;Paris;;paris-vincentauriol-143;SPACE;48.8328237, 2.3624101;75013;Paris/Vincent Auriol/143;operational;;1;full_station;ok;operational
+12 rue Milton;0;0;0;0;1;operational;Paris;;paris-milton-12;STATION;48.8777212, 2.3409177;75009;Paris/Milton/12;operational;;5;station;ok;nonexistent
+29 rue Saint Stenay;0;0;0;0;0;nonexistent;Drancy;;drancy-saintstenay-29;STATION;48.91845, 2.418932;93700;Drancy/Saint Stenay/29;operational;;7;station;ok;nonexistent
+121 avenue André Morizet;1;1;0;3;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-andremorizet-121;STATION;48.840169, 2.229398;92100;Boulogne-Billancourt/André Morizet/121;operational;;1;station;ok;nonexistent
+5 avenue Jean Jaurès;2;2;0;0;0;nonexistent;Rosny-sous-Bois;;rosnysousbois-jeanjaures-5;STATION;48.87052, 2.486372;93110;Rosny-sous-Bois/Jean Jaurès/5;operational;;2;station;ok;nonexistent
+260 avenue Napoléon Bonaparte;1;1;0;2;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-napoleonbonaparte-260;STATION;48.87593, 2.169949;92500;Rueil-Malmaison/Napoléon Bonaparte/260;operational;;1;station;ok;nonexistent
+8 rue Louise Michel;2;2;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -1), accès 8 rue Louise Michel;levalloisperret-louisemichel-parking;PARKING;48.88718, 2.28447;92300;Levallois-Perret/Louise Michel/Parking;operational;;1;station;ok;nonexistent
+80 bis rue du président Wilson;2;2;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -1), accès 80 rue Wilson;levalloisperret-wilsonplanchette-parking;PARKING;48.89453, 2.28826;92300;Levallois-Perret/Wilson-Planchette/Parking;operational;;4;station;ok;nonexistent
+21 avenue de la Fontaine du Tertre;4;4;0;0;0;nonexistent;Suresnes;;suresnes-fontainedutertre-21;STATION;48.8699508, 2.218031;92150;Suresnes/Fontaine du Tertre/21;operational;;2;station;ok;nonexistent
+80 rue de Sèvres;3;3;0;0;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-sevres-80;STATION;48.83162, 2.230167;92100;Boulogne-Billancourt/Sèvres/80;operational;;1;station;ok;nonexistent
+81 rue Falguière;0;0;0;0;0;nonexistent;Paris;;paris-pasteurmontparnasse-parking;PARKING;48.83983, 2.31252;75015;Paris/Pasteur Montparnasse/Parking;operational;;6;station;ok;nonexistent
+6 avenue Foch;0;0;0;0;0;nonexistent;Paris;Station en parking (niv -2), accès 4 av. Foch;paris-etoilefoch-parking;PARKING;48.87366, 2.29201;75016;Paris/Etoile Foch/Parking;broken;;0;station;closed;nonexistent
+65 boulevard de Picpus;3;3;0;0;0;nonexistent;Paris;;paris-picpusnation-parking;PARKING;48.84652, 2.40014;75012;Paris/Picpus Nation/Parking;operational;;2;station;ok;nonexistent
+168 bis rue Cardinet;0;0;0;0;0;nonexistent;Paris;;paris-cardinet-parking;PARKING;48.89007, 2.31695;75017;Paris/Cardinet/Parking;operational;;5;station;ok;nonexistent
+46 rue Armand Carrel;2;2;0;0;0;operational;Paris;;paris-armandcarrel-46;STATION;48.8829, 2.376374;75019;Paris/Armand Carrel/46;operational;;0;station;ok;nonexistent
+8 avenue de Choisy;3;3;0;0;0;nonexistent;Paris;;paris-choisy-8;STATION;48.8205622, 2.3643333;75013;Paris/Choisy/8;operational;;1;station;ok;nonexistent
+34 Rue Antoine Fratacci;1;1;0;0;0;nonexistent;Vanves;;vanves-antoinefratacci-34;STATION;48.82101, 2.28876;92170;Vanves/Antoine Fratacci/34;operational;;5;station;ok;nonexistent
+70 avenue du Général de Gaulle;5;5;0;0;0;nonexistent;Puteaux;;puteaux-degaulle-70;STATION;48.88735, 2.231977;92800;Puteaux/De Gaulle/70;operational;;1;station;ok;nonexistent
+65 Avenue Lenine;3;3;0;0;0;nonexistent;Nanterre;;nanterre-lenine-65;STATION;48.88811, 2.191361;92000;Nanterre/Lenine/65;operational;;3;station;ok;nonexistent
+5 Boulevard Aimé Césaire;2;2;0;0;0;nonexistent;Nanterre;;nanterre-aimecesaire-5;STATION;48.89184, 2.22834;92000;Nanterre/Aimé Césaire/5;operational;;1;station;ok;nonexistent
+30 Rue René Hamon;2;2;0;0;0;nonexistent;Villejuif;;villejuif-renehamon-30;STATION;48.7906029, 2.3613621;94800;Villejuif/René Hamon/30;operational;;4;station;ok;nonexistent
+2 Rue Fernand Pelloutier;0;0;0;0;0;nonexistent;Puteaux;;puteaux-fernandpelloutier-2;STATION;48.8830992, 2.2330423;92800;Puteaux/Fernand Pelloutier/2;operational;;5;station;ok;nonexistent
+10 rue du Docteur Leray;0;0;1;0;1;operational;Paris;;paris-leray-10;STATION;48.82325, 2.354296;75013;Paris/Leray/10;operational;;3;station;ok;nonexistent
+160 Boulevard de Valmy;4;4;0;0;0;nonexistent;Colombes;;colombes-valmy-160;STATION;48.93586, 2.257037;92700;Colombes/Valmy/160;operational;;2;station;ok;nonexistent
+12 Avenue de la Division Leclerc;4;4;0;0;0;nonexistent;Châtillon;;chatillon-divisionleclerc-12;SPACE;48.7991859, 2.2846898;92320;Châtillon/Division Leclerc/12;operational;;0;full_station;ok;operational
+40 Rue du docteur Variot;3;3;0;0;0;nonexistent;Rosny-sous-Bois;;rosnysousbois-variot-40;STATION;48.8798646, 2.4931178;93110;Rosny-sous-Bois/Variot/40;operational;;3;station;ok;nonexistent
+67 Rue Dulong;0;0;0;0;0;operational;Paris;;paris-dulong-67;STATION;48.8863019, 2.3151179;75017;Paris/Dulong/67;operational;;3;station;ok;nonexistent
+19 Rue de l'Arrivée;2;2;0;0;0;nonexistent;Enghien-les-Bains;;enghienlesbains-arrivee-19;STATION;48.9727125, 2.3067895;95880;Enghien-les-Bains/Arrivée/19;operational;;4;station;ok;nonexistent
+92 rue Pierre Brossolette;6;6;0;0;0;nonexistent;Yerres;;yerres-pierrebrossolette-92;STATION;48.7006549, 2.4828313;91330;Yerres/Pierre Brossolette/92;operational;;0;station;ok;nonexistent
+1 avenue Victor Hugo;5;5;0;0;0;nonexistent;Noisy-le-Sec;;noisylesec-victorhugo-1;STATION;48.8920896, 2.4674469;93130;Noisy-le-Sec/Victor Hugo/1;operational;;1;station;ok;nonexistent
+8 rue Marc Sangnier;0;0;0;0;0;nonexistent;Noisy-le-Sec;;noisylesec-marcsangnier-8;STATION;48.8960342, 2.4586124;93130;Noisy-le-Sec/Marc Sangnier/8;broken;;0;station;closed;nonexistent
+1 place de la Logistique;6;6;0;0;0;nonexistent;Rungis;;rungis-sogaris-parking;PARKING;48.75233, 2.36141;94150;Rungis/Sogaris/Parking;operational;;0;station;ok;nonexistent
+22 place de l'Europe;0;0;0;0;0;nonexistent;Alfortville;;alfortville-europe-22;STATION;48.7890254, 2.429231;94140;Alfortville/Europe/22;broken;;0;station;closed;nonexistent
+2 avenue des murs du parc;7;7;0;0;0;nonexistent;Vincennes;;vincennes-mursduparc-2;STATION;48.846756, 2.45225239;94300;Vincennes/Murs du parc/2;operational;;0;station;ok;nonexistent
+97 boulevard Berthier;4;4;0;0;0;operational;Paris;;paris-berthier-97;STATION;48.8856219, 2.2942252;75017;Paris/Berthier/97;operational;;0;station;ok;nonexistent
+137 rue de la Pompe;3;3;0;0;0;operational;Paris;;paris-pompe-137;STATION;48.867315, 2.280347;75016;Paris/Pompe/137;operational;;1;station;ok;nonexistent
+20 avenue Raphaël;3;3;0;0;1;operational;Paris;;paris-raphael-20;STATION;48.85926, 2.267881;75016;Paris/Raphaël/20;operational;;1;station;ok;nonexistent
+1bis rue Ravignan;4;4;0;1;0;operational;Paris;;paris-ravignan-1;STATION;48.8850802, 2.3375536;75018;Paris/Ravignan/1;operational;;1;station;ok;nonexistent
+29 rue Doudeauville;2;2;0;0;1;operational;Paris;;paris-doudeauville-29;STATION;48.8884213, 2.3555937;75018;Paris/Doudeauville/29;operational;;4;station;ok;nonexistent
+204 rue d’Estienne d’Orves;3;3;0;0;0;nonexistent;Verrières-le-Buisson;;verriereslebuisson-destiennedorves-204;STATION;48.7409291, 2.2523628;91370;Verrières-le-Buisson/D'Estienne d'Orves/204;operational;;3;station;ok;nonexistent
+1 rue Frépillon;3;3;1;1;0;nonexistent;Noisy-le-Sec;;noisylesec-frepillon-1;SPACE;48.8898019, 2.453145;93130;Noisy-le-Sec/Frépillon/1;operational;;1;full_station;ok;broken
+8 rue de Crimée;2;2;0;0;0;nonexistent;Paris;;paris-crimee-8;STATION;48.8777109, 2.3916371;75019;Paris/Crimée/8;operational;;3;station;ok;nonexistent
+1 place du 11 Novembre 1918;2;2;0;0;0;nonexistent;Clichy-sous-Bois;;clichysousbois-11novembre1918-1;SPACE;48.91034, 2.5465;93390;Clichy-sous-Bois/11 Novembre 1918/1;operational;;4;full_station;ok;operational
+16 rue Bobillot;3;3;0;0;0;operational;Paris;;paris-bobillot-16;STATION;48.8295778, 2.3537665;75013;Paris/Bobillot/16;operational;;0;station;ok;nonexistent
+2 rue Sibour;4;4;0;0;0;operational;Paris;;paris-sibour-2;STATION;48.8750762, 2.3587236;75010;Paris/Sibour/2;operational;;1;station;ok;nonexistent
+30 rue Marcel Vigneron;3;3;0;0;0;nonexistent;Arcueil;;arcueil-marcelvigneron-30;STATION;48.80365, 2.342448;94110;Arcueil/Marcel Vigneron/30;operational;;3;station;ok;nonexistent
+14 avenue Théophile Gauthier;5;5;0;0;0;operational;Paris;;paris-theophilegauthier-14;STATION;48.8507539, 2.2739245;75016;Paris/Théophile Gauthier/14;operational;;0;station;ok;nonexistent
+6 avenue du Général de Gaulle;5;5;1;0;0;nonexistent;Vincennes;;vincennes-degaulle-6;STATION;48.8447052, 2.4340166;94300;Vincennes/De Gaulle/6;operational;;1;station;ok;nonexistent
+168 boulevard du Général de Gaulle;3;3;0;0;0;nonexistent;Garches;;garches-degaulle-168;STATION;48.8386536, 2.18698287;92380;Garches/De Gaulle/168;operational;;3;station;ok;operational
+17 avenue Robert Wagner;5;5;0;1;0;nonexistent;Vélizy-Villacoublay;;velizyvillacoublay-robertwagner-17;STATION;48.7842497, 2.1777763;78140;Vélizy-Villacoublay/Robert Wagner/17;operational;;0;station;ok;nonexistent
+117 rue de Lagny;2;2;0;0;1;operational;Paris;;paris-lagny-117;STATION;48.8491535, 2.4133021;75020;Paris/Lagny/117;operational;;4;station;ok;nonexistent
+19 rue du Général Leclerc;5;5;0;0;0;nonexistent;Montfermeil;;montfermeil-leclerc-19;SPACE;48.9003522, 2.5717728;93370;Montfermeil/Leclerc/19;operational;;0;full_station;ok;operational
+35 avenue du Général Leclerc;0;0;0;0;0;nonexistent;Bourg-la-Reine;;bourglareine-leclerc-35;STATION;48.7847049, 2.3176864;92340;Bourg-la-Reine/Leclerc/35;broken;;0;station;closed;nonexistent
+11 avenue du Général De Gaulle;0;0;0;0;0;nonexistent;Antony;;antony-degaulle-11;STATION;48.76307, 2.306646;92160;Antony/De Gaulle/11;broken;;0;station;closed;broken
+7 avenue Claude Debussy;2;2;0;0;0;nonexistent;Clichy-la-Garenne;;clichylagarenne-claudedebussy-7;STATION;48.90959, 2.3088882;92110;Clichy-la-Garenne/Claude Debussy/7;operational;;3;station;ok;nonexistent
+123 boulevard Victor Hugo;2;2;0;1;0;nonexistent;Clichy-la-Garenne;;clichylagarenne-victorhugo-123;STATION;48.9022951, 2.3178343;92210;Clichy-la-Garenne/Victor Hugo/123;operational;;2;station;ok;nonexistent
+62 rue Victor Beausse;1;1;0;0;0;nonexistent;Montreuil;;montreuil-victorbeausse-62;STATION;48.8681993, 2.4418694;93100;Montreuil/Victor Beausse/62;operational;;5;station;ok;nonexistent
+77 rue Edouard Vaillant;6;6;0;0;0;nonexistent;Bezons;;bezons-edouardvaillant-77;SPACE;48.9264447, 2.2138164;95870;Bezons/Edouard Vaillant/77;operational;;0;full_station;ok;broken
+1 rue de l'Avenir;7;7;0;0;0;nonexistent;Épinay-sur-Seine;;epinaysurseine-avenir-1;STATION;48.95821, 2.3263607;93800;Épinay-sur-Seine/Avenir/1;operational;;0;station;ok;nonexistent
+11 rue François de Neufchateau;2;2;0;0;0;operational;Paris;;paris-francoisdeneufchateau-11;STATION;48.8561529, 2.3825248;75011;Paris/François de Neufchateau/11;operational;;4;station;ok;nonexistent
+15 place du Général de Gaulle;6;6;0;0;0;nonexistent;Montreuil;;montreuil-degaulle-15;STATION;48.8682727, 2.4328728;93100;Montreuil/De Gaulle/15;operational;;1;station;ok;nonexistent
+1 place Aristide Briand;5;5;0;0;0;nonexistent;Argenteuil;;argenteuil-aristidebriand-1;STATION;48.9487762, 2.25755644;95100;Argenteuil/Aristide Briand/1;operational;;1;station;ok;nonexistent
+53 rue du Bois l'Abbé;5;5;0;0;0;nonexistent;Champigny-sur-Marne;;champignysurmarne-boislabbe-53;STATION;48.810459, 2.54225;94500;Champigny-sur-Marne/Bois l'Abbé/53;operational;;0;station;ok;nonexistent
+6 rue Isidore Nerat;1;1;0;0;0;nonexistent;Aulnay-sous-bois;;aulnaysousbois-isidorenerat-6;STATION;48.9301033, 2.4951334;93600;Aulnay-sous-bois/Isidore Nerat/6;operational;;6;station;ok;nonexistent
+18 rue Franklin;4;4;0;0;0;nonexistent;Montreuil;;montreuil-franklin-18;STATION;48.8617551, 2.4436732;93100;Montreuil/Franklin/18;operational;;2;station;ok;nonexistent
+9 rue du 8 mai;0;0;0;0;0;nonexistent;Aulnay-sous-bois;;aulnaysousbois-8mai-9;STATION;48.9463868, 2.5093616;93600;Aulnay-sous-bois/8 mai/9;broken;;0;station;closed;nonexistent
+1 avenue du Général de Gaulle;5;5;0;0;0;nonexistent;Versailles;;versailles-degaulle-1;STATION;48.8009834, 2.129141;78000;Versailles/De Gaulle/1;operational;;1;station;ok;nonexistent
+17 rue Jean-Pierre Timbaud;1;1;0;0;0;nonexistent;Fontenay-Sous-Bois;;fontenaysousbois-jeanpierretimbaud-17;STATION;48.85773, 2.4747963;94120;Fontenay-Sous-Bois/Jean-Pierre Timbaud/17;operational;;6;station;ok;nonexistent
+3 place du Louvre;0;0;0;0;0;nonexistent;Paris;;paris-louvre-3;PARKING;48.8593929, 2.3402943;75001;Paris/Louvre/3;operational;;0;station;ok;nonexistent
+17 rue Charles VII;6;6;0;0;0;nonexistent;Nogent-sur-Marne;;nogentsurmarne-charlesvii-17;STATION;48.8365223, 2.4865163;94130;Nogent-sur-Marne/Charles VII/17;operational;;0;station;ok;nonexistent
+194 rue de fontenay;5;5;0;0;0;nonexistent;Vincennes;;vincennes-fontenay-194;STATION;48.8486631, 2.4330181;94300;Vincennes/Fontenay/194;operational;;0;station;ok;nonexistent
+8 avenue George Sand;5;5;0;1;0;nonexistent;Saint-Denis;;saintdenis-georgesand-8;STATION;48.9072861, 2.364696;93200;Saint-Denis/George Sand/8;operational;;0;station;ok;nonexistent
+4 rue Turgot;0;0;0;1;1;operational;Paris;;paris-turgot-4;STATION;48.8800786, 2.3455235;75009;Paris/Turgot/4;operational;;4;station;ok;nonexistent
+7 rue de Pommard;0;0;0;0;0;nonexistent;Paris;;paris-pommard-7;STATION;48.8355193, 2.3850356;75012;Paris/Pommard/7;operational;;4;station;ok;nonexistent
+11 avenue Georges Lafenestre;0;0;0;0;2;operational;Paris;;paris-georgeslafenestre-11;STATION;48.8254486, 2.3117069;75014;Paris/Georges Lafenestre/11;operational;;4;station;ok;nonexistent
+81 avenue de la Grande Armée;0;0;0;0;0;broken;Paris;;paris-grandearmee-81;STATION;48.87678, 2.284807;75016;Paris/Grande Armée/81;broken;;0;station;closed;nonexistent
+44 avenue Secrétan;1;1;0;0;1;operational;Paris;;paris-secretan-44;STATION;48.8806038, 2.37444;75019;Paris/Secrétan/44;operational;;2;station;ok;nonexistent
+348 rue d'Estienne d'Orves;2;2;0;0;0;nonexistent;Colombes;;colombes-estiennedorves-348;STATION;48.9108414, 2.2356811;92700;Colombes/Estienne d'Orves/348;operational;;1;station;ok;nonexistent
+335 rue Gabriel Péri;5;5;0;0;0;nonexistent;Colombes;;colombes-gabrielperi-335;STATION;48.9172575, 2.2365491;92700;Colombes/Gabriel Péri/335;operational;;0;station;ok;nonexistent
+24 rue de la Paix;1;1;0;0;0;operational;Paris;;paris-paix-24;STATION;48.8699261, 2.3320835;75002;Paris/Paix/24;operational;;1;station;ok;nonexistent
+18 rue Linné;2;2;0;0;0;operational;Paris;;paris-linne-18;STATION;48.8452566, 2.3548335;75005;Paris/Linné/18;operational;;2;station;ok;nonexistent
+98 boulevard Murat;4;4;0;0;1;operational;Paris;;paris-murat-98;STATION;48.8389361, 2.2567427;75016;Paris/Murat/98;operational;;1;station;ok;nonexistent
+16 rue Guynemer;5;5;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-guynemer-16;STATION;48.83073, 2.278246;92130;Issy-les-Moulineaux/Guynemer/16;operational;;1;station;ok;nonexistent
+5 avenue des Guilleraies;2;2;0;0;0;nonexistent;Nanterre;;nanterre-guilleraies-5;STATION;48.89383, 2.185795;92000;Nanterre/Guilleraies/5;operational;;2;station;ok;nonexistent
+124 avenue Pasteur;1;1;0;0;0;nonexistent;Bagnolet;;bagnolet-pasteur-124;STATION;48.87608, 2.418952;93170;Bagnolet/Pasteur/124;operational;;5;station;ok;nonexistent
+45 rue de l'Évangile;1;1;0;2;0;operational;Paris;;paris-evangile-45;STATION;48.8945881, 2.3668072;75018;Paris/Évangile/45;operational;;0;station;ok;nonexistent
+10 avenue de la Porte d'Aubervilliers;3;3;0;0;0;operational;Paris;;paris-portedaubervilliers-10;STATION;48.899335, 2.371162;75019;Paris/Porte d'Aubervilliers/10;operational;;1;station;ok;nonexistent
+8 avenue Ménelotte;1;1;0;0;0;nonexistent;Colombes;;colombes-menelotte-8;STATION;48.9246525, 2.259313;92700;Colombes/Ménelotte/8;operational;;4;station;ok;nonexistent
+88 avenue du Général de Gaulle;1;1;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-generaldegaulle-88;STATION;48.8187533, 2.2778594;92130;Issy-les-Moulineaux/De Gaulle/88;operational;;5;station;ok;nonexistent
+5 rue de Mesly;6;6;0;0;0;nonexistent;Créteil;;creteil-mesly-5;STATION;48.79177, 2.459949;94000;Créteil/Mesly/5;operational;;0;station;ok;nonexistent
+131 rue du Chevaleret;3;3;0;0;1;operational;Paris;;paris-chevaleret-131;STATION;48.83186, 2.372548;75013;Paris/Chevaleret/131;operational;;2;station;ok;nonexistent
+2 rue Neuve Saint-Pierre;2;2;0;0;0;operational;Paris;;paris-neuvesaintpierre-2;STATION;48.853574, 2.363958;75004;Paris/Neuve Saint-Pierre/2;operational;;2;station;ok;nonexistent
+29 avenue de la Sibelle;2;2;1;0;0;operational;Paris;;paris-sibelle-29;STATION;48.8249705, 2.3382509;75014;Paris/Sibelle/29;operational;;2;station;ok;nonexistent
+10 rue Guy Patin;5;5;0;0;0;operational;Paris;;paris-guypatin-10;STATION;48.88363, 2.351257;75010;Paris/Guy Patin/10;operational;;0;station;ok;nonexistent
+12 rue Darmesteter;5;5;0;0;0;operational;Paris;;paris-darmesteter-12;STATION;48.8231521, 2.3753988;75013;Paris/Darmesteter/12;operational;;0;station;ok;nonexistent
+3 rue Harpignies;0;0;0;0;0;broken;Paris;;paris-harpignies-3;STATION;48.8587455, 2.4101638;75020;Paris/Harpignies/3;broken;;0;station;closed;nonexistent
+11 rue Henri Say;0;0;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-henrisay-11;STATION;48.9152642, 2.2767942;92600;Asnières-sur-Seine/Henri Say/11;operational;;5;station;ok;nonexistent
+33 avenue du Général de Gaulle;0;0;0;0;0;nonexistent;Bagnolet;;bagnolet-generaldegaulle-33;SPACE;48.8649188, 2.4178739;93170;Bagnolet/De Gaulle/33;broken;;0;full_station;closed;broken
+51 avenue Karl Marx;5;5;0;0;0;nonexistent;Villejuif;;villejuif-karlmarx-51;STATION;48.78447, 2.36088;94800;Villejuif/Karl Marx/51;operational;;1;station;ok;nonexistent
+9 boulevard Bourdon;0;0;0;0;2;operational;Paris;;paris-bourdon-9;STATION;48.8484226, 2.366004;75004;Paris/Bourdon/9;operational;;5;station;ok;nonexistent
+6 avenue des Ternes;0;0;0;0;1;operational;Paris;;paris-ternes-6;STATION;48.8782587, 2.2967633;75017;Paris/Ternes/6;operational;;4;station;ok;nonexistent
+245 boulevard Jean Jaurès;5;5;1;0;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-jeanjaures-245;STATION;48.82851, 2.246519;92100;Boulogne-Billancourt/Jean Jaurès/245;operational;;0;station;ok;nonexistent
+52 rue de Seine;3;3;0;0;0;nonexistent;Colombes;;colombes-seine-52;STATION;48.9201379, 2.2271027;92700;Colombes/Seine/52;operational;;1;station;ok;nonexistent
+2 avenue de la Porte de Charenton;3;3;0;0;0;operational;Paris;;paris-portedecharenton-2;STATION;48.8311, 2.398697;75012;Paris/Porte de Charenton/2;operational;;0;station;ok;nonexistent
+15 rue Joseph Bara;0;0;0;0;0;nonexistent;Paris;;paris-josephbara-15;STATION;48.84189, 2.333149;75006;Paris/Joseph Bara/15;operational;;3;station;ok;nonexistent
+137 rue de la Bourcillière;0;0;0;0;0;nonexistent;Clamart;;clamart-bourcilliere-137;STATION;48.7813871, 2.2271271;92140;Clamart/Bourcillière/137;operational;;6;station;ok;nonexistent
+76 avenue de Verdun;2;2;0;0;0;nonexistent;Châtillon;;chatillon-verdun-76;STATION;48.79988, 2.281576;92320;Châtillon/Verdun/76;operational;;4;station;ok;nonexistent
+16 rue de l'Arrivée;4;4;0;0;1;operational;Paris;;paris-arrivee-16;STATION;48.843154, 2.321689;75015;Paris/Arrivée/16;operational;;1;station;ok;nonexistent
+2 rue Mayet;3;3;0;0;0;broken;Paris;;paris-mayet-2;STATION;48.8473691, 2.3182091;75006;Paris/Mayet/2;operational;;1;station;ok;nonexistent
+49 avenue de l'Arche;6;6;0;0;0;nonexistent;Courbevoie;;courbevoie-arche-49;STATION;48.897827, 2.23817;92400;Courbevoie/Arche/49;operational;;0;station;ok;nonexistent
+7 rue d'Alexandrie;3;3;0;1;0;nonexistent;Paris;;paris-alexandrie-7;STATION;48.8680082, 2.3508835;75002;Paris/Alexandrie/7;operational;;0;station;ok;nonexistent
+162 rue de la Roquette;3;3;0;0;1;operational;Paris;;paris-roquette-162;STATION;48.8586443, 2.3841089;75011;Paris/Roquette/162;operational;;2;station;ok;nonexistent
+36 rue Saint-Maur;2;2;0;0;0;nonexistent;Paris;;paris-saintmaur-36;STATION;48.8615346, 2.3809277;75011;Paris/Saint-Maur/36;operational;;2;station;ok;nonexistent
+8 rue Goubet;4;4;0;0;0;operational;Paris;;paris-goubet-8;STATION;48.8848179, 2.3901243;75019;Paris/Goubet/8;operational;;1;station;ok;nonexistent
+1 rue de l’égalité;0;0;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-bachagaboualam-1;STATION;48.8194698, 2.2653073;92130;Issy-les-Moulineaux/Bachaga Boualam/1;future;2012-09-17T08:57:28;0;station;scheduled;nonexistent
+2 rue du Charolais;1;1;0;0;1;operational;Paris;;paris-charolais-2;STATION;48.839191, 2.3878529;75012;Paris/Charolais/2;operational;;5;station;ok;nonexistent
+15 rue Olier;0;0;0;1;1;operational;Paris;;paris-olier-15;STATION;48.8351985, 2.2914295;75015;Paris/Olier/15;operational;;2;station;ok;nonexistent
+40 rue de Meudon;5;5;0;0;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-meudon-40;STATION;48.8281027, 2.2422542;92100;Boulogne-Billancourt/Meudon/40;operational;;1;station;ok;nonexistent
+35 quai Alphonse Le Gallo;6;6;0;0;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-alphonselegallo-35;STATION;48.83545, 2.225633;92100;Boulogne-Billancourt/Alphonse Le Gallo/35;operational;;0;station;ok;nonexistent
+6 place Abel Gance;0;0;0;0;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-abelgance-6;STATION;48.833663, 2.258714;92100;Boulogne-Billancourt/Abel Gance/6;operational;;0;station;ok;nonexistent
+13 rue Malher;0;0;0;0;0;nonexistent;Paris;;paris-malher-13;STATION;48.85648, 2.361378;75004;Paris/Malher/13;operational;;4;station;ok;nonexistent
+83 boulevard Flandrin;0;0;0;2;1;operational;Paris;;paris-flandrin-83;STATION;48.87031, 2.275537;75016;Paris/Flandrin/83;operational;;4;station;ok;nonexistent
+265 rue de Belleville;0;0;0;0;2;operational;Paris;;paris-belleville-265;STATION;48.87559, 2.399738;75020;Paris/Belleville/265;operational;;5;station;ok;nonexistent
+3 rue Jeanne Braconnier;5;5;0;0;0;nonexistent;Meudon-la-Forêt;;meudon-jeannebraconnier-3;STATION;48.7886841, 2.2114032;92360;Meudon/Jeanne Braconnier/3;operational;;0;station;ok;nonexistent
+1 rue Pierre Brossolette;3;3;0;0;1;operational;Paris;;paris-pierrebrossolette-1;STATION;48.84196, 2.347262;75005;Paris/Pierre Brossolette/1;operational;;2;station;ok;nonexistent
+47 boulevard de l'Hôpital;0;0;0;0;0;operational;Paris;;paris-hopital-47;STATION;48.84019, 2.362478;75013;Paris/Hôpital/47;operational;;0;station;ok;nonexistent
+15 rue de Rocroy;3;3;0;0;0;operational;Paris;;paris-rocroy-15;STATION;48.8801236, 2.3509617;75010;Paris/Rocroy/15;operational;;0;station;ok;nonexistent
+8 rue de Rome;4;4;0;0;0;nonexistent;Rosny-sous-Bois;;rosnysousbois-rome-8;STATION;48.876218, 2.475338;93110;Rosny-sous-Bois/Rome/8;operational;;0;station;ok;nonexistent
+28 rue Édouard Vaillant;0;0;0;0;0;nonexistent;Saint-Ouen;;saintouen-edouardvaillant-28;STATION;48.9018633, 2.3341342;93400;Saint-Ouen/Édouard Vaillant/28;operational;;6;station;ok;nonexistent
+16 rue de Lisbonne;4;4;0;0;0;nonexistent;Rosny-sous-Bois;;rosnysousbois-lisbonne-16;STATION;48.88093, 2.472356;93110;Rosny-sous-Bois/Lisbonne/16;operational;;2;station;ok;nonexistent
+155 bis rue de Rennes;0;0;0;0;0;nonexistent;Paris;Station en parking (niv -2), accès 155 rue de Rennes;paris-rennesmontparnasse-parking;PARKING;48.84513, 2.32524;75006;Paris/Rennes Montparnasse/Parking;broken;;0;station;closed;nonexistent
+61 avenue du Général De Gaulle;1;1;0;1;0;nonexistent;Créteil;;creteil-degaulle-61;STATION;48.78759, 2.446772;94000;Créteil/De Gaulle/61;operational;;3;station;ok;nonexistent
+29 rue d'Alsace;0;0;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -3), accès 32 rue d’Alsace;levalloisperret-soouest-parking;PARKING;48.89333, 2.29897;92300;Levallois-Perret/So'Ouest/Parking;operational;;6;station;ok;nonexistent
+2 rue Pétrarque;0;0;1;0;1;operational;Paris;;paris-petrarque-2;STATION;48.8612923, 2.28423;75016;Paris/Pétrarque/2;operational;;2;station;ok;nonexistent
+33 rue Ernest Cognacq;0;0;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -1), accès 33 rue Ernest Cognacq;levalloisperret-andrecitroen-parking;PARKING;48.89711, 2.27609;92300;Levallois-Perret/André Citroën/Parking;operational;;0;station;ok;nonexistent
+37 rue du Président Wilson;0;0;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -1), accès 37 rue Wilson;levalloisperret-wilsonbarbusse-parking;PARKING;48.89159, 2.29073;92300;Levallois-Perret/Wilson-Barbusse/Parking;operational;;0;station;ok;nonexistent
+141 rue Lecourbe;2;2;0;0;0;nonexistent;Paris;Station en parking (niv -1), accès 141 rue Lecourbe;paris-lecourbemairieduxveme-parking;PARKING;48.84161, 2.29953;75015;Paris/Lecourbe Mairie du XVème/Parking;operational;;4;station;ok;nonexistent
+37 rue Leblanc;0;0;0;0;0;nonexistent;Paris;Station en parking (niv -1), accès 37 rue Leblanc;paris-citroencevennes-parking;PARKING;48.83874, 2.27641;75015;Paris/Citroën Cévennes/Parking;broken;;0;station;closed;nonexistent
+2 avenue Gabriel;0;0;0;0;0;nonexistent;Paris;Station en parking (niv -2), accès 2 avenue Gabriel;paris-concorde-parking;PARKING;48.86691, 2.32033;75008;Paris/Concorde/Parking;broken;;0;station;closed;nonexistent
+252 bis rue Saint-Martin;0;0;0;1;0;nonexistent;Paris;;paris-saintmartin-parking;PARKING;48.86585, 2.35361;75003;Paris/Saint-Martin/Parking;operational;;5;station;ok;nonexistent
+25 rue Constantine;2;2;0;1;1;operational;Paris;;paris-constantine-25;STATION;48.8587263, 2.314834;75007;Paris/Constantine/25;operational;;3;station;ok;nonexistent
+273 rue du Ménil;1;1;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-menil-273;STATION;48.92582, 2.274079;92600;Asnières-sur-Seine/Ménil/273;operational;;5;station;ok;nonexistent
+17 Place de la République;0;0;0;0;0;nonexistent;Paris;;paris-republique-17;STATION;48.8674504, 2.3630074;75003;Paris/République/17;operational;;4;station;ok;nonexistent
+12 bis Route de la Reine;4;4;0;0;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-reine-12;STATION;48.8388074, 2.2505008;92100;Boulogne-Billancourt/Reine/12;operational;;0;station;ok;nonexistent
+2 Boulevard de la Paix;0;0;0;0;0;nonexistent;Courbevoie;;courbevoie-paix-2;STATION;48.90076, 2.261656;92400;Courbevoie/Paix/2;operational;;5;station;ok;nonexistent
+6 Rue Marcel Paul;2;2;0;0;0;nonexistent;Villejuif;;villejuif-marcelpaul-6;STATION;48.8003, 2.356283;94800;Villejuif/Marcel Paul/6;operational;;4;station;ok;nonexistent
+7 Rue Pruvot;0;0;0;0;0;nonexistent;Vanves;;vanves-pruvot-7;STATION;48.82249, 2.284264;92170;Vanves/Pruvot/7;broken;;0;station;closed;nonexistent
+11 Rue Auguste Perret;3;3;0;0;0;nonexistent;Villejuif;;villejuif-augusteperret-11;STATION;48.787963, 2.3512833;94800;Villejuif/Auguste Perret/11;operational;;3;station;ok;nonexistent
+42 Rue Victor Hugo;4;4;0;0;0;nonexistent;Colombes;;colombes-victorhugo-42;STATION;48.92087, 2.264111;92700;Colombes/Victor Hugo/42;operational;;2;station;ok;nonexistent
+84 Rue Cartier Bresson;0;0;0;0;0;nonexistent;Pantin;;pantin-cartierbresson-84;STATION;48.9017998, 2.4012521;93500;Pantin/Cartier Bresson/84;operational;;4;station;ok;nonexistent
+86 Rue du Lieutenant Colonel de Montbrison;5;5;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-lieutenantcoloneldemontbrison-86;STATION;48.86318, 2.197042;92500;Rueil-Malmaison/Lieutenant Colonel de Montbrison/86;operational;;1;station;ok;nonexistent
+17 Avenue de Colmar;5;5;0;0;0;nonexistent;Rueil-Malmaison;;rueilmalmaison-colmar-17;STATION;48.8871, 2.181057;92500;Rueil-Malmaison/Colmar/17;operational;;0;station;ok;nonexistent
+5 rue Emile Zola;0;0;0;0;0;nonexistent;Limeil-Brévannes;;limeilbrevannes-emilezola-5;STATION;48.7486341, 2.4788056;94450;Limeil-Brévannes/Emile Zola/5;broken;;0;station;closed;nonexistent
+38 ter rue du Mont Valérien;4;4;0;0;0;operational;Saint-Cloud;;saintcloud-montvalerien-38;STATION;48.8569103, 2.2152544;92210;Saint-Cloud/Mont Valérien/38;operational;;1;station;ok;nonexistent
+12 Avenue André Prothin;4;4;0;1;0;nonexistent;Courbevoie;;courbevoie-andreprothin-12;SPACE;48.89238, 2.245286;92400;Courbevoie/André Prothin/12;operational;;0;full_station;ok;operational
+77 avenue Pierre Brossolette;3;3;0;0;0;nonexistent;Créteil;;creteil-pierrebrossolette-77;STATION;48.7896323, 2.4649966;94000;Créteil/Pierre Brossolette/77;operational;;3;station;ok;nonexistent
+200 rue Raymond Poincaré;5;5;1;0;1;operational;Yerres;;yerres-raymondpoincare-200;STATION;48.72139, 2.499938;91330;Yerres/Raymond Poincaré/200;operational;;1;station;ok;nonexistent
+46 rue de Rome;1;1;0;0;1;operational;Paris;;paris-rome-46;STATION;48.8783912, 2.3225683;75008;Paris/Rome/46;operational;;3;station;ok;nonexistent
+12 rue Armengaud;3;3;0;0;0;operational;Saint-Cloud;;saintcloud-armengaud-12;STATION;48.84652, 2.216632;92220;Saint-Cloud/Armengaud/12;operational;;0;station;ok;nonexistent
+53 rue Henri Poincaré;5;5;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-henripoincare-53;STATION;48.93068, 2.281273;92600;Asnières-sur-Seine/Henri Poincaré/53;operational;;0;station;ok;nonexistent
+6 avenue Charles-de-Gaulle;5;5;0;0;0;nonexistent;Le Plessis-Robinson;;leplessisrobinson-charlesdegaulle-6;STATION;48.781849, 2.263931;92350;Le Plessis-Robinson/Charles-de-Gaulle/6;operational;;1;station;ok;nonexistent
+51 avenue Aristide Briand;2;2;0;0;0;nonexistent;Le Plessis-Robinson;;leplessisrobinson-aristidebriand-51;STATION;48.779984, 2.25945;92350;Le Plessis-Robinson/Aristide Briand/51;operational;;2;station;ok;nonexistent
+1 avenue Hoche;5;5;0;0;0;nonexistent;Nanterre;;nanterre-hoche-1;STATION;48.899865, 2.200758;92000;Nanterre/Hoche/1;operational;;2;station;ok;nonexistent
+73 boulevard Diderot;1;1;0;1;0;nonexistent;Paris;;paris-diderot-73;STATION;48.8473293, 2.3856322;75012;Paris/Diderot/73;operational;;2;station;ok;nonexistent
+66 rue de la Jonquière;1;1;0;0;0;operational;Paris;;paris-jonquiere-66;STATION;48.8941653, 2.3211581;75017;Paris/Jonquière/66;operational;;5;station;ok;nonexistent
+1 rue de Chanaleilles;0;0;0;0;0;operational;Paris;;paris-chanaleilles-1;STATION;48.8530403, 2.3190123;75007;Paris/Chanaleilles/1;operational;;5;station;ok;nonexistent
+2 rue du Général Renault;2;2;0;0;0;nonexistent;Paris;;paris-renault-2;STATION;48.8611413, 2.3781941;75011;Paris/Renault/2;operational;;4;station;ok;nonexistent
+2 rue Marie-Andrée Lagroua Weil-Halle;2;2;0;0;0;nonexistent;Paris;;paris-marieandreelagrouaweilhalle-2;STATION;48.8276393, 2.3810867;75013;Paris/Marie-Andrée Lagroua Weil-Halle/2;operational;;1;station;ok;nonexistent
+1 rue Croulebarbe;3;3;0;0;0;operational;Paris;;paris-croulebarbe-1;STATION;48.8345242, 2.353056;75013;Paris/Croulebarbe/1;operational;;2;station;ok;nonexistent
+24 rue des Frigos;2;2;0;0;1;operational;Paris;;paris-frigos-24;STATION;48.83171, 2.379246;75013;Paris/Frigos/24;operational;;3;station;ok;nonexistent
+1 rue Jean Sicard;2;2;0;0;1;operational;Paris;;paris-jeansicard-1;STATION;48.8287264, 2.2989061;75015;Paris/Jean Sicard/1;operational;;2;station;ok;nonexistent
+44 rue Sébastien Mercier;3;3;0;0;0;nonexistent;Paris;;paris-sebastienmercier-44;STATION;48.8439105, 2.2796928;75015;Paris/Sébastien Mercier/44;operational;;2;station;ok;nonexistent
+22 Voie au Lard;3;3;0;0;0;nonexistent;Rungis;;rungis-lard-22;STATION;48.75017, 2.347478;94150;Rungis/Lard/22;operational;;2;station;ok;nonexistent
+43 avenue Robert Schuman;1;1;0;1;0;operational;Rungis;;rungis-robertschuman-43;STATION;48.7459296, 2.3546196;94150;Rungis/Robert Schuman/43;operational;;2;station;ok;nonexistent
+2 rue de la Coussaye;5;5;0;0;0;nonexistent;Enghien-les-Bains;;enghienlesbains-coussaye-2;STATION;48.966392, 2.3016471;95880;Enghien-les-Bains/Coussaye/2;operational;;1;station;ok;nonexistent
+4 rue Bicheret;3;3;1;0;0;nonexistent;Argenteuil;;argenteuil-bicheret-4;STATION;48.9465353, 2.2561063;95100;Argenteuil/Bicheret/4;operational;;1;station;ok;nonexistent
+66 boulevard Rodin;6;6;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-rodin-66;STATION;48.8189324, 2.258027;92130;Issy-les-Moulineaux/Rodin/66;operational;;0;station;ok;nonexistent
+Quai de Sèvres;6;6;0;0;0;nonexistent;Sèvres;;sevres-manufacturenationale-1;PARKING;48.82829, 2.22518;92310;Sèvres/Manufacture Nationale/1;operational;;0;station;ok;nonexistent
+2 rue des Couronnes;0;0;0;0;0;nonexistent;Paris;;paris-couronnes-2;STATION;48.8691502, 2.3808934;75020;Paris/Couronnes/2;operational;;3;station;ok;nonexistent
+5 rue Frédérick Lemaître;1;1;0;1;0;operational;Paris;;paris-fredericklemaitre-5;STATION;48.8736473, 2.3911798;75020;Paris/Frédérick Lemaître/5;operational;;4;station;ok;nonexistent
+50 rue Emile Zola;6;6;0;0;0;nonexistent;Bezons;;bezons-emilezola-50;STATION;48.9237996, 2.2092127;95870;Bezons/Emile Zola/50;operational;;0;station;ok;nonexistent
+9 Avenue Paul Signac;1;1;0;0;0;nonexistent;Montreuil;;montreuil-paulsignac-9;STATION;48.86833, 2.45224261;93100;Montreuil/Paul Signac/9;operational;;5;station;ok;nonexistent
+30 rue Marcel Bontemps;0;0;0;2;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-marcelbontemps-30;STATION;48.8261171, 2.2407124;92100;Boulogne-Billancourt/Marcel Bontemps/30;operational;;0;station;ok;nonexistent
+2 rue Paul Cézanne;2;2;0;1;0;nonexistent;Neuilly-Plaisance;;neuillyplaisance-paulcezanne-2;SPACE;48.85206, 2.514694;93360;Neuilly-Plaisance/Paul Cézanne/2;operational;;0;full_station;ok;broken
+115 avenue de Malakoff;4;4;0;0;0;nonexistent;Paris;;paris-malakoff-115;STATION;48.8735, 2.284304;75016;Paris/Malakoff/115;operational;;2;station;ok;nonexistent
+14 rue Censier;0;0;0;0;1;operational;Paris;;paris-censier-14;STATION;48.8411067, 2.3544235;75005;Paris/Censier/14;operational;;4;station;ok;nonexistent
+98 rue de Turenne;0;0;1;0;1;operational;Paris;;paris-turenne-98;STATION;48.8623505, 2.3648513;75003;Paris/Turenne/98;operational;;4;station;ok;nonexistent
+13 Rue Ernest Psichari;2;2;0;0;1;operational;Paris;;paris-ernestpsichari-13;STATION;48.8561697, 2.3080758;75007;Paris/Ernest Psichari/13;operational;;3;station;ok;nonexistent
+3 Rue Yves Toudic;0;0;0;0;0;broken;Paris;;paris-yvestoudic-3;STATION;48.8693526, 2.3641292;75010;Paris/Yves Toudic/3;broken;;0;station;closed;nonexistent
+3 avenue Léo Lagrange;5;5;0;0;0;nonexistent;Montreuil;;montreuil-leolagrange-3;STATION;48.876546, 2.4553035;93100;Montreuil/Léo Lagrange/3;operational;;2;station;ok;nonexistent
+5 rue Vauban;6;6;0;0;0;nonexistent;Versailles;;versailles-vauban-5;STATION;48.79979, 2.153535;78000;Versailles/Vauban/5;operational;;1;station;ok;nonexistent
+68 rue de la Bonne Aventure;4;4;0;1;0;nonexistent;Versailles;;versailles-bonneaventure-68;STATION;48.8067886, 2.1518748;78000;Versailles/Bonne Aventure/68;operational;;0;station;ok;nonexistent
+12 avenue Rabelais;5;5;1;0;0;nonexistent;Fontenay-Sous-Bois;;fontenaysousbois-rabelais-12;SPACE;48.851361, 2.476065;94120;Fontenay-Sous-Bois/Rabelais/12;operational;;0;full_station;ok;operational
+52 avenue Ambroisine;5;5;0;0;0;nonexistent;Champigny-sur-Marne;;champignysurmarne-ambroisine-52;STATION;48.8156249, 2.5620424;94500;Champigny-sur-Marne/Ambroisine/52;operational;;1;station;ok;nonexistent
+12 avenue de la gare;0;0;0;0;0;nonexistent;Bièvres;;bievres-gare-12;STATION;48.7521371, 2.2163546;91570;Bièvres/Gare/12;future;2016-07-27T15:32:21;0;station;scheduled;nonexistent
+9 rue Jacques Mazaud;2;2;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -1), Station A (sur la gauche);levalloisperret-verdun-parking2;PARKING;48.8942184, 2.2865153;92300;Levallois-Perret/Verdun/Parking2;operational;;4;station;ok;nonexistent
+10 rue Jacques Mazaud;3;3;0;0;0;nonexistent;Levallois-Perret;Station en parking (niv -1), Station B (sur la droite);levalloisperret-verdun-parking;PARKING;48.8943845, 2.2875773;92300;Levallois-Perret/Verdun/Parking;operational;;2;station;ok;nonexistent
+33 rue de Lourmel;5;5;0;0;0;nonexistent;Paris;;paris-lourmel-33;STATION;48.8482831, 2.2905269;75015;Paris/Lourmel/33;operational;;0;station;ok;nonexistent
+62 rue Jean-Jacques Rousseau;0;0;0;0;0;nonexistent;Paris;;paris-jeanjacquesrousseau-62;STATION;48.8640888, 2.3437342;75001;Paris/Jean-Jacques Rousseau/62;operational;;1;station;ok;nonexistent
+53 avenue de Versailles;4;4;0;0;0;operational;Paris;;paris-versailles-53;STATION;48.8478619, 2.2745266;75016;Paris/Versailles/53;operational;;0;station;ok;nonexistent
+6 rue de l'Ouest;2;2;0;0;0;nonexistent;Paris;;paris-ouest-6;STATION;48.8374265, 2.3221143;75014;Paris/Ouest/6;operational;;3;station;ok;nonexistent
+93 avenue Victor Hugo;1;1;0;0;1;operational;Paris;;paris-victorhugo-93;STATION;48.8693047, 2.28449225;75016;Paris/Victor Hugo/93;operational;;2;station;ok;nonexistent
+20 Rue Frida Kahlo;0;0;0;0;0;nonexistent;Saint-Ouen;;saintouen-fridakahlo-20;PARKING;48.9135418, 2.329473;93400;Saint-Ouen/Frida Kahlo/20;future;2016-01-06T10:35:38;0;station;scheduled;nonexistent
+17 rue Guynemer;0;0;0;1;0;nonexistent;Dugny;;dugny-guynemer-17;SPACE;48.9544945, 2.41658664;93440;Dugny/Guynemer/17;operational;;5;full_station;ok;broken
+2 avenue du Val de Fontenay;3;3;0;0;0;nonexistent;Fontenay-Sous-Bois;;fontenaysousbois-valdefontenay-2;STATION;48.8528247, 2.4869085;94120;Fontenay-Sous-Bois/Val de Fontenay/2;operational;;3;station;ok;nonexistent
+17 voie Sonia Delaunay;1;1;0;2;0;nonexistent;Champigny-sur-Marne;;champignysurmarne-soniadelaunay-17;STATION;48.8137519, 2.5275887;94500;Champigny-sur-Marne/Sonia Delaunay/17;operational;;2;station;ok;nonexistent
+3 rue Eugène Martin;1;1;0;0;0;nonexistent;Fontenay-Sous-Bois;;fontenaysousbois-eugenemartin-3;STATION;48.8490266, 2.4577249;94120;Fontenay-Sous-Bois/Eugène Martin/3;operational;;6;station;ok;nonexistent
+4 boulevard Anatole France;2;2;0;0;0;nonexistent;Boulogne-Billancourt;;boulognebillancourt-anatolefrance-4;STATION;48.8504347, 2.2370458;92100;Boulogne-Billancourt/Anatole France/4;operational;;3;station;ok;nonexistent
+9 rue Philibert Delorme;0;0;0;0;0;nonexistent;Guyancourt;;guyancourt-philibertdelorme-9;STATION;48.7666671, 2.0786283;78280;Guyancourt/Philibert Delorme/9;future;2016-07-05T13:10:09;0;station;scheduled;nonexistent
+8 rue des Chantiers;3;3;0;0;0;nonexistent;Versailles;;versailles-chantiers-8;SPACE;48.7967202, 2.1363296;78000;Versailles/Chantiers/8;operational;;2;full_station;ok;operational
+1 rue de la Libération;4;4;0;0;0;nonexistent;Saclay;;saclay-liberation-1;STATION;48.7558796, 2.1693397;91400;Saclay/Libération/1;operational;;2;station;ok;nonexistent
+2 Place Charles de Gaulle;3;3;0;1;0;nonexistent;Vaucresson;;vaucresson-charlesdegaulle-2;STATION;48.8369714, 2.1526301;92420;Vaucresson/Charles de Gaulle/2;operational;;1;station;ok;nonexistent
+112 Rue Monge Bâtiment Lieu-dit;0;0;0;0;0;nonexistent;Paris;;paris-monge-112;STATION;48.8392739, 2.3507414;75005;Paris/Monge/112;operational;;5;station;ok;nonexistent
+10 place Jean Mermoz;3;3;1;0;0;nonexistent;Bois-Colombes;;boiscolombes-jeanmermoz-10;STATION;48.9218497, 2.2719672;92270;Bois-Colombes/Jean Mermoz/10;operational;;1;station;ok;nonexistent
+3 rue Gabriel Péri;5;5;0;1;0;nonexistent;Saint-Denis;;saintdenis-gabrielperi-3;STATION;48.9309502, 2.3561967;93200;Saint-Denis/Gabriel Péri/3;operational;;0;station;ok;nonexistent
+3 boulevard du Couchant;6;6;0;0;0;nonexistent;Nanterre;;nanterre-couchant-3;STATION;48.8917117, 2.1923088;92000;Nanterre/Couchant/3;operational;;0;station;ok;nonexistent
+215 rue Henri Barbusse;2;2;0;0;0;nonexistent;Argenteuil;;argenteuil-henribarbusse-215;STATION;48.93154, 2.229872;95100;Argenteuil/Henri Barbusse/215;operational;;3;station;ok;nonexistent
+32 rue Robert Marchand;7;7;0;0;0;nonexistent;Fontenay-aux-Roses;;fontenayauxroses-robertmarchand-32;STATION;48.78798, 2.29074;92260;Fontenay-aux-Roses/Robert Marchand/32;operational;;0;station;ok;nonexistent
+41 rue Martre;0;0;0;0;0;nonexistent;Clichy-la-Garenne;;clichylagarenne-martre-41;STATION;48.89961, 2.30920434;92210;Clichy-la-Garenne/Martre/41;operational;;5;station;ok;nonexistent
+122 boulevard Jean Jaurès;0;0;0;0;0;nonexistent;Clichy-la-Garenne;;clichylagarenne-jeanjaures-122;STATION;48.9057159, 2.301558;92210;Clichy-la-Garenne/Jean Jaurès/122;operational;;6;station;ok;nonexistent
+81 rue Jean Jaurès;5;5;0;0;0;nonexistent;Bezons;;bezons-jeanjaures-81;STATION;48.9241447, 2.22006154;95870;Bezons/Jean Jaurès/81;operational;;1;station;ok;nonexistent
+6 Rue Adolphe Yvon;3;3;0;0;1;operational;Paris;;paris-adolpheyvon-6;STATION;48.8644046, 2.2710381;75016;Paris/Adolphe Yvon/6;operational;;3;station;ok;nonexistent
+72 Avenue Paul Doumer;5;5;0;0;0;broken;Paris;;paris-pauldoumer-72;STATION;48.859756, 2.2786938;75016;Paris/Paul Doumer/72;operational;;0;station;ok;nonexistent
+10 rue Anatole de la Forge;0;0;0;0;0;nonexistent;Paris;;paris-anatoledelaforge-10;STATION;48.8758331, 2.292289;75017;Paris/Anatole de la Forge/10;future;2015-09-29T13:58:29;0;station;scheduled;nonexistent
+1 place Stalingrad;5;5;0;0;0;nonexistent;Neuilly-Plaisance;;neuillyplaisance-stalingrad-1;STATION;48.8729791, 2.5111812;93360;Neuilly-Plaisance/Stalingrad/1;operational;;2;station;ok;nonexistent
+8 avenue du Capitaine Tarron;4;4;0;0;0;nonexistent;Vélizy-Villacoublay;;velizyvillacoublay-capitainetarron-8;STATION;48.78253, 2.19021034;78140;Vélizy-Villacoublay/Capitaine Tarron/8;operational;;0;station;ok;nonexistent
+2 rue Marcel Dassault;6;6;0;0;0;nonexistent;Vélizy-Villacoublay;;velizyvillacoublay-marceldassault-2;STATION;48.785423, 2.212002;78140;Vélizy-Villacoublay/Marcel Dassault/2;operational;;0;station;ok;nonexistent
+2 rue de la République;3;3;0;0;0;operational;Montreuil;;montreuil-republique-2;STATION;48.8532555, 2.4231379;93100;Montreuil/République/2;operational;;2;station;ok;nonexistent
+4 rue Alexis de Tocqueville;5;5;1;0;0;nonexistent;Antony;;antony-alexisdetocqueville-4;STATION;48.7326149, 2.3141819;92160;Antony/Alexis de Tocqueville/4;operational;;1;station;ok;nonexistent
+9 rue Lobineau;0;0;0;0;0;broken;Paris;;paris-lobineau-9;STATION;48.8516002, 2.3361369;75006;Paris/Lobineau/9;broken;;0;station;closed;nonexistent
+22 Rue Mademoiselle;2;2;0;0;0;nonexistent;Paris;;paris-mademoiselle-22;STATION;48.8436147, 2.2961243;75015;Paris/Mademoiselle/22;operational;;5;station;ok;nonexistent
+106 avenue du Vieux Chemin de Saint-Denis;2;2;0;0;0;nonexistent;Gennevilliers;;gennevilliers-vieuxchemindesaintdenis-106;STATION;48.9314957, 2.31971359;92230;Gennevilliers/Vieux Chemin de Saint-Denis/106;operational;;4;station;ok;nonexistent
+2 Avenue Léon Blum;5;5;0;0;0;nonexistent;Le Plessis-Robinson;;leplessisrobinson-leonblum-2;SPACE;48.775973, 2.2557776;92350;Le Plessis-Robinson/Léon Blum/2;operational;;0;full_station;ok;broken
+4 rue Valiton;1;1;0;0;0;nonexistent;Clichy-la-Garenne;;clichylagarenne-valiton-4;STATION;48.9011918, 2.2991363;92110;Clichy-la-Garenne/Valiton/4;operational;;6;station;ok;nonexistent
+55 rue d'Auteuil;4;4;0;0;0;nonexistent;Paris;;paris-auteuil-55;STATION;48.8478106, 2.2636439;75016;Paris/Auteuil/55;operational;;2;station;ok;nonexistent
+53 Boulevard Foch;3;3;0;0;0;nonexistent;Épinay-sur-Seine;;epinaysurseine-foch-53;STATION;48.9491601, 2.3299319;93800;Épinay-sur-Seine/Foch/53;operational;;1;station;ok;nonexistent
+14 place Moreau David;5;5;1;0;0;nonexistent;Fontenay-Sous-Bois;;fontenaysousbois-moreaudavid-14;STATION;48.843853, 2.46482825;94120;Fontenay-Sous-Bois/Moreau David/14;operational;;1;station;ok;nonexistent
+6 avenue du Mesnil;1;1;0;0;0;nonexistent;Saint-Maur;;saintmaur-mesnil-6;STATION;48.7941012, 2.5141917;94100;Saint-Maur/Mesnil/6;operational;;2;station;ok;nonexistent
+55 Rue du Fossé Blanc;0;0;0;0;0;nonexistent;Gennevilliers;;gennevilliers-fosseblanc-55;STATION;48.9255866, 2.3071211;92230;Gennevilliers/Fossé Blanc/55;operational;;6;station;ok;nonexistent
+6 avenue de la Porte de Champerret;4;4;1;1;0;nonexistent;Paris;;paris-portedechamperret-6;PARKING;48.8862632, 2.2874511;75017;Paris/Porte de Champerret/6;operational;;0;station;ok;nonexistent
+72 Avenue Jean Jaurès;2;2;0;0;0;nonexistent;Meudon;;meudon-jeanjaures-72;STATION;48.8084458, 2.2410936;92190;Meudon/Jean Jaurès/72;operational;;3;station;ok;operational
+102 Boulevard Raymond Poincaré;0;0;0;0;0;nonexistent;Garches;;garches-raymondpoincare-102;STATION;48.838861, 2.1725502;92380;Garches/Raymond Poincaré/102;broken;;0;station;closed;nonexistent
+2 rue des Eaux;6;6;0;0;0;operational;Paris;;paris-eaux-2;STATION;48.8566608, 2.2856025;75016;Paris/Eaux/2;operational;;0;station;ok;nonexistent
+56 boulevard du Maréchal Foch;4;4;0;0;0;nonexistent;Verrières-le-Buisson;;verriereslebuisson-marechalfoch-56;STATION;48.7457426, 2.2691436;91370;Verrières-le-Buisson/Maréchal Foch/56;operational;;2;station;ok;nonexistent
+57 avenue du Roule;1;1;0;0;0;nonexistent;Neuilly-sur-Seine;;neuillysurseine-parmentier-parking;PARKING;48.88239, 2.27758;92200;Neuilly-sur-Seine/Parmentier/parking;operational;;0;station;ok;nonexistent
+17 allée Jean-Baptiste Preux;0;0;0;0;0;nonexistent;Alfortville;;alfortville-jeanbaptistepreux-17;STATION;48.77881, 2.424489;94140;Alfortville/Jean-Baptiste Preux/17;operational;;6;station;ok;nonexistent
+1 rue Velpeau;2;2;0;0;0;nonexistent;Paris;;paris-sevresbabylone-parking;PARKING;48.85159, 2.32496;75007;Paris/Sèvres Babylone/Parking;operational;;3;station;ok;nonexistent
+1 place du parvis Notre-Dame;1;1;0;0;0;nonexistent;Paris;;paris-notredame-parking;PARKING;48.85397, 2.3475;75004;Paris/Notre-Dame/Parking;operational;;3;station;ok;nonexistent
+11 rue d'Astorg;3;3;0;0;0;operational;Paris;;paris-astorg-11;STATION;48.8728324, 2.3193886;75008;Paris/Astorg/11;operational;;0;station;ok;nonexistent
+26 rue Saint-Vincent-de-Paul;0;0;0;0;0;broken;Paris;;paris-saintvincentdepaul-26;STATION;48.8815794, 2.3528177;75010;Paris/Saint-Vincent-de-Paul/26;broken;;0;station;closed;nonexistent
+27 rue du Port;5;5;0;0;0;nonexistent;Nogent-sur-Marne;;nogentsurmarne-port-27;STATION;48.83308, 2.489653;94130;Nogent-sur-Marne/Port/27;operational;;1;station;ok;nonexistent
+199 avenue Daumesnil;0;0;0;0;0;nonexistent;Paris;;paris-daumesnil-199;STATION;48.839307, 2.3971468;75012;Paris/Daumesnil/199;operational;;4;station;ok;nonexistent
+3 avenue Paul Langevin;4;4;0;0;0;nonexistent;Sceaux;;sceaux-paullangevin-3;STATION;48.78391, 2.292272;92330;Sceaux/Paul Langevin/3;operational;;0;station;ok;nonexistent
+33 boulevard Carnot;3;3;0;1;0;nonexistent;Bourg-la-Reine;;bourglareine-carnot-33;STATION;48.7772202, 2.3226319;92340;Bourg-la-Reine/Carnot/33;operational;;2;station;ok;nonexistent
+58 avenue Dutartre;1;1;0;0;0;nonexistent;Le Chesnay;;lechesnay-dutartre-58;STATION;48.82542, 2.118454;78150;Le Chesnay/Dutartre/58;operational;;5;station;ok;nonexistent
+19 rue de Chateaubriand;6;6;0;0;0;operational;Paris;;paris-chateaubriand-19;STATION;48.8734765, 2.3008886;75008;Paris/Chateaubriand/19;operational;;0;station;ok;nonexistent
+70 avenue Henri Martin;2;2;1;1;0;operational;Paris;;paris-henrimartin-70;STATION;48.8646007, 2.2754417;75116;Paris/Henri Martin/70;operational;;1;station;ok;nonexistent
+13 rue du conservatoire;2;2;0;0;0;operational;Paris;;paris-conservatoire-13;STATION;48.8735894, 2.3466528;75009;Paris/Conservatoire/13;operational;;1;station;ok;nonexistent
+1 place des Anciens combattants d'Afrique du Nord;4;4;0;0;0;nonexistent;Antony;;antony-ancienscombattantsdafriquedunord-1;STATION;48.75031, 2.300768;92160;Antony/Anciens combattants d'Afrique du Nord/1;operational;;1;station;ok;nonexistent
+16 Bis Avenue de Verdun;1;1;0;0;0;nonexistent;Saint-Maurice;;saintmaurice-verdun-16;STATION;48.82213, 2.422213;94410;Saint-Maurice/Verdun/16;operational;;4;station;ok;nonexistent
+147 rue de Paris;0;0;0;0;0;nonexistent;Charenton-le-Pont;;charentonlepont-paris-147;STATION;48.82687, 2.405368;94220;Charenton-le-Pont/Paris/147;operational;;4;station;ok;nonexistent
+37 rue Sainte-Croix de la Bretonnerie;2;2;0;0;0;nonexistent;Paris;;paris-saintecroixdelabretonnerie-37;STATION;48.8585045, 2.3543751;75004;Paris/Sainte-Croix de la Bretonnerie/37;operational;;0;station;ok;nonexistent
+42 rue Brunel;4;4;0;0;0;nonexistent;Paris;;paris-brunel-42;STATION;48.8788442, 2.2878557;75017;Paris/Brunel/42;operational;;0;station;ok;nonexistent
+196 boulevard Théophile Sueur;2;2;0;0;1;operational;Montreuil;;montreuil-theophilesueur-196;STATION;48.8622521, 2.4655666;93100;Montreuil/Théophile Sueur/196;operational;;4;station;ok;nonexistent
+11 rue Désiré Préaux;5;5;0;0;0;nonexistent;Montreuil;;montreuil-desirepreaux-11;STATION;48.8579785, 2.4315736;93100;Montreuil/Désiré Préaux/11;operational;;1;station;ok;nonexistent
+61 rue Pierre Brossolette;0;0;0;0;0;nonexistent;Montreuil;;montreuil-pierrebrossolette-61;STATION;48.86446, 2.479;93100;Montreuil/Pierre Brossolette/61;broken;;0;station;closed;nonexistent
+22 rue des Roches;6;6;0;0;0;nonexistent;Montreuil;;montreuil-roches-22;STATION;48.87371, 2.459867;93100;Montreuil/Roches/22;operational;;0;station;ok;nonexistent
+79 rue André Joineau;1;1;0;0;0;nonexistent;Le Pré-Saint-Gervais;;lepresaintgervais-andrejoineau-79;STATION;48.8832598, 2.4037001;93310;Le Pré-Saint-Gervais/André Joineau/79;operational;;4;station;ok;nonexistent
+192 rue de la Croix Nivert;0;0;0;0;0;nonexistent;Paris;;paris-croixnivert-192;STATION;48.8388875, 2.2892983;75015;Paris/Croix Nivert/192;operational;;4;station;ok;nonexistent
+1 rue Maryse Bastié;1;1;0;1;0;nonexistent;Aulnay-sous-bois;;aulnaysousbois-marysebastie-1;STATION;48.9592819, 2.4956263;93600;Aulnay-sous-bois/Maryse Bastié/1;operational;;5;station;ok;nonexistent
+82 rue de Crimée;4;4;0;0;0;operational;Paris;;paris-crimee-82;STATION;48.882362, 2.386574;75019;Paris/Crimée/82;operational;;2;station;ok;nonexistent
+1 rue de Sevran;0;0;0;0;0;nonexistent;Aulnay-sous-bois;;aulnaysousbois-sevran-1;STATION;48.94114, 2.49905038;93600;Aulnay-sous-bois/Sevran/1;broken;;0;station;closed;nonexistent
+1 rue Roubo;4;4;0;0;0;operational;Paris;;paris-roubo-1;STATION;48.8499672, 2.387246;75011;Paris/Roubo/1;operational;;1;station;ok;nonexistent
+1 rue Dewoittine;6;6;0;0;0;nonexistent;Vélizy-Villacoublay;;velizyvillacoublay-dewoittine-1;STATION;48.78283, 2.215441;78140;Vélizy-Villacoublay/Dewoittine/1;operational;;0;station;ok;nonexistent
+1 rue de Yélimané;3;3;0;0;0;nonexistent;Montreuil;;montreuil-yelimane-1;STATION;48.86016, 2.45811939;93100;Montreuil/Yélimané/1;operational;;2;station;ok;nonexistent
+11 rue Marguerite Long;1;1;0;0;0;operational;Paris;;paris-margueritelong-11;STATION;48.8914427, 2.3040083;75017;Paris/Marguerite Long/11;operational;;4;station;ok;nonexistent
+127 Quai de Stalingrad;4;4;0;0;0;nonexistent;Issy-les-Moulineaux;;issylesmoulineaux-stalingrad-127;STATION;48.8294787, 2.2610995;92130;Issy-les-Moulineaux/Stalingrad/127;operational;;0;station;ok;nonexistent
+5 rue de Bellechasse;2;2;0;0;0;nonexistent;Paris;;paris-bellechasse-5;STATION;48.8598769, 2.3245048;75007;Paris/Bellechasse/5;operational;;0;station;ok;nonexistent
+4 Chemin des petits marais;6;6;0;0;0;operational;Gennevilliers;;gennevilliers-petitsmarais-4;STATION;48.9462, 2.303365;92230;Gennevilliers/Petits marais/4;operational;;0;station;ok;nonexistent
+2 rue Pierre Renaudel;1;1;0;0;0;nonexistent;Champigny-sur-Marne;;champignysurmarne-pierrerenaudel-2;SPACE;48.813519, 2.5091593;94500;Champigny-sur-Marne/Pierre Renaudel/2;operational;;4;full_station;ok;operational
+214 boulevard de Stalingrad;0;0;0;0;0;nonexistent;Champigny-sur-Marne;;champignysurmarne-stalingrad-214;STATION;48.826117, 2.4956056;94500;Champigny-sur-Marne/Stalingrad/214;operational;;6;station;ok;nonexistent
+10 Rue du Ranelagh;4;4;0;0;0;nonexistent;Paris;;paris-ranelagh-10;STATION;48.8533737, 2.2794884;75016;Paris/Ranelagh/10;operational;;0;station;ok;nonexistent
+22 avenue Danielle Casanova;3;3;0;0;0;nonexistent;Champigny-sur-Marne;;champignysurmarne-daniellecasanova-22;STATION;48.8252176, 2.5124364;94500;Champigny-sur-Marne/Danielle Casanova/22;operational;;2;station;ok;nonexistent
+11 rue de vincennes;5;5;0;0;0;nonexistent;Montreuil;;montreuil-vincennes-11;STATION;48.8567808, 2.4378954;93100;Montreuil/Vincennes/11;operational;;1;station;ok;nonexistent
+87 rue Martre;0;0;0;0;0;nonexistent;Clichy la garenne;;clichylagarenne-martre-87;STATION;48.904288, 2.3047289;92210;Clichy la garenne/Martre/87;operational;;4;station;ok;nonexistent
+2 avenue Georges Pompidou;0;0;0;0;0;nonexistent;Sucy-en-Brie;;sucyenbrie-georgespompidou-2;STATION;48.7708852, 2.5227425;94370;Sucy-en-Brie/Georges Pompidou/2;future;2016-04-26T14:28:01;0;station;scheduled;nonexistent
+28 Route d'Argenteuil;1;1;0;0;0;operational;Epinay-sur-Seine;;epinaysurseine-argenteuil-28;STATION;48.9597855, 2.29140544;93800;Epinay-sur-Seine/Argenteuil/28;operational;;4;station;ok;nonexistent
+53 Grande Rue;3;3;0;0;0;nonexistent;Sèvres;;sevres-granderue-53;SPACE;48.8246453, 2.2141315;92310;Sèvres/Grande Rue/53;operational;;0;full_station;ok;operational
+282 avenue d'Argenteuil;0;0;0;0;0;nonexistent;Asnières-sur-Seine;;asnieressurseine-argenteuil-282;STATION;48.9234602, 2.2765664;92600;Asnières-sur-Seine/Argenteuil/282;future;2016-07-27T15:32:21;0;station;scheduled;nonexistent
+21 rue de l'Ecole de Medecine;0;0;0;0;0;nonexistent;Paris;;paris-ecoledemedecine-21;PARKING;48.8505961, 2.3406066;75006;Paris/Ecole de Medecine/21;future;2016-07-27T15:32:22;0;station;scheduled;nonexistent
+170 boulevard Pereire;6;6;0;0;0;operational;Paris;;paris-pereire-170;STATION;48.8824249, 2.2922036;75017;Paris/Pereire/170;operational;;0;station;ok;nonexistent
+1 rue André Theuriet;0;0;0;0;0;nonexistent;Bourg-la-Reine;;bourglareine-andretheuriet-1;SPACE;48.7797297, 2.3131491;92340;Bourg-la-Reine/André Theuriet/1;broken;;0;full_station;closed;broken
+20 Quai de la Mégisserie;0;0;0;0;0;nonexistent;Paris;;paris-megisserie-20;CENTER;48.858271, 2.34345;75001;Paris/Megisserie/20;nonexistent;;0;subs_center;ok;operational
+24 rue des Cheminots;0;0;0;0;0;nonexistent;Saint-Denis;;saintdenis-cheminots-24;STATION;48.9176833, 2.3525717;93200;Saint-Denis/Cheminots/24;future;2018-01-03T10:52:00;0;station;scheduled;nonexistent
